@@ -1,0 +1,75 @@
+[2018-06-07 21:02:38.9297] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker: 
+Executing action method NetCore.API.Controllers.ActivityController.GetAll (NetCore.API) with arguments ((null)) - ModelState is Valid
+
+[2018-06-10 14:44:27.2317] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker: 
+Authorization failed for the request at filter 'Microsoft.AspNetCore.Mvc.Authorization.AuthorizeFilter'.
+
+[2018-06-10 14:44:27.5673] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker: 
+Executed action NetCore.API.Controllers.ActivityController.GetAll (NetCore.API) in 638.5697ms
+
+[2018-06-10 16:10:45.6012] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker: 
+Authorization failed for the request at filter 'Microsoft.AspNetCore.Mvc.Authorization.AuthorizeFilter'.
+
+[2018-06-10 16:10:45.7912] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker: 
+Executed action NetCore.API.Controllers.ActivityController.GetAll (NetCore.API) in 370.246ms
+
+[2018-06-10 16:16:15.1298] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker: 
+Authorization failed for the request at filter 'Microsoft.AspNetCore.Mvc.Authorization.AuthorizeFilter'.
+
+[2018-06-10 16:16:15.3495] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker: 
+Executed action NetCore.API.Controllers.ActivityController.GetAll (NetCore.API) in 423.4395ms
+
+[2018-06-10 16:19:51.3288] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker: 
+Authorization failed for the request at filter 'Microsoft.AspNetCore.Mvc.Authorization.AuthorizeFilter'.
+
+[2018-06-10 16:20:13.5255] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker: 
+Executed action NetCore.API.Controllers.ActivityController.GetAll (NetCore.API) in 69985.5527ms
+
+[2018-06-10 16:33:38.2129] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker: 
+Authorization failed for the request at filter 'Microsoft.AspNetCore.Mvc.Authorization.AuthorizeFilter'.
+
+[2018-06-10 16:35:09.3192] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker: 
+Executed action NetCore.API.Controllers.ActivityController.GetAll (NetCore.API) in 109780.2533ms
+
+[2018-06-10 16:36:38.5057] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker: 
+Authorization failed for the request at filter 'Microsoft.AspNetCore.Mvc.Authorization.AuthorizeFilter'.
+
+[2018-06-10 16:41:53.2545] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker: 
+Authorization failed for the request at filter 'Microsoft.AspNetCore.Mvc.Authorization.AuthorizeFilter'.
+
+[2018-06-10 16:46:48.7604] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker: 
+Authorization failed for the request at filter 'Microsoft.AspNetCore.Mvc.Authorization.AuthorizeFilter'.
+
+[2018-06-10 16:47:44.6641] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker: 
+Executed action NetCore.API.Controllers.ActivityController.GetAll (NetCore.API) in 56923.8377ms
+
+[2018-06-10 17:00:21.0966] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker: 
+Executing action method NetCore.API.Controllers.ActivityController.GetAll (NetCore.API) with arguments ((null)) - ModelState is Valid
+
+[2018-06-10 17:00:22.2608] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker: 
+Executed action NetCore.API.Controllers.ActivityController.GetAll (NetCore.API) in 2020.5188ms
+
+[2018-06-10 17:01:05.5581] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker: 
+Executing action method NetCore.API.Controllers.ActivityController.GetAll (NetCore.API) with arguments ((null)) - ModelState is Valid
+
+[2018-06-10 17:01:05.6461] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker: 
+Executed action NetCore.API.Controllers.ActivityController.GetAll (NetCore.API) in 273.8046ms
+
+[2018-06-10 17:17:07.2397] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker: 
+Authorization failed for the request at filter 'Microsoft.AspNetCore.Mvc.Authorization.AuthorizeFilter'.
+
+[2018-06-10 17:17:07.3033] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker: 
+Executed action NetCore.API.Controllers.ActivityController.GetAll (NetCore.API) in 125.8321ms
+
+[2018-06-10 17:34:45.4368] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker: 
+Executing action method NetCore.API.Controllers.ActivityController.GetAll (NetCore.API) with arguments ((null)) - ModelState is Valid
+
+[2018-06-10 17:37:02.0436] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker: 
+Executed action NetCore.API.Controllers.ActivityController.GetAll (NetCore.API) in 137204.2341ms
+
+[2018-06-10 17:43:17.1048] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker: 
+Authorization failed for the request at filter 'NetCore.API.Authorization.ApiAuthorizationFilter'.
+
+[2018-06-10 17:43:17.1522] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker: 
+Executed action NetCore.API.Controllers.ValuesController.Get (NetCore.API) in 2335.6382ms
+

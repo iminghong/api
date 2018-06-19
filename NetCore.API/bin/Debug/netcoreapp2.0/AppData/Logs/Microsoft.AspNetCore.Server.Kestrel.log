@@ -1,0 +1,9 @@
+[2018-06-10 16:40:27.3011] WARN  Microsoft.AspNetCore.Server.Kestrel: 
+Heartbeat took longer than "00:00:01" at "06/10/2018 08:40:27 +00:00".
+
+[2018-06-10 16:50:52.3947] WARN  Microsoft.AspNetCore.Server.Kestrel: 
+Heartbeat took longer than "00:00:01" at "06/10/2018 08:50:52 +00:00".
+
+[2018-06-10 16:58:12.3849] WARN  Microsoft.AspNetCore.Server.Kestrel: 
+Heartbeat took longer than "00:00:01" at "06/10/2018 08:57:50 +00:00".
+

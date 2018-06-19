@@ -1,0 +1,20 @@
+[2018-06-07 21:02:39.6299] INFO  Microsoft.EntityFrameworkCore.Database.Command: 
+Executed DbCommand (216ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [a].[Act_ID], [a].[End_Date], [a].[IsGoing], [a].[Name], [a].[Start_Date]
+FROM [Activity] AS [a]
+
+[2018-06-10 17:00:22.1372] INFO  Microsoft.EntityFrameworkCore.Database.Command: 
+Executed DbCommand (415ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [a].[Act_ID], [a].[End_Date], [a].[IsGoing], [a].[Name], [a].[Start_Date]
+FROM [Activity] AS [a]
+
+[2018-06-10 17:01:05.6277] INFO  Microsoft.EntityFrameworkCore.Database.Command: 
+Executed DbCommand (25ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [a].[Act_ID], [a].[End_Date], [a].[IsGoing], [a].[Name], [a].[Start_Date]
+FROM [Activity] AS [a]
+
+[2018-06-10 17:37:01.9439] INFO  Microsoft.EntityFrameworkCore.Database.Command: 
+Executed DbCommand (40ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [a].[Act_ID], [a].[End_Date], [a].[IsGoing], [a].[Name], [a].[Start_Date]
+FROM [Activity] AS [a]
+

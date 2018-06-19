@@ -1,0 +1,156 @@
+[2018-04-26 11:23:10.6237] INFO  Microsoft.EntityFrameworkCore.Database.Command: 
+Executed DbCommand (123ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [p].[Appid], [p].[Proxyid], [p].[appkey], [p].[appsecret], [p].[timeout], [p].[updatetime]
+FROM [CFD_AppInfo] AS [p]
+WHERE [p].[Appid] = 8
+
+[2018-04-26 11:23:10.9450] INFO  Microsoft.EntityFrameworkCore.Database.Command: 
+Executed DbCommand (112ms) [Parameters=[@p1='?', @p0='?'], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+UPDATE [CFD_AppInfo] SET [updatetime] = @p0
+WHERE [Appid] = @p1;
+SELECT @@ROWCOUNT;
+
+[2018-04-26 11:25:44.7845] INFO  Microsoft.EntityFrameworkCore.Database.Command: 
+Executed DbCommand (78ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [p].[Appid], [p].[Proxyid], [p].[appkey], [p].[appsecret], [p].[timeout], [p].[updatetime]
+FROM [CFD_AppInfo] AS [p]
+WHERE [p].[Appid] = 8
+
+[2018-04-26 11:25:44.9811] INFO  Microsoft.EntityFrameworkCore.Database.Command: 
+Executed DbCommand (86ms) [Parameters=[@p1='?', @p0='?'], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+UPDATE [CFD_AppInfo] SET [updatetime] = @p0
+WHERE [Appid] = @p1;
+SELECT @@ROWCOUNT;
+
+[2018-04-26 11:34:06.2720] INFO  Microsoft.EntityFrameworkCore.Database.Command: 
+Executed DbCommand (74ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [p].[Appid], [p].[Proxyid], [p].[appkey], [p].[appsecret], [p].[timeout], [p].[updatetime]
+FROM [CFD_AppInfo] AS [p]
+WHERE [p].[Appid] = 8
+
+[2018-04-26 11:34:06.4701] INFO  Microsoft.EntityFrameworkCore.Database.Command: 
+Executed DbCommand (85ms) [Parameters=[@p1='?', @p0='?'], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+UPDATE [CFD_AppInfo] SET [updatetime] = @p0
+WHERE [Appid] = @p1;
+SELECT @@ROWCOUNT;
+
+[2018-04-26 11:34:47.5553] INFO  Microsoft.EntityFrameworkCore.Database.Command: 
+Executed DbCommand (60ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [p].[Appid], [p].[Proxyid], [p].[appkey], [p].[appsecret], [p].[timeout], [p].[updatetime]
+FROM [CFD_AppInfo] AS [p]
+WHERE [p].[Appid] = 8
+
+[2018-04-26 11:34:47.6534] INFO  Microsoft.EntityFrameworkCore.Database.Command: 
+Executed DbCommand (56ms) [Parameters=[@p1='?', @p0='?'], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+UPDATE [CFD_AppInfo] SET [updatetime] = @p0
+WHERE [Appid] = @p1;
+SELECT @@ROWCOUNT;
+
+[2018-04-26 11:36:30.3360] INFO  Microsoft.EntityFrameworkCore.Database.Command: 
+Executed DbCommand (76ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [p].[Appid], [p].[Proxyid], [p].[appkey], [p].[appsecret], [p].[timeout], [p].[updatetime]
+FROM [CFD_AppInfo] AS [p]
+WHERE [p].[Appid] = 8
+
+[2018-04-26 11:36:30.5291] INFO  Microsoft.EntityFrameworkCore.Database.Command: 
+Executed DbCommand (84ms) [Parameters=[@p1='?', @p0='?'], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+UPDATE [CFD_AppInfo] SET [updatetime] = @p0
+WHERE [Appid] = @p1;
+SELECT @@ROWCOUNT;
+
+[2018-04-26 11:37:31.0728] INFO  Microsoft.EntityFrameworkCore.Database.Command: 
+Executed DbCommand (76ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [p].[Appid], [p].[Proxyid], [p].[appkey], [p].[appsecret], [p].[timeout], [p].[updatetime]
+FROM [CFD_AppInfo] AS [p]
+WHERE [p].[Appid] = 8
+
+[2018-04-26 11:37:31.2615] INFO  Microsoft.EntityFrameworkCore.Database.Command: 
+Executed DbCommand (85ms) [Parameters=[@p1='?', @p0='?'], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+UPDATE [CFD_AppInfo] SET [updatetime] = @p0
+WHERE [Appid] = @p1;
+SELECT @@ROWCOUNT;
+
+[2018-04-26 11:55:15.8116] INFO  Microsoft.EntityFrameworkCore.Database.Command: 
+Executed DbCommand (73ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [p].[Appid], [p].[Proxyid], [p].[appkey], [p].[appsecret], [p].[timeout], [p].[updatetime]
+FROM [CFD_AppInfo] AS [p]
+WHERE [p].[Appid] = 8
+
+[2018-04-26 11:55:16.0102] INFO  Microsoft.EntityFrameworkCore.Database.Command: 
+Executed DbCommand (81ms) [Parameters=[@p1='?', @p0='?'], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+UPDATE [CFD_AppInfo] SET [updatetime] = @p0
+WHERE [Appid] = @p1;
+SELECT @@ROWCOUNT;
+
+[2018-04-26 11:57:11.0289] INFO  Microsoft.EntityFrameworkCore.Database.Command: 
+Executed DbCommand (62ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [p].[Appid], [p].[Proxyid], [p].[appkey], [p].[appsecret], [p].[timeout], [p].[updatetime]
+FROM [CFD_AppInfo] AS [p]
+WHERE [p].[Appid] = 8
+
+[2018-04-26 11:57:11.1460] INFO  Microsoft.EntityFrameworkCore.Database.Command: 
+Executed DbCommand (60ms) [Parameters=[@p1='?', @p0='?'], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+UPDATE [CFD_AppInfo] SET [updatetime] = @p0
+WHERE [Appid] = @p1;
+SELECT @@ROWCOUNT;
+
+[2018-04-26 11:58:56.7063] INFO  Microsoft.EntityFrameworkCore.Database.Command: 
+Executed DbCommand (80ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [p].[Appid], [p].[Proxyid], [p].[appkey], [p].[appsecret], [p].[timeout], [p].[updatetime]
+FROM [CFD_AppInfo] AS [p]
+WHERE [p].[Appid] = 8
+
+[2018-04-26 11:58:56.9074] INFO  Microsoft.EntityFrameworkCore.Database.Command: 
+Executed DbCommand (88ms) [Parameters=[@p1='?', @p0='?'], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+UPDATE [CFD_AppInfo] SET [updatetime] = @p0
+WHERE [Appid] = @p1;
+SELECT @@ROWCOUNT;
+
+[2018-04-26 11:58:58.9196] INFO  Microsoft.EntityFrameworkCore.Database.Command: 
+Executed DbCommand (56ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [p].[Appid], [p].[Proxyid], [p].[appkey], [p].[appsecret], [p].[timeout], [p].[updatetime]
+FROM [CFD_AppInfo] AS [p]
+WHERE [p].[Appid] = 8
+
+[2018-04-26 11:58:59.0275] INFO  Microsoft.EntityFrameworkCore.Database.Command: 
+Executed DbCommand (58ms) [Parameters=[@p1='?', @p0='?'], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+UPDATE [CFD_AppInfo] SET [updatetime] = @p0
+WHERE [Appid] = @p1;
+SELECT @@ROWCOUNT;
+
+[2018-04-26 12:00:22.4282] INFO  Microsoft.EntityFrameworkCore.Database.Command: 
+Executed DbCommand (89ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [p].[Appid], [p].[Proxyid], [p].[appkey], [p].[appsecret], [p].[timeout], [p].[updatetime]
+FROM [CFD_AppInfo] AS [p]
+WHERE [p].[Appid] = 8
+
+[2018-04-26 12:00:22.7695] INFO  Microsoft.EntityFrameworkCore.Database.Command: 
+Executed DbCommand (85ms) [Parameters=[@p1='?', @p0='?'], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+UPDATE [CFD_AppInfo] SET [updatetime] = @p0
+WHERE [Appid] = @p1;
+SELECT @@ROWCOUNT;
+
+[2018-04-26 12:00:42.5587] INFO  Microsoft.EntityFrameworkCore.Database.Command: 
+Executed DbCommand (78ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [p].[Appid], [p].[Proxyid], [p].[appkey], [p].[appsecret], [p].[timeout], [p].[updatetime]
+FROM [CFD_AppInfo] AS [p]
+WHERE [p].[Appid] = 8
+
+[2018-04-26 12:00:42.7852] INFO  Microsoft.EntityFrameworkCore.Database.Command: 
+Executed DbCommand (63ms) [Parameters=[@p1='?', @p0='?'], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+UPDATE [CFD_AppInfo] SET [updatetime] = @p0
+WHERE [Appid] = @p1;
+SELECT @@ROWCOUNT;
+

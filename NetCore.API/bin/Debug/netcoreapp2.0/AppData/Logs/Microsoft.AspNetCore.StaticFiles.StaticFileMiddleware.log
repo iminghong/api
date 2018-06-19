@@ -1,0 +1,24 @@
+[2018-06-07 21:01:10.2968] INFO  Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware: 
+Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+
+[2018-06-07 21:01:10.3111] INFO  Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware: 
+Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+
+[2018-06-07 21:01:10.3354] INFO  Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware: 
+Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+
+[2018-06-07 21:02:15.7552] INFO  Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware: 
+Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+
+[2018-06-10 14:41:16.7216] INFO  Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware: 
+Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+
+[2018-06-10 14:41:16.7443] INFO  Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware: 
+Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+
+[2018-06-10 14:41:16.7927] INFO  Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware: 
+Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+
+[2018-06-10 14:42:20.3143] INFO  Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware: 
+Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+

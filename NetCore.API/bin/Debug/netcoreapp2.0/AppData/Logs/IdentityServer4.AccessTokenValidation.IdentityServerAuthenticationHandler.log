@@ -1,0 +1,186 @@
+[2018-06-10 14:41:15.9426] DEBUG IdentityServer4.AccessTokenValidation.IdentityServerAuthenticationHandler: 
+AuthenticationScheme: Bearer was not authenticated.
+
+[2018-06-10 14:41:16.1418] DEBUG IdentityServer4.AccessTokenValidation.IdentityServerAuthenticationHandler: 
+AuthenticationScheme: Bearer was not authenticated.
+
+[2018-06-10 14:41:16.5686] DEBUG IdentityServer4.AccessTokenValidation.IdentityServerAuthenticationHandler: 
+AuthenticationScheme: Bearer was not authenticated.
+
+[2018-06-10 14:41:16.6588] DEBUG IdentityServer4.AccessTokenValidation.IdentityServerAuthenticationHandler: 
+AuthenticationScheme: Bearer was not authenticated.
+
+[2018-06-10 14:41:16.7225] DEBUG IdentityServer4.AccessTokenValidation.IdentityServerAuthenticationHandler: 
+AuthenticationScheme: Bearer was not authenticated.
+
+[2018-06-10 14:42:19.8151] DEBUG IdentityServer4.AccessTokenValidation.IdentityServerAuthenticationHandler: 
+AuthenticationScheme: Bearer was not authenticated.
+
+[2018-06-10 14:42:20.2793] DEBUG IdentityServer4.AccessTokenValidation.IdentityServerAuthenticationHandler: 
+AuthenticationScheme: Bearer was not authenticated.
+
+[2018-06-10 14:42:20.3809] DEBUG IdentityServer4.AccessTokenValidation.IdentityServerAuthenticationHandler: 
+AuthenticationScheme: Bearer was not authenticated.
+
+[2018-06-10 14:44:26.8641] DEBUG IdentityServer4.AccessTokenValidation.IdentityServerAuthenticationHandler: 
+AuthenticationScheme: Bearer was not authenticated.
+
+[2018-06-10 16:08:12.7264] DEBUG IdentityServer4.AccessTokenValidation.IdentityServerAuthenticationHandler: 
+AuthenticationScheme: Bearer was not authenticated.
+
+[2018-06-10 16:10:45.3763] DEBUG IdentityServer4.AccessTokenValidation.IdentityServerAuthenticationHandler: 
+AuthenticationScheme: Bearer was not authenticated.
+
+[2018-06-10 16:10:46.0934] DEBUG IdentityServer4.AccessTokenValidation.IdentityServerAuthenticationHandler: 
+AuthenticationScheme: Bearer was not authenticated.
+
+[2018-06-10 16:14:44.8756] DEBUG IdentityServer4.AccessTokenValidation.IdentityServerAuthenticationHandler: 
+AuthenticationScheme: Bearer was not authenticated.
+
+[2018-06-10 16:14:48.0203] DEBUG IdentityServer4.AccessTokenValidation.IdentityServerAuthenticationHandler: 
+AuthenticationScheme: Bearer was not authenticated.
+
+[2018-06-10 16:14:48.3322] DEBUG IdentityServer4.AccessTokenValidation.IdentityServerAuthenticationHandler: 
+AuthenticationScheme: Bearer was not authenticated.
+
+[2018-06-10 16:16:14.8791] DEBUG IdentityServer4.AccessTokenValidation.IdentityServerAuthenticationHandler: 
+AuthenticationScheme: Bearer was not authenticated.
+
+[2018-06-10 16:18:44.6537] DEBUG IdentityServer4.AccessTokenValidation.IdentityServerAuthenticationHandler: 
+AuthenticationScheme: Bearer was not authenticated.
+
+[2018-06-10 16:22:21.2794] DEBUG IdentityServer4.AccessTokenValidation.IdentityServerAuthenticationHandler: 
+AuthenticationScheme: Bearer was not authenticated.
+
+[2018-06-10 16:22:40.9095] DEBUG IdentityServer4.AccessTokenValidation.IdentityServerAuthenticationHandler: 
+AuthenticationScheme: Bearer was not authenticated.
+
+[2018-06-10 16:22:45.1872] DEBUG IdentityServer4.AccessTokenValidation.IdentityServerAuthenticationHandler: 
+AuthenticationScheme: Bearer was not authenticated.
+
+[2018-06-10 16:28:21.5203] DEBUG IdentityServer4.AccessTokenValidation.IdentityServerAuthenticationHandler: 
+AuthenticationScheme: Bearer was not authenticated.
+
+[2018-06-10 16:28:25.9149] DEBUG IdentityServer4.AccessTokenValidation.IdentityServerAuthenticationHandler: 
+AuthenticationScheme: Bearer was not authenticated.
+
+[2018-06-10 16:28:29.3070] DEBUG IdentityServer4.AccessTokenValidation.IdentityServerAuthenticationHandler: 
+AuthenticationScheme: Bearer was not authenticated.
+
+[2018-06-10 16:30:49.7207] DEBUG IdentityServer4.AccessTokenValidation.IdentityServerAuthenticationHandler: 
+AuthenticationScheme: Bearer was not authenticated.
+
+[2018-06-10 16:30:54.9826] DEBUG IdentityServer4.AccessTokenValidation.IdentityServerAuthenticationHandler: 
+AuthenticationScheme: Bearer was not authenticated.
+
+[2018-06-10 16:30:57.9830] DEBUG IdentityServer4.AccessTokenValidation.IdentityServerAuthenticationHandler: 
+AuthenticationScheme: Bearer was not authenticated.
+
+[2018-06-10 16:33:11.0422] DEBUG IdentityServer4.AccessTokenValidation.IdentityServerAuthenticationHandler: 
+AuthenticationScheme: Bearer was not authenticated.
+
+[2018-06-10 16:36:37.5154] DEBUG IdentityServer4.AccessTokenValidation.IdentityServerAuthenticationHandler: 
+AuthenticationScheme: Bearer was not authenticated.
+
+[2018-06-10 16:40:27.5198] DEBUG IdentityServer4.AccessTokenValidation.IdentityServerAuthenticationHandler: 
+AuthenticationScheme: Bearer was not authenticated.
+
+[2018-06-10 16:40:31.2966] DEBUG IdentityServer4.AccessTokenValidation.IdentityServerAuthenticationHandler: 
+AuthenticationScheme: Bearer was not authenticated.
+
+[2018-06-10 16:40:34.8788] DEBUG IdentityServer4.AccessTokenValidation.IdentityServerAuthenticationHandler: 
+AuthenticationScheme: Bearer was not authenticated.
+
+[2018-06-10 16:41:52.1606] DEBUG IdentityServer4.AccessTokenValidation.IdentityServerAuthenticationHandler: 
+AuthenticationScheme: Bearer was not authenticated.
+
+[2018-06-10 16:45:50.6809] DEBUG IdentityServer4.AccessTokenValidation.IdentityServerAuthenticationHandler: 
+AuthenticationScheme: Bearer was not authenticated.
+
+[2018-06-10 16:45:54.6543] DEBUG IdentityServer4.AccessTokenValidation.IdentityServerAuthenticationHandler: 
+AuthenticationScheme: Bearer was not authenticated.
+
+[2018-06-10 16:45:57.7617] DEBUG IdentityServer4.AccessTokenValidation.IdentityServerAuthenticationHandler: 
+AuthenticationScheme: Bearer was not authenticated.
+
+[2018-06-10 16:46:47.6783] DEBUG IdentityServer4.AccessTokenValidation.IdentityServerAuthenticationHandler: 
+AuthenticationScheme: Bearer was not authenticated.
+
+[2018-06-10 16:47:44.6414] INFO  IdentityServer4.AccessTokenValidation.IdentityServerAuthenticationHandler: 
+AuthenticationScheme: Bearer was challenged.
+
+[2018-06-10 16:50:52.6066] DEBUG IdentityServer4.AccessTokenValidation.IdentityServerAuthenticationHandler: 
+AuthenticationScheme: Bearer was not authenticated.
+
+[2018-06-10 16:50:55.9360] DEBUG IdentityServer4.AccessTokenValidation.IdentityServerAuthenticationHandler: 
+AuthenticationScheme: Bearer was not authenticated.
+
+[2018-06-10 16:50:56.2600] DEBUG IdentityServer4.AccessTokenValidation.IdentityServerAuthenticationHandler: 
+AuthenticationScheme: Bearer was not authenticated.
+
+[2018-06-10 16:59:35.7062] DEBUG IdentityServer4.AccessTokenValidation.IdentityServerAuthenticationHandler: 
+AuthenticationScheme: Bearer was not authenticated.
+
+[2018-06-10 16:59:38.9121] DEBUG IdentityServer4.AccessTokenValidation.IdentityServerAuthenticationHandler: 
+AuthenticationScheme: Bearer was not authenticated.
+
+[2018-06-10 16:59:39.2511] DEBUG IdentityServer4.AccessTokenValidation.IdentityServerAuthenticationHandler: 
+AuthenticationScheme: Bearer was not authenticated.
+
+[2018-06-10 17:00:20.1634] INFO  IdentityServer4.AccessTokenValidation.IdentityServerAuthenticationHandler: 
+AuthenticationScheme: Bearer was successfully authenticated.
+
+[2018-06-10 17:01:05.3377] INFO  IdentityServer4.AccessTokenValidation.IdentityServerAuthenticationHandler: 
+AuthenticationScheme: Bearer was successfully authenticated.
+
+[2018-06-10 17:17:07.0666] DEBUG IdentityServer4.AccessTokenValidation.IdentityServerAuthenticationHandler: 
+AuthenticationScheme: Bearer was not authenticated.
+
+[2018-06-10 17:17:07.3033] INFO  IdentityServer4.AccessTokenValidation.IdentityServerAuthenticationHandler: 
+AuthenticationScheme: Bearer was challenged.
+
+[2018-06-10 17:23:59.1805] DEBUG IdentityServer4.AccessTokenValidation.IdentityServerAuthenticationHandler: 
+AuthenticationScheme: Bearer was not authenticated.
+
+[2018-06-10 17:24:02.3518] DEBUG IdentityServer4.AccessTokenValidation.IdentityServerAuthenticationHandler: 
+AuthenticationScheme: Bearer was not authenticated.
+
+[2018-06-10 17:24:02.6899] DEBUG IdentityServer4.AccessTokenValidation.IdentityServerAuthenticationHandler: 
+AuthenticationScheme: Bearer was not authenticated.
+
+[2018-06-10 17:30:58.1247] DEBUG IdentityServer4.AccessTokenValidation.IdentityServerAuthenticationHandler: 
+AuthenticationScheme: Bearer was not authenticated.
+
+[2018-06-10 17:31:01.3278] DEBUG IdentityServer4.AccessTokenValidation.IdentityServerAuthenticationHandler: 
+AuthenticationScheme: Bearer was not authenticated.
+
+[2018-06-10 17:31:01.6800] DEBUG IdentityServer4.AccessTokenValidation.IdentityServerAuthenticationHandler: 
+AuthenticationScheme: Bearer was not authenticated.
+
+[2018-06-10 17:33:51.7937] DEBUG IdentityServer4.AccessTokenValidation.IdentityServerAuthenticationHandler: 
+AuthenticationScheme: Bearer was not authenticated.
+
+[2018-06-10 17:33:55.0439] DEBUG IdentityServer4.AccessTokenValidation.IdentityServerAuthenticationHandler: 
+AuthenticationScheme: Bearer was not authenticated.
+
+[2018-06-10 17:33:55.3783] DEBUG IdentityServer4.AccessTokenValidation.IdentityServerAuthenticationHandler: 
+AuthenticationScheme: Bearer was not authenticated.
+
+[2018-06-10 17:34:44.7597] INFO  IdentityServer4.AccessTokenValidation.IdentityServerAuthenticationHandler: 
+AuthenticationScheme: Bearer was successfully authenticated.
+
+[2018-06-10 17:37:19.7704] INFO  IdentityServer4.AccessTokenValidation.IdentityServerAuthenticationHandler: 
+AuthenticationScheme: Bearer was successfully authenticated.
+
+[2018-06-10 17:43:04.5650] DEBUG IdentityServer4.AccessTokenValidation.IdentityServerAuthenticationHandler: 
+AuthenticationScheme: Bearer was not authenticated.
+
+[2018-06-10 17:43:07.7867] DEBUG IdentityServer4.AccessTokenValidation.IdentityServerAuthenticationHandler: 
+AuthenticationScheme: Bearer was not authenticated.
+
+[2018-06-10 17:43:08.1320] DEBUG IdentityServer4.AccessTokenValidation.IdentityServerAuthenticationHandler: 
+AuthenticationScheme: Bearer was not authenticated.
+
+[2018-06-10 17:43:14.7680] DEBUG IdentityServer4.AccessTokenValidation.IdentityServerAuthenticationHandler: 
+AuthenticationScheme: Bearer was not authenticated.
+

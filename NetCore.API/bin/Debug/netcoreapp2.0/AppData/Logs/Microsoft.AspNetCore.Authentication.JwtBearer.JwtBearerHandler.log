@@ -1,0 +1,72 @@
+[2018-06-10 14:45:24.1147] INFO  Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler: 
+Successfully validated the token.
+
+[2018-06-10 14:45:24.1147] INFO  Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler: 
+AuthenticationScheme: BearerIdentityServerAuthenticationJwt was successfully authenticated.
+
+[2018-06-10 16:09:15.9351] INFO  Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler: 
+Successfully validated the token.
+
+[2018-06-10 16:09:15.9450] INFO  Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler: 
+AuthenticationScheme: BearerIdentityServerAuthenticationJwt was successfully authenticated.
+
+[2018-06-10 16:32:19.3709] INFO  Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler: 
+Successfully validated the token.
+
+[2018-06-10 16:32:19.3824] INFO  Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler: 
+AuthenticationScheme: BearerIdentityServerAuthenticationJwt was successfully authenticated.
+
+[2018-06-10 16:47:33.0536] INFO  Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler: 
+AuthenticationScheme: BearerIdentityServerAuthenticationJwt was challenged.
+
+[2018-06-10 16:51:36.8181] INFO  Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler: 
+Successfully validated the token.
+
+[2018-06-10 16:51:36.8344] INFO  Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler: 
+AuthenticationScheme: BearerIdentityServerAuthenticationJwt was successfully authenticated.
+
+[2018-06-10 16:54:19.1444] INFO  Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler: 
+Successfully validated the token.
+
+[2018-06-10 16:54:19.1552] INFO  Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler: 
+AuthenticationScheme: BearerIdentityServerAuthenticationJwt was successfully authenticated.
+
+[2018-06-10 16:56:00.1223] INFO  Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler: 
+Successfully validated the token.
+
+[2018-06-10 16:56:00.1377] INFO  Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler: 
+AuthenticationScheme: BearerIdentityServerAuthenticationJwt was successfully authenticated.
+
+[2018-06-10 16:56:53.1003] INFO  Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler: 
+Successfully validated the token.
+
+[2018-06-10 16:56:53.1135] INFO  Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler: 
+AuthenticationScheme: BearerIdentityServerAuthenticationJwt was successfully authenticated.
+
+[2018-06-10 17:00:20.0869] INFO  Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler: 
+Successfully validated the token.
+
+[2018-06-10 17:00:20.0869] INFO  Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler: 
+AuthenticationScheme: BearerIdentityServerAuthenticationJwt was successfully authenticated.
+
+[2018-06-10 17:01:05.2725] INFO  Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler: 
+Successfully validated the token.
+
+[2018-06-10 17:01:05.2931] INFO  Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler: 
+AuthenticationScheme: BearerIdentityServerAuthenticationJwt was successfully authenticated.
+
+[2018-06-10 17:17:07.2941] INFO  Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler: 
+AuthenticationScheme: BearerIdentityServerAuthenticationJwt was challenged.
+
+[2018-06-10 17:34:44.7043] INFO  Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler: 
+Successfully validated the token.
+
+[2018-06-10 17:34:44.7080] INFO  Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler: 
+AuthenticationScheme: BearerIdentityServerAuthenticationJwt was successfully authenticated.
+
+[2018-06-10 17:37:19.7312] INFO  Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler: 
+Successfully validated the token.
+
+[2018-06-10 17:37:19.7386] INFO  Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler: 
+AuthenticationScheme: BearerIdentityServerAuthenticationJwt was successfully authenticated.
+

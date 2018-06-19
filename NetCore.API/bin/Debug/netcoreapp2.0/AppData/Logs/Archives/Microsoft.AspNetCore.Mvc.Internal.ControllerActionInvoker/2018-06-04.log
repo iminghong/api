@@ -1,0 +1,81 @@
+[2018-04-26 11:08:43.4695] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker: 
+Executing action method NetCore.API.Controllers.ValuesController.Get (NetCore.API) with arguments ((null)) - ModelState is Valid
+
+[2018-04-26 11:08:43.7667] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker: 
+Executed action NetCore.API.Controllers.ValuesController.Get (NetCore.API) in 523.3507ms
+
+[2018-04-26 11:15:15.0807] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker: 
+Executing action method NetCore.API.Controllers.CFDAppInfoController.Get (NetCore.API) with arguments ((null)) - ModelState is Valid
+
+[2018-04-26 11:23:09.7228] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker: 
+Executing action method NetCore.API.Controllers.CFDAppInfoController.Get (NetCore.API) with arguments ((null)) - ModelState is Valid
+
+[2018-04-26 11:23:11.0175] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker: 
+Executed action NetCore.API.Controllers.CFDAppInfoController.Get (NetCore.API) in 1592.1349ms
+
+[2018-04-26 11:25:44.2921] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker: 
+Executing action method NetCore.API.Controllers.CFDAppInfoController.Get (NetCore.API) with arguments ((null)) - ModelState is Valid
+
+[2018-04-26 11:25:45.0702] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker: 
+Executed action NetCore.API.Controllers.CFDAppInfoController.Get (NetCore.API) in 1057.1241ms
+
+[2018-04-26 11:33:59.0609] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker: 
+Executing action method NetCore.API.Controllers.CFDAppInfoController.Get (NetCore.API) with arguments ((null)) - ModelState is Valid
+
+[2018-04-26 11:34:06.5602] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker: 
+Executed action NetCore.API.Controllers.CFDAppInfoController.Get (NetCore.API) in 7776.173ms
+
+[2018-04-26 11:34:11.1279] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker: 
+Executing action method NetCore.API.Controllers.CFDAppInfoController.Get (NetCore.API) with arguments ((null)) - ModelState is Valid
+
+[2018-04-26 11:35:32.5095] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker: 
+Executed action NetCore.API.Controllers.CFDAppInfoController.Get (NetCore.API) in 81435.6506ms
+
+[2018-04-26 11:36:28.2576] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker: 
+Executing action method NetCore.API.Controllers.CFDAppInfoController.Get (NetCore.API) with arguments ((null)) - ModelState is Valid
+
+[2018-04-26 11:36:30.6250] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker: 
+Executed action NetCore.API.Controllers.CFDAppInfoController.Get (NetCore.API) in 2701.0076ms
+
+[2018-04-26 11:37:28.7201] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker: 
+Executing action method NetCore.API.Controllers.CFDAppInfoController.Get (NetCore.API) with arguments ((null)) - ModelState is Valid
+
+[2018-04-26 11:37:31.3478] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker: 
+Executed action NetCore.API.Controllers.CFDAppInfoController.Get (NetCore.API) in 2917.06ms
+
+[2018-04-26 11:54:59.5158] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker: 
+Executing action method NetCore.API.Controllers.CFDAppInfoController.Get (NetCore.API) with arguments ((null)) - ModelState is Valid
+
+[2018-04-26 11:55:16.1376] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker: 
+Executed action NetCore.API.Controllers.CFDAppInfoController.Get (NetCore.API) in 17068.2028ms
+
+[2018-04-26 11:56:51.7740] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker: 
+Executing action method NetCore.API.Controllers.CFDAppInfoController.Get (NetCore.API) with arguments ((null)) - ModelState is Valid
+
+[2018-04-26 11:57:29.4895] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker: 
+Executed action NetCore.API.Controllers.CFDAppInfoController.Get (NetCore.API) in 37779.6692ms
+
+[2018-04-26 11:58:56.1443] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker: 
+Executing action method NetCore.API.Controllers.CFDAppInfoController.Get (NetCore.API) with arguments ((null)) - ModelState is Valid
+
+[2018-04-26 11:58:57.0391] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker: 
+Executed action NetCore.API.Controllers.CFDAppInfoController.Get (NetCore.API) in 1306.5917ms
+
+[2018-04-26 11:58:58.8515] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker: 
+Executing action method NetCore.API.Controllers.CFDAppInfoController.Get (NetCore.API) with arguments ((null)) - ModelState is Valid
+
+[2018-04-26 11:58:59.0778] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker: 
+Executed action NetCore.API.Controllers.CFDAppInfoController.Get (NetCore.API) in 304.6308ms
+
+[2018-04-26 12:00:21.7419] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker: 
+Executing action method NetCore.API.Controllers.CFDAppInfoController.Get (NetCore.API) with arguments ((null)) - ModelState is Valid
+
+[2018-04-26 12:00:22.9799] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker: 
+Executed action NetCore.API.Controllers.CFDAppInfoController.Get (NetCore.API) in 1755.7865ms
+
+[2018-04-26 12:00:42.4234] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker: 
+Executing action method NetCore.API.Controllers.CFDAppInfoController.Get (NetCore.API) with arguments ((null)) - ModelState is Valid
+
+[2018-04-26 12:00:42.9379] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker: 
+Executed action NetCore.API.Controllers.CFDAppInfoController.Get (NetCore.API) in 554.5776ms
+

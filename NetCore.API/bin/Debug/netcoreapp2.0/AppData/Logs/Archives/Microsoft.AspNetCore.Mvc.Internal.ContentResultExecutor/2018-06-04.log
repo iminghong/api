@@ -1,0 +1,36 @@
+[2018-04-26 11:23:11.0175] INFO  Microsoft.AspNetCore.Mvc.Internal.ContentResultExecutor: 
+Executing ContentResult with HTTP Response ContentType of text/plain; charset=utf-8
+
+[2018-04-26 11:25:45.0478] INFO  Microsoft.AspNetCore.Mvc.Internal.ContentResultExecutor: 
+Executing ContentResult with HTTP Response ContentType of text/plain; charset=utf-8
+
+[2018-04-26 11:34:06.5376] INFO  Microsoft.AspNetCore.Mvc.Internal.ContentResultExecutor: 
+Executing ContentResult with HTTP Response ContentType of text/plain; charset=utf-8
+
+[2018-04-26 11:35:32.4899] INFO  Microsoft.AspNetCore.Mvc.Internal.ContentResultExecutor: 
+Executing ContentResult with HTTP Response ContentType of text/plain; charset=utf-8
+
+[2018-04-26 11:36:30.5986] INFO  Microsoft.AspNetCore.Mvc.Internal.ContentResultExecutor: 
+Executing ContentResult with HTTP Response ContentType of text/plain; charset=utf-8
+
+[2018-04-26 11:37:31.3328] INFO  Microsoft.AspNetCore.Mvc.Internal.ContentResultExecutor: 
+Executing ContentResult with HTTP Response ContentType of text/plain; charset=utf-8
+
+[2018-04-26 11:55:16.1096] INFO  Microsoft.AspNetCore.Mvc.Internal.ContentResultExecutor: 
+Executing ContentResult with HTTP Response ContentType of text/plain; charset=utf-8
+
+[2018-04-26 11:57:29.4753] INFO  Microsoft.AspNetCore.Mvc.Internal.ContentResultExecutor: 
+Executing ContentResult with HTTP Response ContentType of text/plain; charset=utf-8
+
+[2018-04-26 11:58:57.0003] INFO  Microsoft.AspNetCore.Mvc.Internal.ContentResultExecutor: 
+Executing ContentResult with HTTP Response ContentType of text/plain; charset=utf-8
+
+[2018-04-26 11:58:59.0778] INFO  Microsoft.AspNetCore.Mvc.Internal.ContentResultExecutor: 
+Executing ContentResult with HTTP Response ContentType of text/plain; charset=utf-8
+
+[2018-04-26 12:00:22.9472] INFO  Microsoft.AspNetCore.Mvc.Internal.ContentResultExecutor: 
+Executing ContentResult with HTTP Response ContentType of text/plain; charset=utf-8
+
+[2018-04-26 12:00:42.9164] INFO  Microsoft.AspNetCore.Mvc.Internal.ContentResultExecutor: 
+Executing ContentResult with HTTP Response ContentType of text/plain; charset=utf-8
+

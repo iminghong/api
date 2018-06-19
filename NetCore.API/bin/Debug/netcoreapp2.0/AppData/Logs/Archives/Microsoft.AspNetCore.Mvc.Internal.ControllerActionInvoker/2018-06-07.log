@@ -1,0 +1,18 @@
+[2018-06-04 21:28:01.7697] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker: 
+Executing action method NetCore.API.Controllers.ActivityController.GetAll (NetCore.API) with arguments ((null)) - ModelState is Valid
+
+[2018-06-04 21:29:47.4987] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker: 
+Executing action method NetCore.API.Controllers.ActivityController.GetAll (NetCore.API) with arguments ((null)) - ModelState is Valid
+
+[2018-06-04 21:33:27.7332] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker: 
+Executing action method NetCore.API.Controllers.ActivityController.GetAll (NetCore.API) with arguments ((null)) - ModelState is Valid
+
+[2018-06-04 21:33:28.1805] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker: 
+Executed action NetCore.API.Controllers.ActivityController.GetAll (NetCore.API) in 787.875ms
+
+[2018-06-04 21:35:22.9332] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker: 
+Executing action method NetCore.API.Controllers.ValuesController.Post (NetCore.API) with arguments (string) - ModelState is Valid
+
+[2018-06-04 21:35:22.9380] INFO  Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker: 
+Executed action NetCore.API.Controllers.ValuesController.Post (NetCore.API) in 54.1014ms
+

@@ -1,0 +1,12 @@
+[2018-06-04 21:33:28.1129] INFO  Microsoft.AspNetCore.Mvc.Internal.ContentResultExecutor: 
+Executing ContentResult with HTTP Response ContentType of text/plain; charset=utf-8
+
+[2018-06-10 17:00:22.2400] INFO  Microsoft.AspNetCore.Mvc.Internal.ContentResultExecutor: 
+Executing ContentResult with HTTP Response ContentType of text/plain; charset=utf-8
+
+[2018-06-10 17:01:05.6461] INFO  Microsoft.AspNetCore.Mvc.Internal.ContentResultExecutor: 
+Executing ContentResult with HTTP Response ContentType of text/plain; charset=utf-8
+
+[2018-06-10 17:37:02.0211] INFO  Microsoft.AspNetCore.Mvc.Internal.ContentResultExecutor: 
+Executing ContentResult with HTTP Response ContentType of text/plain; charset=utf-8
+

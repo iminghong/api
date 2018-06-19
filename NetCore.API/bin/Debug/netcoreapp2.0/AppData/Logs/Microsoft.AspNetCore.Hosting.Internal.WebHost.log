@@ -1,0 +1,504 @@
+[2018-06-07 21:01:09.4230] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:58563/swagger  
+
+[2018-06-07 21:01:09.5641] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 191.3004ms 301 
+
+[2018-06-07 21:01:09.6005] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:58563/swagger/  
+
+[2018-06-07 21:01:09.6752] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 71.8847ms 200 text/html
+
+[2018-06-07 21:01:10.2553] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:58563/swagger/swagger-ui.css  
+
+[2018-06-07 21:01:10.2838] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:58563/swagger/swagger-ui-bundle.js  
+
+[2018-06-07 21:01:10.2838] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:58563/swagger/swagger-ui-standalone-preset.js  
+
+[2018-06-07 21:01:10.3882] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 145.5436ms 200 text/css
+
+[2018-06-07 21:01:10.4171] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 128.7063ms 200 application/javascript
+
+[2018-06-07 21:01:10.4545] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 192.7201ms 200 application/javascript
+
+[2018-06-07 21:02:15.4218] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:58563/swagger/swagger-ui-standalone-preset.js.map  
+
+[2018-06-07 21:02:15.6380] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 216.7771ms 404 
+
+[2018-06-07 21:02:15.7315] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:58563/swagger/favicon-32x32.png  
+
+[2018-06-07 21:02:15.7630] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 30.5888ms 200 image/png
+
+[2018-06-07 21:02:15.7630] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:58563/swagger/v1/swagger.json  
+
+[2018-06-07 21:02:15.9232] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 153.3934ms 200 application/json
+
+[2018-06-07 21:02:38.0778] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:58563/api/Activity/GetAll  
+
+[2018-06-10 14:41:15.3762] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:9000/swagger  
+
+[2018-06-10 14:41:16.0407] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 693.3204ms 301 
+
+[2018-06-10 14:41:16.0609] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:9000/swagger/  
+
+[2018-06-10 14:41:16.1746] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 113.72ms 200 text/html
+
+[2018-06-10 14:41:16.3784] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:9000/swagger/swagger-ui.css  
+
+[2018-06-10 14:41:16.4337] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:9000/swagger/swagger-ui-bundle.js  
+
+[2018-06-10 14:41:16.4337] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:9000/swagger/swagger-ui-standalone-preset.js  
+
+[2018-06-10 14:41:16.8018] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 423.4882ms 200 text/css
+
+[2018-06-10 14:41:16.8338] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 399.484ms 200 application/javascript
+
+[2018-06-10 14:41:16.8558] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 426.4587ms 200 application/javascript
+
+[2018-06-10 14:42:19.7607] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:9000/swagger/swagger-ui-standalone-preset.js.map  
+
+[2018-06-10 14:42:20.0667] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 315.1464ms 404 
+
+[2018-06-10 14:42:20.1721] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:9000/swagger/favicon-32x32.png  
+
+[2018-06-10 14:42:20.2793] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:9000/swagger/v1/swagger.json  
+
+[2018-06-10 14:42:20.3431] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 147.8442ms 200 image/png
+
+[2018-06-10 14:42:20.5595] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 294.8411ms 200 application/json
+
+[2018-06-10 14:44:26.8017] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:9000/api/Activity/GetAll  
+
+[2018-06-10 14:44:27.8344] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 1032.5738ms 500 text/html; charset=utf-8
+
+[2018-06-10 14:45:23.4744] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:9000/api/Activity/GetAll  
+
+[2018-06-10 14:45:24.3571] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 882.9804ms 500 text/html; charset=utf-8
+
+[2018-06-10 14:49:51.8659] FATAL Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Application startup exception
+System.InvalidOperationException: No service for type 'Microsoft.AspNetCore.Mvc.ApiExplorer.IApiDescriptionGroupCollectionProvider' has been registered.
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService(IServiceProvider provider, Type serviceType)
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService[T](IServiceProvider provider)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenOptions.CreateSwaggerProvider(IServiceProvider serviceProvider)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitFactory(FactoryCallSite factoryCallSite, ServiceProvider provider)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(IServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitTransient(TransientCallSite transientCallSite, ServiceProvider provider)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(IServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.<>c__DisplayClass22_0.<RealizeService>b__0(ServiceProvider provider)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.GetService(Type serviceType)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.ConstructorMatcher.CreateInstance(IServiceProvider provider)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.<>c__DisplayClass4_0.<UseMiddleware>b__0(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.Internal.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Hosting.Internal.WebHost.BuildApplication()
+
+[2018-06-10 14:49:52.5234] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:9000/swagger/  
+
+[2018-06-10 14:49:52.5754] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 75.8183ms 500 text/html; charset=utf-8
+
+[2018-06-10 14:54:35.0998] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:9000/swagger/  
+
+[2018-06-10 14:54:35.2235] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 153.422ms 200 text/html
+
+[2018-06-10 14:54:38.2224] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:9000/swagger/swagger-ui-standalone-preset.js.map  
+
+[2018-06-10 14:54:38.3644] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 141.9942ms 404 
+
+[2018-06-10 14:54:38.4973] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:9000/swagger/v1/swagger.json  
+
+[2018-06-10 14:54:38.6657] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 166.4007ms 200 application/json
+
+[2018-06-10 14:59:01.7015] FATAL Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Application startup exception
+System.InvalidOperationException: No service for type 'Microsoft.AspNetCore.Mvc.ApiExplorer.IApiDescriptionGroupCollectionProvider' has been registered.
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService(IServiceProvider provider, Type serviceType)
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService[T](IServiceProvider provider)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenOptions.CreateSwaggerProvider(IServiceProvider serviceProvider)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitFactory(FactoryCallSite factoryCallSite, ServiceProvider provider)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(IServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitTransient(TransientCallSite transientCallSite, ServiceProvider provider)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(IServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.<>c__DisplayClass22_0.<RealizeService>b__0(ServiceProvider provider)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.GetService(Type serviceType)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.ConstructorMatcher.CreateInstance(IServiceProvider provider)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.<>c__DisplayClass4_0.<UseMiddleware>b__0(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.Internal.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Hosting.Internal.WebHost.BuildApplication()
+
+[2018-06-10 14:59:03.7867] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:9000/swagger/  
+
+[2018-06-10 14:59:03.8363] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 71.7087ms 500 text/html; charset=utf-8
+
+[2018-06-10 16:08:12.2322] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:9000/swagger/  
+
+[2018-06-10 16:08:12.9461] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 741.9543ms 404 
+
+[2018-06-10 16:09:15.3731] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:9000/api/Activity/GetAll  
+
+[2018-06-10 16:09:16.2261] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 850.4249ms 500 text/html; charset=utf-8
+
+[2018-06-10 16:10:45.3121] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:9000/api/Activity/GetAll  
+
+[2018-06-10 16:10:45.8855] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 571.2139ms 500 text/html; charset=utf-8
+
+[2018-06-10 16:10:46.0365] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:9000/favicon.ico  
+
+[2018-06-10 16:10:46.1050] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 68.845ms 404 
+
+[2018-06-10 16:14:44.5415] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:9000/swagger/  
+
+[2018-06-10 16:14:44.9715] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 461.777ms 200 text/html
+
+[2018-06-10 16:14:47.9592] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:9000/swagger/swagger-ui-standalone-preset.js.map  
+
+[2018-06-10 16:14:48.1519] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 192.4535ms 404 
+
+[2018-06-10 16:14:48.2655] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:9000/swagger/v1/swagger.json  
+
+[2018-06-10 16:14:48.4640] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 198.1896ms 200 application/json
+
+[2018-06-10 16:16:14.8118] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:9000/api/Activity/GetAll  
+
+[2018-06-10 16:16:15.4900] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 677.3573ms 500 text/html; charset=utf-8
+
+[2018-06-10 16:17:23.2630] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:9000/api/Activity/GetAll  
+
+[2018-06-10 16:20:13.6309] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 170368.0099ms 500 text/html; charset=utf-8
+
+[2018-06-10 16:22:17.1566] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:9000/swagger/  
+
+[2018-06-10 16:22:21.3707] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 4242.0536ms 200 text/html
+
+[2018-06-10 16:22:24.3910] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:9000/swagger/swagger-ui-standalone-preset.js.map  
+
+[2018-06-10 16:22:41.0673] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 16676.093ms 404 
+
+[2018-06-10 16:22:42.9833] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:9000/swagger/v1/swagger.json  
+
+[2018-06-10 16:24:08.9188] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 85933.7532ms 200 application/json
+
+[2018-06-10 16:28:17.9283] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:9000/swagger/  
+
+[2018-06-10 16:28:21.6073] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 3710.1096ms 200 text/html
+
+[2018-06-10 16:28:24.6661] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:9000/swagger/swagger-ui-standalone-preset.js.map  
+
+[2018-06-10 16:28:26.0359] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 1384.9142ms 404 
+
+[2018-06-10 16:28:28.2152] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:9000/swagger/v1/swagger.json  
+
+[2018-06-10 16:29:19.9981] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 51787.3541ms 200 application/json
+
+[2018-06-10 16:30:47.3218] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:9000/swagger/  
+
+[2018-06-10 16:30:49.8062] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 2513.8174ms 200 text/html
+
+[2018-06-10 16:30:52.8613] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:9000/swagger/swagger-ui-standalone-preset.js.map  
+
+[2018-06-10 16:30:55.1137] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 2261.8172ms 404 
+
+[2018-06-10 16:30:57.0690] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:9000/swagger/v1/swagger.json  
+
+[2018-06-10 16:31:15.3757] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 18305.8293ms 200 application/json
+
+[2018-06-10 16:32:10.5130] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:9000/api/Activity/GetAll  
+
+[2018-06-10 16:32:19.6498] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 9136.1461ms 500 text/html; charset=utf-8
+
+[2018-06-10 16:32:50.2528] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:9000/api/Activity/GetAll  
+
+[2018-06-10 16:36:15.9305] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 205677.4501ms 500 text/html; charset=utf-8
+
+[2018-06-10 16:36:34.4953] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:9000/api/Activity/GetAll  
+
+[2018-06-10 16:40:18.2822] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:9000/swagger/  
+
+[2018-06-10 16:40:27.6125] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 9357.6496ms 200 text/html
+
+[2018-06-10 16:40:30.5447] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:9000/swagger/swagger-ui-standalone-preset.js.map  
+
+[2018-06-10 16:40:31.4441] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 898.0814ms 404 
+
+[2018-06-10 16:40:31.5760] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:9000/swagger/v1/swagger.json  
+
+[2018-06-10 16:40:39.8078] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 8230.1767ms 200 application/json
+
+[2018-06-10 16:41:49.5346] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:9000/api/Activity/GetAll  
+
+[2018-06-10 16:45:44.4445] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:9000/swagger/  
+
+[2018-06-10 16:45:50.7657] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 6349.1756ms 200 text/html
+
+[2018-06-10 16:45:53.7357] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:9000/swagger/swagger-ui-standalone-preset.js.map  
+
+[2018-06-10 16:45:54.7707] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 1048.8144ms 404 
+
+[2018-06-10 16:45:56.9280] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:9000/swagger/v1/swagger.json  
+
+[2018-06-10 16:46:03.0632] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 6136.929ms 200 application/json
+
+[2018-06-10 16:46:42.9934] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:9000/api/Activity/GetAll  
+
+[2018-06-10 16:47:44.6641] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 61676.6424ms 401 
+
+[2018-06-10 16:50:47.5859] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:9000/swagger/  
+
+[2018-06-10 16:50:52.6898] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 5134.1277ms 200 text/html
+
+[2018-06-10 16:50:55.8688] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:9000/swagger/swagger-ui-standalone-preset.js.map  
+
+[2018-06-10 16:50:56.0736] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 205.1681ms 404 
+
+[2018-06-10 16:50:56.1965] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:9000/swagger/v1/swagger.json  
+
+[2018-06-10 16:51:01.9062] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 5708.7811ms 200 application/json
+
+[2018-06-10 16:51:36.3259] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:9000/api/Activity/GetAll  
+
+[2018-06-10 16:51:37.1001] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 773.0221ms 500 text/html; charset=utf-8
+
+[2018-06-10 16:54:19.0146] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:9000/api/Activity/GetAll  
+
+[2018-06-10 16:54:19.3441] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 330.3ms 500 text/html; charset=utf-8
+
+[2018-06-10 16:55:26.7606] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:9000/api/Activity/GetAll  
+
+[2018-06-10 16:56:00.3242] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 33591.0359ms 500 text/html; charset=utf-8
+
+[2018-06-10 16:56:13.5642] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:9000/api/Activity/GetAll  
+
+[2018-06-10 16:58:17.3284] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 123764.4382ms 500 text/html; charset=utf-8
+
+[2018-06-10 16:59:21.6955] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:9000/swagger/  
+
+[2018-06-10 16:59:35.7921] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 14130.9551ms 200 text/html
+
+[2018-06-10 16:59:38.8477] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:9000/swagger/swagger-ui-standalone-preset.js.map  
+
+[2018-06-10 16:59:39.0549] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 206.0785ms 404 
+
+[2018-06-10 16:59:39.1834] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:9000/swagger/v1/swagger.json  
+
+[2018-06-10 16:59:39.3805] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 196.5597ms 200 application/json
+
+[2018-06-10 17:00:19.5684] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:9000/api/Activity/GetAll  
+
+[2018-06-10 17:00:22.2608] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 2699.387ms 200 text/plain; charset=utf-8
+
+[2018-06-10 17:01:05.1437] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:9000/api/Activity/GetAll  
+
+[2018-06-10 17:01:05.6461] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 516.1593ms 200 text/plain; charset=utf-8
+
+[2018-06-10 17:17:06.8943] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:9000/api/Activity/GetAll  
+
+[2018-06-10 17:17:07.3033] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 437.0018ms 401 
+
+[2018-06-10 17:23:58.8201] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:9000/swagger/  
+
+[2018-06-10 17:23:59.2755] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 485.6756ms 200 text/html
+
+[2018-06-10 17:24:02.2866] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:9000/swagger/swagger-ui-standalone-preset.js.map  
+
+[2018-06-10 17:24:02.4953] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 207.822ms 404 
+
+[2018-06-10 17:24:02.6235] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:9000/swagger/v1/swagger.json  
+
+[2018-06-10 17:30:57.7904] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:9000/swagger/  
+
+[2018-06-10 17:30:58.2021] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 440.8283ms 200 text/html
+
+[2018-06-10 17:31:01.2612] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:9000/swagger/swagger-ui-standalone-preset.js.map  
+
+[2018-06-10 17:31:01.4799] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 218.1242ms 404 
+
+[2018-06-10 17:31:01.6083] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:9000/swagger/v1/swagger.json  
+
+[2018-06-10 17:33:51.4713] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:9000/swagger/  
+
+[2018-06-10 17:33:51.8765] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 435.867ms 200 text/html
+
+[2018-06-10 17:33:54.9840] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:9000/swagger/swagger-ui-standalone-preset.js.map  
+
+[2018-06-10 17:33:55.1836] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 199.6186ms 404 
+
+[2018-06-10 17:33:55.3111] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:9000/swagger/v1/swagger.json  
+
+[2018-06-10 17:33:55.5101] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 198.0294ms 200 application/json
+
+[2018-06-10 17:34:44.1374] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:9000/api/Activity/GetAll  
+
+[2018-06-10 17:37:02.0436] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 137910.9853ms 200 text/plain; charset=utf-8
+
+[2018-06-10 17:37:19.5700] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:9000/api/Activity/GetAll  
+
+[2018-06-10 17:43:04.2290] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:9000/swagger/  
+
+[2018-06-10 17:43:04.6597] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 459.0843ms 200 text/html
+
+[2018-06-10 17:43:07.7171] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:9000/swagger/swagger-ui-standalone-preset.js.map  
+
+[2018-06-10 17:43:07.9284] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 211.5749ms 404 
+
+[2018-06-10 17:43:08.0538] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:9000/swagger/v1/swagger.json  
+
+[2018-06-10 17:43:08.2642] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 210.5525ms 200 application/json
+
+[2018-06-10 17:43:14.6964] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:9000/api/Values  
+
+[2018-06-10 17:43:17.1522] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 2461.7556ms 401 application/json; charset=utf-8
+

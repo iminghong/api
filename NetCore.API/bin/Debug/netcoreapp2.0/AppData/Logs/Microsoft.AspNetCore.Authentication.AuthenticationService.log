@@ -1,0 +1,1218 @@
+[2018-06-10 14:41:16.0076] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1126381174266789888,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\",\r\n  \"String\": \"\\\"Bearer\\\"\"\r\n}",
+  "ResultValue": "{\r\n  \"Result\": {\r\n    \"Succeeded\": false,\r\n    \"Ticket\": null,\r\n    \"Principal\": null,\r\n    \"Properties\": null,\r\n    \"Failure\": null,\r\n    \"None\": true\r\n  },\r\n  \"Id\": 73,\r\n  \"Exception\": null,\r\n  \"Status\": 5,\r\n  \"IsCanceled\": false,\r\n  \"IsCompleted\": true,\r\n  \"IsCompletedSuccessfully\": true,\r\n  \"CreationOptions\": 0,\r\n  \"AsyncState\": null,\r\n  \"IsFaulted\": false\r\n}",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-06-10 14:41:15",
+  "ExecTime": "71"
+}
+
+[2018-06-10 14:41:16.1418] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1126381203928907776,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\",\r\n  \"String\": \"\\\"Bearer\\\"\"\r\n}",
+  "ResultValue": "{\r\n  \"Result\": {\r\n    \"Succeeded\": false,\r\n    \"Ticket\": null,\r\n    \"Principal\": null,\r\n    \"Properties\": null,\r\n    \"Failure\": null,\r\n    \"None\": true\r\n  },\r\n  \"Id\": 78,\r\n  \"Exception\": null,\r\n  \"Status\": 5,\r\n  \"IsCanceled\": false,\r\n  \"IsCompleted\": true,\r\n  \"IsCompletedSuccessfully\": true,\r\n  \"CreationOptions\": 0,\r\n  \"AsyncState\": null,\r\n  \"IsFaulted\": false\r\n}",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-06-10 14:41:16",
+  "ExecTime": "4"
+}
+
+[2018-06-10 14:41:16.5686] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1126381228289425408,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\",\r\n  \"String\": \"\\\"Bearer\\\"\"\r\n}",
+  "ResultValue": "{\r\n  \"Result\": {\r\n    \"Succeeded\": false,\r\n    \"Ticket\": null,\r\n    \"Principal\": null,\r\n    \"Properties\": null,\r\n    \"Failure\": null,\r\n    \"None\": true\r\n  },\r\n  \"Id\": 87,\r\n  \"Exception\": null,\r\n  \"Status\": 5,\r\n  \"IsCanceled\": false,\r\n  \"IsCompleted\": true,\r\n  \"IsCompletedSuccessfully\": true,\r\n  \"CreationOptions\": 0,\r\n  \"AsyncState\": null,\r\n  \"IsFaulted\": false\r\n}",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-06-10 14:41:16",
+  "ExecTime": "27"
+}
+
+[2018-06-10 14:41:16.6588] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1126381230101364736,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\",\r\n  \"String\": \"\\\"Bearer\\\"\"\r\n}",
+  "ResultValue": "{\r\n  \"Result\": {\r\n    \"Succeeded\": false,\r\n    \"Ticket\": null,\r\n    \"Principal\": null,\r\n    \"Properties\": null,\r\n    \"Failure\": null,\r\n    \"None\": true\r\n  },\r\n  \"Id\": 88,\r\n  \"Exception\": null,\r\n  \"Status\": 5,\r\n  \"IsCanceled\": false,\r\n  \"IsCompleted\": true,\r\n  \"IsCompletedSuccessfully\": true,\r\n  \"CreationOptions\": 0,\r\n  \"AsyncState\": null,\r\n  \"IsFaulted\": false\r\n}",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-06-10 14:41:16",
+  "ExecTime": "58"
+}
+
+[2018-06-10 14:41:16.7726] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1126381237751775232,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\",\r\n  \"String\": \"\\\"Bearer\\\"\"\r\n}",
+  "ResultValue": "{\r\n  \"Result\": {\r\n    \"Succeeded\": false,\r\n    \"Ticket\": null,\r\n    \"Principal\": null,\r\n    \"Properties\": null,\r\n    \"Failure\": null,\r\n    \"None\": true\r\n  },\r\n  \"Id\": 89,\r\n  \"Exception\": null,\r\n  \"Status\": 5,\r\n  \"IsCanceled\": false,\r\n  \"IsCompleted\": true,\r\n  \"IsCompletedSuccessfully\": true,\r\n  \"CreationOptions\": 0,\r\n  \"AsyncState\": null,\r\n  \"IsFaulted\": false\r\n}",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-06-10 14:41:16",
+  "ExecTime": "75"
+}
+
+[2018-06-10 14:42:19.8166] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1126385478629326848,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\",\r\n  \"String\": \"\\\"Bearer\\\"\"\r\n}",
+  "ResultValue": "{\r\n  \"Result\": {\r\n    \"Succeeded\": false,\r\n    \"Ticket\": null,\r\n    \"Principal\": null,\r\n    \"Properties\": null,\r\n    \"Failure\": null,\r\n    \"None\": true\r\n  },\r\n  \"Id\": 187,\r\n  \"Exception\": null,\r\n  \"Status\": 5,\r\n  \"IsCanceled\": false,\r\n  \"IsCompleted\": true,\r\n  \"IsCompletedSuccessfully\": true,\r\n  \"CreationOptions\": 0,\r\n  \"AsyncState\": null,\r\n  \"IsFaulted\": false\r\n}",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-06-10 14:42:19",
+  "ExecTime": "3"
+}
+
+[2018-06-10 14:42:20.2793] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1126385506211069952,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\",\r\n  \"String\": \"\\\"Bearer\\\"\"\r\n}",
+  "ResultValue": "{\r\n  \"Result\": {\r\n    \"Succeeded\": false,\r\n    \"Ticket\": null,\r\n    \"Principal\": null,\r\n    \"Properties\": null,\r\n    \"Failure\": null,\r\n    \"None\": true\r\n  },\r\n  \"Id\": 193,\r\n  \"Exception\": null,\r\n  \"Status\": 5,\r\n  \"IsCanceled\": false,\r\n  \"IsCompleted\": true,\r\n  \"IsCompletedSuccessfully\": true,\r\n  \"CreationOptions\": 0,\r\n  \"AsyncState\": null,\r\n  \"IsFaulted\": false\r\n}",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-06-10 14:42:20",
+  "ExecTime": "25"
+}
+
+[2018-06-10 14:42:20.3809] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1126385513525936128,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\",\r\n  \"String\": \"\\\"Bearer\\\"\"\r\n}",
+  "ResultValue": "{\r\n  \"Result\": {\r\n    \"Succeeded\": false,\r\n    \"Ticket\": null,\r\n    \"Principal\": null,\r\n    \"Properties\": null,\r\n    \"Failure\": null,\r\n    \"None\": true\r\n  },\r\n  \"Id\": 194,\r\n  \"Exception\": null,\r\n  \"Status\": 5,\r\n  \"IsCanceled\": false,\r\n  \"IsCompleted\": true,\r\n  \"IsCompletedSuccessfully\": true,\r\n  \"CreationOptions\": 0,\r\n  \"AsyncState\": null,\r\n  \"IsFaulted\": false\r\n}",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-06-10 14:42:20",
+  "ExecTime": "24"
+}
+
+[2018-06-10 14:44:26.8641] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1126394004139409408,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\",\r\n  \"String\": \"\\\"Bearer\\\"\"\r\n}",
+  "ResultValue": "{\r\n  \"Result\": {\r\n    \"Succeeded\": false,\r\n    \"Ticket\": null,\r\n    \"Principal\": null,\r\n    \"Properties\": null,\r\n    \"Failure\": null,\r\n    \"None\": true\r\n  },\r\n  \"Id\": 200,\r\n  \"Exception\": null,\r\n  \"Status\": 5,\r\n  \"IsCanceled\": false,\r\n  \"IsCompleted\": true,\r\n  \"IsCompletedSuccessfully\": true,\r\n  \"CreationOptions\": 0,\r\n  \"AsyncState\": null,\r\n  \"IsFaulted\": false\r\n}",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-06-10 14:44:26",
+  "ExecTime": "5"
+}
+
+[2018-06-10 14:44:27.5673] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1126394035814793216,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "ChallengeAsync",
+  "Parameter": null,
+  "ResultValue": null,
+  "Exception": "System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at NetCore.Api.Commons.AopInterceptorAttribute.<>c__DisplayClass0_1.<Invoke>b__1(Object p) in E:\\Works\\Repositories\\NetCore.API\\NetCore.Api.Commons\\AopInterceptorAttribute.cs:line 68\r\n   at System.Collections.Generic.List`1.ForEach(Action`1 action)\r\n   at NetCore.Api.Commons.AopInterceptorAttribute.<Invoke>d__0.MoveNext() in E:\\Works\\Repositories\\NetCore.API\\NetCore.Api.Commons\\AopInterceptorAttribute.cs:line 59",
+  "LogType": "api",
+  "InputTime": "2018-06-10 14:44:27",
+  "ExecTime": null
+}
+
+[2018-06-10 14:45:24.1905] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1126397810822610944,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\",\r\n  \"String\": \"\\\"BearerIdentityServerAuthenticationJwt\\\"\"\r\n}",
+  "ResultValue": null,
+  "Exception": "System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.PlatformNotSupportedException: This instance contains state that cannot be serialized and deserialized on this platform.\r\n   at System.Security.Claims.ClaimsPrincipal.OnSerializingMethod(StreamingContext context)\r\n   --- End of inner exception stack trace ---\r\n   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)\r\n   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)\r\n   at Newtonsoft.Json.Serialization.JsonContract.<>c__DisplayClass57_0.<CreateSerializationCallback>b__0(Object o, StreamingContext context)\r\n   at Newtonsoft.Json.Serialization.JsonContract.InvokeOnSerializing(Object o, StreamingContext context)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.OnSerializing(JsonWriter writer, JsonContract contract, Object value)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.Serialize(JsonWriter jsonWriter, Object value, Type objectType)\r\n   at Newtonsoft.Json.JsonSerializer.SerializeInternal(JsonWriter jsonWriter, Object value, Type objectType)\r\n   at Newtonsoft.Json.JsonConvert.SerializeObjectInternal(Object value, Type type, JsonSerializer jsonSerializer)\r\n   at NetCore.Api.Commons.AopInterceptorAttribute.<Invoke>d__0.MoveNext() in E:\\Works\\Repositories\\NetCore.API\\NetCore.Api.Commons\\AopInterceptorAttribute.cs:line 81",
+  "LogType": "api",
+  "InputTime": "2018-06-10 14:45:23",
+  "ExecTime": null
+}
+
+[2018-06-10 14:45:24.2806] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1126397807400058880,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\",\r\n  \"String\": \"\\\"Bearer\\\"\"\r\n}",
+  "ResultValue": null,
+  "Exception": "AspectCore.DynamicProxy.AspectInvocationException: Exception has been thrown by the aspect of an invocation. ---> Exception has been thrown by the target of an invocation.. ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.PlatformNotSupportedException: This instance contains state that cannot be serialized and deserialized on this platform.\r\n   at System.Security.Claims.ClaimsPrincipal.OnSerializingMethod(StreamingContext context)\r\n   --- End of inner exception stack trace ---\r\n   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)\r\n   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)\r\n   at Newtonsoft.Json.Serialization.JsonContract.<>c__DisplayClass57_0.<CreateSerializationCallback>b__0(Object o, StreamingContext context)\r\n   at Newtonsoft.Json.Serialization.JsonContract.InvokeOnSerializing(Object o, StreamingContext context)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.OnSerializing(JsonWriter writer, JsonContract contract, Object value)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.Serialize(JsonWriter jsonWriter, Object value, Type objectType)\r\n   at Newtonsoft.Json.JsonSerializer.SerializeInternal(JsonWriter jsonWriter, Object value, Type objectType)\r\n   at Newtonsoft.Json.JsonConvert.SerializeObjectInternal(Object value, Type type, JsonSerializer jsonSerializer)\r\n   at NetCore.Api.Commons.AopInterceptorAttribute.<Invoke>d__0.MoveNext() in E:\\Works\\Repositories\\NetCore.API\\NetCore.Api.Commons\\AopInterceptorAttribute.cs:line 88\r\n   --- End of inner exception stack trace ---\r\n   at AspectCore.DynamicProxy.AspectContextRuntimeExtensions.AwaitIfAsync(AspectContext aspectContext, Object returnValue)\r\n   at AspectCore.DynamicProxy.RuntimeAspectContext.Complete()\r\n   at NetCore.Api.Commons.AopInterceptorAttribute.<Invoke>d__0.MoveNext() in E:\\Works\\Repositories\\NetCore.API\\NetCore.Api.Commons\\AopInterceptorAttribute.cs:line 78",
+  "LogType": "api",
+  "InputTime": "2018-06-10 14:45:23",
+  "ExecTime": null
+}
+
+[2018-06-10 16:08:12.7755] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1126731267031105536,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\",\r\n  \"String\": \"\\\"Bearer\\\"\"\r\n}",
+  "ResultValue": "{\r\n  \"Result\": {\r\n    \"Succeeded\": false,\r\n    \"Ticket\": null,\r\n    \"Principal\": null,\r\n    \"Properties\": null,\r\n    \"Failure\": null,\r\n    \"None\": true\r\n  },\r\n  \"Id\": 72,\r\n  \"Exception\": null,\r\n  \"Status\": 5,\r\n  \"IsCanceled\": false,\r\n  \"IsCompleted\": true,\r\n  \"IsCompletedSuccessfully\": true,\r\n  \"CreationOptions\": 0,\r\n  \"AsyncState\": null,\r\n  \"IsFaulted\": false\r\n}",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-06-10 16:08:12",
+  "ExecTime": "44"
+}
+
+[2018-06-10 16:09:16.0467] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1126735498916069376,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\",\r\n  \"String\": \"\\\"BearerIdentityServerAuthenticationJwt\\\"\"\r\n}",
+  "ResultValue": null,
+  "Exception": "System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.PlatformNotSupportedException: This instance contains state that cannot be serialized and deserialized on this platform.\r\n   at System.Security.Claims.ClaimsPrincipal.OnSerializingMethod(StreamingContext context)\r\n   --- End of inner exception stack trace ---\r\n   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)\r\n   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)\r\n   at Newtonsoft.Json.Serialization.JsonContract.<>c__DisplayClass57_0.<CreateSerializationCallback>b__0(Object o, StreamingContext context)\r\n   at Newtonsoft.Json.Serialization.JsonContract.InvokeOnSerializing(Object o, StreamingContext context)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.OnSerializing(JsonWriter writer, JsonContract contract, Object value)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.Serialize(JsonWriter jsonWriter, Object value, Type objectType)\r\n   at Newtonsoft.Json.JsonSerializer.SerializeInternal(JsonWriter jsonWriter, Object value, Type objectType)\r\n   at Newtonsoft.Json.JsonConvert.SerializeObjectInternal(Object value, Type type, JsonSerializer jsonSerializer)\r\n   at NetCore.Api.Commons.AopInterceptorAttribute.<Invoke>d__0.MoveNext() in E:\\Works\\Repositories\\NetCore.API\\NetCore.Api.Commons\\AopInterceptorAttribute.cs:line 81",
+  "LogType": "api",
+  "InputTime": "2018-06-10 16:09:15",
+  "ExecTime": null
+}
+
+[2018-06-10 16:09:16.0952] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1126735495090864128,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\",\r\n  \"String\": \"\\\"Bearer\\\"\"\r\n}",
+  "ResultValue": null,
+  "Exception": "AspectCore.DynamicProxy.AspectInvocationException: Exception has been thrown by the aspect of an invocation. ---> Exception has been thrown by the target of an invocation.. ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.PlatformNotSupportedException: This instance contains state that cannot be serialized and deserialized on this platform.\r\n   at System.Security.Claims.ClaimsPrincipal.OnSerializingMethod(StreamingContext context)\r\n   --- End of inner exception stack trace ---\r\n   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)\r\n   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)\r\n   at Newtonsoft.Json.Serialization.JsonContract.<>c__DisplayClass57_0.<CreateSerializationCallback>b__0(Object o, StreamingContext context)\r\n   at Newtonsoft.Json.Serialization.JsonContract.InvokeOnSerializing(Object o, StreamingContext context)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.OnSerializing(JsonWriter writer, JsonContract contract, Object value)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.Serialize(JsonWriter jsonWriter, Object value, Type objectType)\r\n   at Newtonsoft.Json.JsonSerializer.SerializeInternal(JsonWriter jsonWriter, Object value, Type objectType)\r\n   at Newtonsoft.Json.JsonConvert.SerializeObjectInternal(Object value, Type type, JsonSerializer jsonSerializer)\r\n   at NetCore.Api.Commons.AopInterceptorAttribute.<Invoke>d__0.MoveNext() in E:\\Works\\Repositories\\NetCore.API\\NetCore.Api.Commons\\AopInterceptorAttribute.cs:line 88\r\n   --- End of inner exception stack trace ---\r\n   at AspectCore.DynamicProxy.AspectContextRuntimeExtensions.AwaitIfAsync(AspectContext aspectContext, Object returnValue)\r\n   at AspectCore.DynamicProxy.RuntimeAspectContext.Complete()\r\n   at NetCore.Api.Commons.AopInterceptorAttribute.<Invoke>d__0.MoveNext() in E:\\Works\\Repositories\\NetCore.API\\NetCore.Api.Commons\\AopInterceptorAttribute.cs:line 78",
+  "LogType": "api",
+  "InputTime": "2018-06-10 16:09:15",
+  "ExecTime": null
+}
+
+[2018-06-10 16:10:45.3763] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1126741528244846592,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\",\r\n  \"String\": \"\\\"Bearer\\\"\"\r\n}",
+  "ResultValue": "{\r\n  \"Result\": {\r\n    \"Succeeded\": false,\r\n    \"Ticket\": null,\r\n    \"Principal\": null,\r\n    \"Properties\": null,\r\n    \"Failure\": null,\r\n    \"None\": true\r\n  },\r\n  \"Id\": 111,\r\n  \"Exception\": null,\r\n  \"Status\": 5,\r\n  \"IsCanceled\": false,\r\n  \"IsCompleted\": true,\r\n  \"IsCompletedSuccessfully\": true,\r\n  \"CreationOptions\": 0,\r\n  \"AsyncState\": null,\r\n  \"IsFaulted\": false\r\n}",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-06-10 16:10:45",
+  "ExecTime": "4"
+}
+
+[2018-06-10 16:10:45.7912] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1126741549451247616,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "ChallengeAsync",
+  "Parameter": null,
+  "ResultValue": null,
+  "Exception": "System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at NetCore.Api.Commons.AopInterceptorAttribute.<>c__DisplayClass0_1.<Invoke>b__1(Object p) in E:\\Works\\Repositories\\NetCore.API\\NetCore.Api.Commons\\AopInterceptorAttribute.cs:line 68\r\n   at System.Collections.Generic.List`1.ForEach(Action`1 action)\r\n   at NetCore.Api.Commons.AopInterceptorAttribute.<Invoke>d__0.MoveNext() in E:\\Works\\Repositories\\NetCore.API\\NetCore.Api.Commons\\AopInterceptorAttribute.cs:line 59",
+  "LogType": "api",
+  "InputTime": "2018-06-10 16:10:45",
+  "ExecTime": null
+}
+
+[2018-06-10 16:10:46.0934] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1126741576697446400,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\",\r\n  \"String\": \"\\\"Bearer\\\"\"\r\n}",
+  "ResultValue": "{\r\n  \"Result\": {\r\n    \"Succeeded\": false,\r\n    \"Ticket\": null,\r\n    \"Principal\": null,\r\n    \"Properties\": null,\r\n    \"Failure\": null,\r\n    \"None\": true\r\n  },\r\n  \"Id\": 120,\r\n  \"Exception\": null,\r\n  \"Status\": 5,\r\n  \"IsCanceled\": false,\r\n  \"IsCompleted\": true,\r\n  \"IsCompletedSuccessfully\": true,\r\n  \"CreationOptions\": 0,\r\n  \"AsyncState\": null,\r\n  \"IsFaulted\": false\r\n}",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-06-10 16:10:46",
+  "ExecTime": "6"
+}
+
+[2018-06-10 16:14:44.9207] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1126757592938577920,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\",\r\n  \"String\": \"\\\"Bearer\\\"\"\r\n}",
+  "ResultValue": "{\r\n  \"Result\": {\r\n    \"Succeeded\": false,\r\n    \"Ticket\": null,\r\n    \"Principal\": null,\r\n    \"Properties\": null,\r\n    \"Failure\": null,\r\n    \"None\": true\r\n  },\r\n  \"Id\": 73,\r\n  \"Exception\": null,\r\n  \"Status\": 5,\r\n  \"IsCanceled\": false,\r\n  \"IsCompleted\": true,\r\n  \"IsCompletedSuccessfully\": true,\r\n  \"CreationOptions\": 0,\r\n  \"AsyncState\": null,\r\n  \"IsFaulted\": false\r\n}",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-06-10 16:14:44",
+  "ExecTime": "44"
+}
+
+[2018-06-10 16:14:48.0203] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1126757812049018880,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\",\r\n  \"String\": \"\\\"Bearer\\\"\"\r\n}",
+  "ResultValue": "{\r\n  \"Result\": {\r\n    \"Succeeded\": false,\r\n    \"Ticket\": null,\r\n    \"Principal\": null,\r\n    \"Properties\": null,\r\n    \"Failure\": null,\r\n    \"None\": true\r\n  },\r\n  \"Id\": 78,\r\n  \"Exception\": null,\r\n  \"Status\": 5,\r\n  \"IsCanceled\": false,\r\n  \"IsCompleted\": true,\r\n  \"IsCompletedSuccessfully\": true,\r\n  \"CreationOptions\": 0,\r\n  \"AsyncState\": null,\r\n  \"IsFaulted\": false\r\n}",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-06-10 16:14:47",
+  "ExecTime": "5"
+}
+
+[2018-06-10 16:14:48.3322] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1126757832517222400,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\",\r\n  \"String\": \"\\\"Bearer\\\"\"\r\n}",
+  "ResultValue": "{\r\n  \"Result\": {\r\n    \"Succeeded\": false,\r\n    \"Ticket\": null,\r\n    \"Principal\": null,\r\n    \"Properties\": null,\r\n    \"Failure\": null,\r\n    \"None\": true\r\n  },\r\n  \"Id\": 80,\r\n  \"Exception\": null,\r\n  \"Status\": 5,\r\n  \"IsCanceled\": false,\r\n  \"IsCompleted\": true,\r\n  \"IsCompletedSuccessfully\": true,\r\n  \"CreationOptions\": 0,\r\n  \"AsyncState\": null,\r\n  \"IsFaulted\": false\r\n}",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-06-10 16:14:48",
+  "ExecTime": "4"
+}
+
+[2018-06-10 16:16:14.8791] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1126763641124945920,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\",\r\n  \"String\": \"\\\"Bearer\\\"\"\r\n}",
+  "ResultValue": "{\r\n  \"Result\": {\r\n    \"Succeeded\": false,\r\n    \"Ticket\": null,\r\n    \"Principal\": null,\r\n    \"Properties\": null,\r\n    \"Failure\": null,\r\n    \"None\": true\r\n  },\r\n  \"Id\": 87,\r\n  \"Exception\": null,\r\n  \"Status\": 5,\r\n  \"IsCanceled\": false,\r\n  \"IsCompleted\": true,\r\n  \"IsCompletedSuccessfully\": true,\r\n  \"CreationOptions\": 0,\r\n  \"AsyncState\": null,\r\n  \"IsFaulted\": false\r\n}",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-06-10 16:16:14",
+  "ExecTime": "4"
+}
+
+[2018-06-10 16:16:15.3495] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1126763663673524224,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "ChallengeAsync",
+  "Parameter": null,
+  "ResultValue": null,
+  "Exception": "System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at NetCore.Api.Commons.AopInterceptorAttribute.<>c__DisplayClass0_1.<Invoke>b__1(Object p) in E:\\Works\\Repositories\\NetCore.API\\NetCore.Api.Commons\\AopInterceptorAttribute.cs:line 68\r\n   at System.Collections.Generic.List`1.ForEach(Action`1 action)\r\n   at NetCore.Api.Commons.AopInterceptorAttribute.<Invoke>d__0.MoveNext() in E:\\Works\\Repositories\\NetCore.API\\NetCore.Api.Commons\\AopInterceptorAttribute.cs:line 59",
+  "LogType": "api",
+  "InputTime": "2018-06-10 16:16:15",
+  "ExecTime": null
+}
+
+[2018-06-10 16:19:02.3623] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1126768786764201984,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\",\r\n  \"String\": \"\\\"Bearer\\\"\"\r\n}",
+  "ResultValue": "{\r\n  \"Result\": {\r\n    \"Succeeded\": false,\r\n    \"Ticket\": null,\r\n    \"Principal\": null,\r\n    \"Properties\": null,\r\n    \"Failure\": null,\r\n    \"None\": true\r\n  },\r\n  \"Id\": 102,\r\n  \"Exception\": null,\r\n  \"Status\": 5,\r\n  \"IsCanceled\": false,\r\n  \"IsCompleted\": true,\r\n  \"IsCompletedSuccessfully\": true,\r\n  \"CreationOptions\": 0,\r\n  \"AsyncState\": null,\r\n  \"IsFaulted\": false\r\n}",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-06-10 16:17:31",
+  "ExecTime": "379"
+}
+
+[2018-06-10 16:20:13.5192] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1126778943086788608,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "ChallengeAsync",
+  "Parameter": null,
+  "ResultValue": null,
+  "Exception": "System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at NetCore.Api.Commons.AopInterceptorAttribute.<>c__DisplayClass0_1.<Invoke>b__1(Object p) in E:\\Works\\Repositories\\NetCore.API\\NetCore.Api.Commons\\AopInterceptorAttribute.cs:line 68\r\n   at System.Collections.Generic.List`1.ForEach(Action`1 action)\r\n   at NetCore.Api.Commons.AopInterceptorAttribute.<Invoke>d__0.MoveNext() in E:\\Works\\Repositories\\NetCore.API\\NetCore.Api.Commons\\AopInterceptorAttribute.cs:line 59",
+  "LogType": "api",
+  "InputTime": "2018-06-10 16:20:03",
+  "ExecTime": null
+}
+
+[2018-06-10 16:22:21.3259] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1126788220242165760,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\",\r\n  \"String\": \"\\\"Bearer\\\"\"\r\n}",
+  "ResultValue": "{\r\n  \"Result\": {\r\n    \"Succeeded\": false,\r\n    \"Ticket\": null,\r\n    \"Principal\": null,\r\n    \"Properties\": null,\r\n    \"Failure\": null,\r\n    \"None\": true\r\n  },\r\n  \"Id\": 73,\r\n  \"Exception\": null,\r\n  \"Status\": 5,\r\n  \"IsCanceled\": false,\r\n  \"IsCompleted\": true,\r\n  \"IsCompletedSuccessfully\": true,\r\n  \"CreationOptions\": 0,\r\n  \"AsyncState\": null,\r\n  \"IsFaulted\": false\r\n}",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-06-10 16:22:21",
+  "ExecTime": "47"
+}
+
+[2018-06-10 16:22:40.9113] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1126789546380427264,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\",\r\n  \"String\": \"\\\"Bearer\\\"\"\r\n}",
+  "ResultValue": "{\r\n  \"Result\": {\r\n    \"Succeeded\": false,\r\n    \"Ticket\": null,\r\n    \"Principal\": null,\r\n    \"Properties\": null,\r\n    \"Failure\": null,\r\n    \"None\": true\r\n  },\r\n  \"Id\": 78,\r\n  \"Exception\": null,\r\n  \"Status\": 5,\r\n  \"IsCanceled\": false,\r\n  \"IsCompleted\": true,\r\n  \"IsCompletedSuccessfully\": true,\r\n  \"CreationOptions\": 0,\r\n  \"AsyncState\": null,\r\n  \"IsFaulted\": false\r\n}",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-06-10 16:22:40",
+  "ExecTime": "4"
+}
+
+[2018-06-10 16:22:45.1872] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1126789833472147456,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\",\r\n  \"String\": \"\\\"Bearer\\\"\"\r\n}",
+  "ResultValue": "{\r\n  \"Result\": {\r\n    \"Succeeded\": false,\r\n    \"Ticket\": null,\r\n    \"Principal\": null,\r\n    \"Properties\": null,\r\n    \"Failure\": null,\r\n    \"None\": true\r\n  },\r\n  \"Id\": 80,\r\n  \"Exception\": null,\r\n  \"Status\": 5,\r\n  \"IsCanceled\": false,\r\n  \"IsCompleted\": true,\r\n  \"IsCompletedSuccessfully\": true,\r\n  \"CreationOptions\": 0,\r\n  \"AsyncState\": null,\r\n  \"IsFaulted\": false\r\n}",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-06-10 16:22:45",
+  "ExecTime": "4"
+}
+
+[2018-06-10 16:28:21.5637] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1126812398124531712,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\",\r\n  \"String\": \"\\\"Bearer\\\"\"\r\n}",
+  "ResultValue": "{\r\n  \"Result\": {\r\n    \"Succeeded\": false,\r\n    \"Ticket\": null,\r\n    \"Principal\": null,\r\n    \"Properties\": null,\r\n    \"Failure\": null,\r\n    \"None\": true\r\n  },\r\n  \"Id\": 73,\r\n  \"Exception\": null,\r\n  \"Status\": 5,\r\n  \"IsCanceled\": false,\r\n  \"IsCompleted\": true,\r\n  \"IsCompletedSuccessfully\": true,\r\n  \"CreationOptions\": 0,\r\n  \"AsyncState\": null,\r\n  \"IsFaulted\": false\r\n}",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-06-10 16:28:21",
+  "ExecTime": "41"
+}
+
+[2018-06-10 16:28:25.9149] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1126812699443331072,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\",\r\n  \"String\": \"\\\"Bearer\\\"\"\r\n}",
+  "ResultValue": "{\r\n  \"Result\": {\r\n    \"Succeeded\": false,\r\n    \"Ticket\": null,\r\n    \"Principal\": null,\r\n    \"Properties\": null,\r\n    \"Failure\": null,\r\n    \"None\": true\r\n  },\r\n  \"Id\": 78,\r\n  \"Exception\": null,\r\n  \"Status\": 5,\r\n  \"IsCanceled\": false,\r\n  \"IsCompleted\": true,\r\n  \"IsCompletedSuccessfully\": true,\r\n  \"CreationOptions\": 0,\r\n  \"AsyncState\": null,\r\n  \"IsFaulted\": false\r\n}",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-06-10 16:28:25",
+  "ExecTime": "4"
+}
+
+[2018-06-10 16:28:29.3070] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1126812926942380032,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\",\r\n  \"String\": \"\\\"Bearer\\\"\"\r\n}",
+  "ResultValue": "{\r\n  \"Result\": {\r\n    \"Succeeded\": false,\r\n    \"Ticket\": null,\r\n    \"Principal\": null,\r\n    \"Properties\": null,\r\n    \"Failure\": null,\r\n    \"None\": true\r\n  },\r\n  \"Id\": 80,\r\n  \"Exception\": null,\r\n  \"Status\": 5,\r\n  \"IsCanceled\": false,\r\n  \"IsCompleted\": true,\r\n  \"IsCompletedSuccessfully\": true,\r\n  \"CreationOptions\": 0,\r\n  \"AsyncState\": null,\r\n  \"IsFaulted\": false\r\n}",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-06-10 16:28:29",
+  "ExecTime": "3"
+}
+
+[2018-06-10 16:30:49.7636] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1126822343850393600,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\",\r\n  \"String\": \"\\\"Bearer\\\"\"\r\n}",
+  "ResultValue": "{\r\n  \"Result\": {\r\n    \"Succeeded\": false,\r\n    \"Ticket\": null,\r\n    \"Principal\": null,\r\n    \"Properties\": null,\r\n    \"Failure\": null,\r\n    \"None\": true\r\n  },\r\n  \"Id\": 73,\r\n  \"Exception\": null,\r\n  \"Status\": 5,\r\n  \"IsCanceled\": false,\r\n  \"IsCompleted\": true,\r\n  \"IsCompletedSuccessfully\": true,\r\n  \"CreationOptions\": 0,\r\n  \"AsyncState\": null,\r\n  \"IsFaulted\": false\r\n}",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-06-10 16:30:49",
+  "ExecTime": "44"
+}
+
+[2018-06-10 16:30:54.9826] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1126822703084142592,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\",\r\n  \"String\": \"\\\"Bearer\\\"\"\r\n}",
+  "ResultValue": "{\r\n  \"Result\": {\r\n    \"Succeeded\": false,\r\n    \"Ticket\": null,\r\n    \"Principal\": null,\r\n    \"Properties\": null,\r\n    \"Failure\": null,\r\n    \"None\": true\r\n  },\r\n  \"Id\": 78,\r\n  \"Exception\": null,\r\n  \"Status\": 5,\r\n  \"IsCanceled\": false,\r\n  \"IsCompleted\": true,\r\n  \"IsCompletedSuccessfully\": true,\r\n  \"CreationOptions\": 0,\r\n  \"AsyncState\": null,\r\n  \"IsFaulted\": false\r\n}",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-06-10 16:30:54",
+  "ExecTime": "4"
+}
+
+[2018-06-10 16:30:57.9830] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1126822904544952320,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\",\r\n  \"String\": \"\\\"Bearer\\\"\"\r\n}",
+  "ResultValue": "{\r\n  \"Result\": {\r\n    \"Succeeded\": false,\r\n    \"Ticket\": null,\r\n    \"Principal\": null,\r\n    \"Properties\": null,\r\n    \"Failure\": null,\r\n    \"None\": true\r\n  },\r\n  \"Id\": 80,\r\n  \"Exception\": null,\r\n  \"Status\": 5,\r\n  \"IsCanceled\": false,\r\n  \"IsCompleted\": true,\r\n  \"IsCompletedSuccessfully\": true,\r\n  \"CreationOptions\": 0,\r\n  \"AsyncState\": null,\r\n  \"IsFaulted\": false\r\n}",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-06-10 16:30:57",
+  "ExecTime": "3"
+}
+
+[2018-06-10 16:32:19.4776] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1126828340899807232,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\",\r\n  \"String\": \"\\\"BearerIdentityServerAuthenticationJwt\\\"\"\r\n}",
+  "ResultValue": null,
+  "Exception": "System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.PlatformNotSupportedException: This instance contains state that cannot be serialized and deserialized on this platform.\r\n   at System.Security.Claims.ClaimsPrincipal.OnSerializingMethod(StreamingContext context)\r\n   --- End of inner exception stack trace ---\r\n   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)\r\n   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)\r\n   at Newtonsoft.Json.Serialization.JsonContract.<>c__DisplayClass57_0.<CreateSerializationCallback>b__0(Object o, StreamingContext context)\r\n   at Newtonsoft.Json.Serialization.JsonContract.InvokeOnSerializing(Object o, StreamingContext context)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.OnSerializing(JsonWriter writer, JsonContract contract, Object value)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.Serialize(JsonWriter jsonWriter, Object value, Type objectType)\r\n   at Newtonsoft.Json.JsonSerializer.SerializeInternal(JsonWriter jsonWriter, Object value, Type objectType)\r\n   at Newtonsoft.Json.JsonConvert.SerializeObjectInternal(Object value, Type type, JsonSerializer jsonSerializer)\r\n   at NetCore.Api.Commons.AopInterceptorAttribute.<Invoke>d__0.MoveNext() in E:\\Works\\Repositories\\NetCore.API\\NetCore.Api.Commons\\AopInterceptorAttribute.cs:line 81",
+  "LogType": "api",
+  "InputTime": "2018-06-10 16:32:18",
+  "ExecTime": null
+}
+
+[2018-06-10 16:32:19.5271] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1126828270167064576,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\",\r\n  \"String\": \"\\\"Bearer\\\"\"\r\n}",
+  "ResultValue": null,
+  "Exception": "AspectCore.DynamicProxy.AspectInvocationException: Exception has been thrown by the aspect of an invocation. ---> Exception has been thrown by the target of an invocation.. ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.PlatformNotSupportedException: This instance contains state that cannot be serialized and deserialized on this platform.\r\n   at System.Security.Claims.ClaimsPrincipal.OnSerializingMethod(StreamingContext context)\r\n   --- End of inner exception stack trace ---\r\n   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)\r\n   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)\r\n   at Newtonsoft.Json.Serialization.JsonContract.<>c__DisplayClass57_0.<CreateSerializationCallback>b__0(Object o, StreamingContext context)\r\n   at Newtonsoft.Json.Serialization.JsonContract.InvokeOnSerializing(Object o, StreamingContext context)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.OnSerializing(JsonWriter writer, JsonContract contract, Object value)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.Serialize(JsonWriter jsonWriter, Object value, Type objectType)\r\n   at Newtonsoft.Json.JsonSerializer.SerializeInternal(JsonWriter jsonWriter, Object value, Type objectType)\r\n   at Newtonsoft.Json.JsonConvert.SerializeObjectInternal(Object value, Type type, JsonSerializer jsonSerializer)\r\n   at NetCore.Api.Commons.AopInterceptorAttribute.<Invoke>d__0.MoveNext() in E:\\Works\\Repositories\\NetCore.API\\NetCore.Api.Commons\\AopInterceptorAttribute.cs:line 88\r\n   --- End of inner exception stack trace ---\r\n   at AspectCore.DynamicProxy.AspectContextRuntimeExtensions.AwaitIfAsync(AspectContext aspectContext, Object returnValue)\r\n   at AspectCore.DynamicProxy.RuntimeAspectContext.Complete()\r\n   at NetCore.Api.Commons.AopInterceptorAttribute.<Invoke>d__0.MoveNext() in E:\\Works\\Repositories\\NetCore.API\\NetCore.Api.Commons\\AopInterceptorAttribute.cs:line 78",
+  "LogType": "api",
+  "InputTime": "2018-06-10 16:32:17",
+  "ExecTime": null
+}
+
+[2018-06-10 16:33:18.4018] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1126830969889554432,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\",\r\n  \"String\": \"\\\"Bearer\\\"\"\r\n}",
+  "ResultValue": "{\r\n  \"Result\": {\r\n    \"Succeeded\": false,\r\n    \"Ticket\": null,\r\n    \"Principal\": null,\r\n    \"Properties\": null,\r\n    \"Failure\": null,\r\n    \"None\": true\r\n  },\r\n  \"Id\": 106,\r\n  \"Exception\": null,\r\n  \"Status\": 5,\r\n  \"IsCanceled\": false,\r\n  \"IsCompleted\": true,\r\n  \"IsCompletedSuccessfully\": true,\r\n  \"CreationOptions\": 0,\r\n  \"AsyncState\": null,\r\n  \"IsFaulted\": false\r\n}",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-06-10 16:32:58",
+  "ExecTime": "175"
+}
+
+[2018-06-10 16:35:08.3333] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1126834113470070784,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "ChallengeAsync",
+  "Parameter": null,
+  "ResultValue": null,
+  "Exception": "System.NullReferenceException: Object reference not set to an instance of an object.\r\n   at NetCore.Api.Commons.AopInterceptorAttribute.<>c__DisplayClass0_1.<Invoke>b__1(Object p) in E:\\Works\\Repositories\\NetCore.API\\NetCore.Api.Commons\\AopInterceptorAttribute.cs:line 68\r\n   at System.Collections.Generic.List`1.ForEach(Action`1 action)\r\n   at NetCore.Api.Commons.AopInterceptorAttribute.<Invoke>d__0.MoveNext() in E:\\Works\\Repositories\\NetCore.API\\NetCore.Api.Commons\\AopInterceptorAttribute.cs:line 59",
+  "LogType": "api",
+  "InputTime": "2018-06-10 16:33:45",
+  "ExecTime": null
+}
+
+[2018-06-10 16:36:37.5251] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1126845690218872832,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\",\r\n  \"String\": \"\\\"Bearer\\\"\"\r\n}",
+  "ResultValue": "{\r\n  \"Result\": {\r\n    \"Succeeded\": false,\r\n    \"Ticket\": null,\r\n    \"Principal\": null,\r\n    \"Properties\": null,\r\n    \"Failure\": null,\r\n    \"None\": true\r\n  },\r\n  \"Id\": 121,\r\n  \"Exception\": null,\r\n  \"Status\": 5,\r\n  \"IsCanceled\": false,\r\n  \"IsCompleted\": true,\r\n  \"IsCompletedSuccessfully\": true,\r\n  \"CreationOptions\": 0,\r\n  \"AsyncState\": null,\r\n  \"IsFaulted\": false\r\n}",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-06-10 16:36:37",
+  "ExecTime": "15"
+}
+
+[2018-06-10 16:40:27.5664] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1126861118522261504,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\",\r\n  \"String\": \"\\\"Bearer\\\"\"\r\n}",
+  "ResultValue": "{\r\n  \"Result\": {\r\n    \"Succeeded\": false,\r\n    \"Ticket\": null,\r\n    \"Principal\": null,\r\n    \"Properties\": null,\r\n    \"Failure\": null,\r\n    \"None\": true\r\n  },\r\n  \"Id\": 73,\r\n  \"Exception\": null,\r\n  \"Status\": 5,\r\n  \"IsCanceled\": false,\r\n  \"IsCompleted\": true,\r\n  \"IsCompletedSuccessfully\": true,\r\n  \"CreationOptions\": 0,\r\n  \"AsyncState\": null,\r\n  \"IsFaulted\": false\r\n}",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-06-10 16:40:27",
+  "ExecTime": "51"
+}
+
+[2018-06-10 16:40:31.2966] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1126861378502000640,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\",\r\n  \"String\": \"\\\"Bearer\\\"\"\r\n}",
+  "ResultValue": "{\r\n  \"Result\": {\r\n    \"Succeeded\": false,\r\n    \"Ticket\": null,\r\n    \"Principal\": null,\r\n    \"Properties\": null,\r\n    \"Failure\": null,\r\n    \"None\": true\r\n  },\r\n  \"Id\": 78,\r\n  \"Exception\": null,\r\n  \"Status\": 5,\r\n  \"IsCanceled\": false,\r\n  \"IsCompleted\": true,\r\n  \"IsCompletedSuccessfully\": true,\r\n  \"CreationOptions\": 0,\r\n  \"AsyncState\": null,\r\n  \"IsFaulted\": false\r\n}",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-06-10 16:40:31",
+  "ExecTime": "4"
+}
+
+[2018-06-10 16:40:34.8799] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1126861618818842624,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\",\r\n  \"String\": \"\\\"Bearer\\\"\"\r\n}",
+  "ResultValue": "{\r\n  \"Result\": {\r\n    \"Succeeded\": false,\r\n    \"Ticket\": null,\r\n    \"Principal\": null,\r\n    \"Properties\": null,\r\n    \"Failure\": null,\r\n    \"None\": true\r\n  },\r\n  \"Id\": 80,\r\n  \"Exception\": null,\r\n  \"Status\": 5,\r\n  \"IsCanceled\": false,\r\n  \"IsCompleted\": true,\r\n  \"IsCompletedSuccessfully\": true,\r\n  \"CreationOptions\": 0,\r\n  \"AsyncState\": null,\r\n  \"IsFaulted\": false\r\n}",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-06-10 16:40:34",
+  "ExecTime": "4"
+}
+
+[2018-06-10 16:41:52.1606] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1126866805797158912,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\",\r\n  \"String\": \"\\\"Bearer\\\"\"\r\n}",
+  "ResultValue": "{\r\n  \"Result\": {\r\n    \"Succeeded\": false,\r\n    \"Ticket\": null,\r\n    \"Principal\": null,\r\n    \"Properties\": null,\r\n    \"Failure\": null,\r\n    \"None\": true\r\n  },\r\n  \"Id\": 87,\r\n  \"Exception\": null,\r\n  \"Status\": 5,\r\n  \"IsCanceled\": false,\r\n  \"IsCompleted\": true,\r\n  \"IsCompletedSuccessfully\": true,\r\n  \"CreationOptions\": 0,\r\n  \"AsyncState\": null,\r\n  \"IsFaulted\": false\r\n}",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-06-10 16:41:52",
+  "ExecTime": "3"
+}
+
+[2018-06-10 16:45:50.7250] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1126882806292152320,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\",\r\n  \"String\": \"\\\"Bearer\\\"\"\r\n}",
+  "ResultValue": "{\r\n  \"Result\": {\r\n    \"Succeeded\": false,\r\n    \"Ticket\": null,\r\n    \"Principal\": null,\r\n    \"Properties\": null,\r\n    \"Failure\": null,\r\n    \"None\": true\r\n  },\r\n  \"Id\": 73,\r\n  \"Exception\": null,\r\n  \"Status\": 5,\r\n  \"IsCanceled\": false,\r\n  \"IsCompleted\": true,\r\n  \"IsCompletedSuccessfully\": true,\r\n  \"CreationOptions\": 0,\r\n  \"AsyncState\": null,\r\n  \"IsFaulted\": false\r\n}",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-06-10 16:45:50",
+  "ExecTime": "42"
+}
+
+[2018-06-10 16:45:54.6543] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1126883078552813568,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\",\r\n  \"String\": \"\\\"Bearer\\\"\"\r\n}",
+  "ResultValue": "{\r\n  \"Result\": {\r\n    \"Succeeded\": false,\r\n    \"Ticket\": null,\r\n    \"Principal\": null,\r\n    \"Properties\": null,\r\n    \"Failure\": null,\r\n    \"None\": true\r\n  },\r\n  \"Id\": 78,\r\n  \"Exception\": null,\r\n  \"Status\": 5,\r\n  \"IsCanceled\": false,\r\n  \"IsCompleted\": true,\r\n  \"IsCompletedSuccessfully\": true,\r\n  \"CreationOptions\": 0,\r\n  \"AsyncState\": null,\r\n  \"IsFaulted\": false\r\n}",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-06-10 16:45:54",
+  "ExecTime": "4"
+}
+
+[2018-06-10 16:45:57.7617] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1126883287194271744,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\",\r\n  \"String\": \"\\\"Bearer\\\"\"\r\n}",
+  "ResultValue": "{\r\n  \"Result\": {\r\n    \"Succeeded\": false,\r\n    \"Ticket\": null,\r\n    \"Principal\": null,\r\n    \"Properties\": null,\r\n    \"Failure\": null,\r\n    \"None\": true\r\n  },\r\n  \"Id\": 80,\r\n  \"Exception\": null,\r\n  \"Status\": 5,\r\n  \"IsCanceled\": false,\r\n  \"IsCompleted\": true,\r\n  \"IsCompletedSuccessfully\": true,\r\n  \"CreationOptions\": 0,\r\n  \"AsyncState\": null,\r\n  \"IsFaulted\": false\r\n}",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-06-10 16:45:57",
+  "ExecTime": "4"
+}
+
+[2018-06-10 16:46:47.6783] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1126886636530565120,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\",\r\n  \"String\": \"\\\"Bearer\\\"\"\r\n}",
+  "ResultValue": "{\r\n  \"Result\": {\r\n    \"Succeeded\": false,\r\n    \"Ticket\": null,\r\n    \"Principal\": null,\r\n    \"Properties\": null,\r\n    \"Failure\": null,\r\n    \"None\": true\r\n  },\r\n  \"Id\": 81,\r\n  \"Exception\": null,\r\n  \"Status\": 5,\r\n  \"IsCanceled\": false,\r\n  \"IsCompleted\": true,\r\n  \"IsCompletedSuccessfully\": true,\r\n  \"CreationOptions\": 0,\r\n  \"AsyncState\": null,\r\n  \"IsFaulted\": false\r\n}",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-06-10 16:46:47",
+  "ExecTime": "4"
+}
+
+[2018-06-10 16:47:43.3940] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1126888960242089984,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "ChallengeAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\",\r\n  \"String\": \"\\\"BearerIdentityServerAuthenticationJwt\\\"\"\r\n}",
+  "ResultValue": "{\r\n  \"Result\": {},\r\n  \"Id\": 83,\r\n  \"Exception\": null,\r\n  \"Status\": 5,\r\n  \"IsCanceled\": false,\r\n  \"IsCompleted\": true,\r\n  \"IsCompletedSuccessfully\": true,\r\n  \"CreationOptions\": 0,\r\n  \"AsyncState\": null,\r\n  \"IsFaulted\": false\r\n}",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-06-10 16:47:22",
+  "ExecTime": "160"
+}
+
+[2018-06-10 16:47:44.6456] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1126886999790845952,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "ChallengeAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\"\r\n}",
+  "ResultValue": "{\r\n  \"Result\": {},\r\n  \"Id\": 83,\r\n  \"Exception\": null,\r\n  \"Status\": 5,\r\n  \"IsCanceled\": false,\r\n  \"IsCompleted\": true,\r\n  \"IsCompletedSuccessfully\": true,\r\n  \"CreationOptions\": 0,\r\n  \"AsyncState\": null,\r\n  \"IsFaulted\": false\r\n}",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-06-10 16:46:53",
+  "ExecTime": "461"
+}
+
+[2018-06-10 16:50:52.6463] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1126903068226813952,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\",\r\n  \"String\": \"\\\"Bearer\\\"\"\r\n}",
+  "ResultValue": "{\r\n  \"Result\": {\r\n    \"Succeeded\": false,\r\n    \"Ticket\": null,\r\n    \"Principal\": null,\r\n    \"Properties\": null,\r\n    \"Failure\": null,\r\n    \"None\": true\r\n  },\r\n  \"Id\": 73,\r\n  \"Exception\": null,\r\n  \"Status\": 5,\r\n  \"IsCanceled\": false,\r\n  \"IsCompleted\": true,\r\n  \"IsCompletedSuccessfully\": true,\r\n  \"CreationOptions\": 0,\r\n  \"AsyncState\": null,\r\n  \"IsFaulted\": false\r\n}",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-06-10 16:50:52",
+  "ExecTime": "39"
+}
+
+[2018-06-10 16:50:55.9360] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1126903298007564288,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\",\r\n  \"String\": \"\\\"Bearer\\\"\"\r\n}",
+  "ResultValue": "{\r\n  \"Result\": {\r\n    \"Succeeded\": false,\r\n    \"Ticket\": null,\r\n    \"Principal\": null,\r\n    \"Properties\": null,\r\n    \"Failure\": null,\r\n    \"None\": true\r\n  },\r\n  \"Id\": 79,\r\n  \"Exception\": null,\r\n  \"Status\": 5,\r\n  \"IsCanceled\": false,\r\n  \"IsCompleted\": true,\r\n  \"IsCompletedSuccessfully\": true,\r\n  \"CreationOptions\": 0,\r\n  \"AsyncState\": null,\r\n  \"IsFaulted\": false\r\n}",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-06-10 16:50:55",
+  "ExecTime": "4"
+}
+
+[2018-06-10 16:50:56.2600] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1126903319885053952,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\",\r\n  \"String\": \"\\\"Bearer\\\"\"\r\n}",
+  "ResultValue": "{\r\n  \"Result\": {\r\n    \"Succeeded\": false,\r\n    \"Ticket\": null,\r\n    \"Principal\": null,\r\n    \"Properties\": null,\r\n    \"Failure\": null,\r\n    \"None\": true\r\n  },\r\n  \"Id\": 81,\r\n  \"Exception\": null,\r\n  \"Status\": 5,\r\n  \"IsCanceled\": false,\r\n  \"IsCompleted\": true,\r\n  \"IsCompletedSuccessfully\": true,\r\n  \"CreationOptions\": 0,\r\n  \"AsyncState\": null,\r\n  \"IsFaulted\": false\r\n}",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-06-10 16:50:56",
+  "ExecTime": "4"
+}
+
+[2018-06-10 16:51:36.9437] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1126906016184991744,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\",\r\n  \"String\": \"\\\"BearerIdentityServerAuthenticationJwt\\\"\"\r\n}",
+  "ResultValue": null,
+  "Exception": "System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.PlatformNotSupportedException: This instance contains state that cannot be serialized and deserialized on this platform.\r\n   at System.Security.Claims.ClaimsPrincipal.OnSerializingMethod(StreamingContext context)\r\n   --- End of inner exception stack trace ---\r\n   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)\r\n   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)\r\n   at Newtonsoft.Json.Serialization.JsonContract.<>c__DisplayClass57_0.<CreateSerializationCallback>b__0(Object o, StreamingContext context)\r\n   at Newtonsoft.Json.Serialization.JsonContract.InvokeOnSerializing(Object o, StreamingContext context)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.OnSerializing(JsonWriter writer, JsonContract contract, Object value)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.Serialize(JsonWriter jsonWriter, Object value, Type objectType)\r\n   at Newtonsoft.Json.JsonSerializer.SerializeInternal(JsonWriter jsonWriter, Object value, Type objectType)\r\n   at Newtonsoft.Json.JsonConvert.SerializeObjectInternal(Object value, Type type, JsonSerializer jsonSerializer)\r\n   at NetCore.Api.Commons.AopInterceptorAttribute.<Invoke>d__0.MoveNext() in E:\\Works\\Repositories\\NetCore.API\\NetCore.Api.Commons\\AopInterceptorAttribute.cs:line 86",
+  "LogType": "api",
+  "InputTime": "2018-06-10 16:51:36",
+  "ExecTime": null
+}
+
+[2018-06-10 16:51:36.9952] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1126906012896657408,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\",\r\n  \"String\": \"\\\"Bearer\\\"\"\r\n}",
+  "ResultValue": null,
+  "Exception": "AspectCore.DynamicProxy.AspectInvocationException: Exception has been thrown by the aspect of an invocation. ---> Exception has been thrown by the target of an invocation.. ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.PlatformNotSupportedException: This instance contains state that cannot be serialized and deserialized on this platform.\r\n   at System.Security.Claims.ClaimsPrincipal.OnSerializingMethod(StreamingContext context)\r\n   --- End of inner exception stack trace ---\r\n   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)\r\n   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)\r\n   at Newtonsoft.Json.Serialization.JsonContract.<>c__DisplayClass57_0.<CreateSerializationCallback>b__0(Object o, StreamingContext context)\r\n   at Newtonsoft.Json.Serialization.JsonContract.InvokeOnSerializing(Object o, StreamingContext context)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.OnSerializing(JsonWriter writer, JsonContract contract, Object value)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.Serialize(JsonWriter jsonWriter, Object value, Type objectType)\r\n   at Newtonsoft.Json.JsonSerializer.SerializeInternal(JsonWriter jsonWriter, Object value, Type objectType)\r\n   at Newtonsoft.Json.JsonConvert.SerializeObjectInternal(Object value, Type type, JsonSerializer jsonSerializer)\r\n   at NetCore.Api.Commons.AopInterceptorAttribute.<Invoke>d__0.MoveNext() in E:\\Works\\Repositories\\NetCore.API\\NetCore.Api.Commons\\AopInterceptorAttribute.cs:line 93\r\n   --- End of inner exception stack trace ---\r\n   at AspectCore.DynamicProxy.AspectContextRuntimeExtensions.AwaitIfAsync(AspectContext aspectContext, Object returnValue)\r\n   at AspectCore.DynamicProxy.RuntimeAspectContext.Complete()\r\n   at NetCore.Api.Commons.AopInterceptorAttribute.<Invoke>d__0.MoveNext() in E:\\Works\\Repositories\\NetCore.API\\NetCore.Api.Commons\\AopInterceptorAttribute.cs:line 83",
+  "LogType": "api",
+  "InputTime": "2018-06-10 16:51:36",
+  "ExecTime": null
+}
+
+[2018-06-10 16:54:19.2252] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1126916934394511360,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\",\r\n  \"String\": \"\\\"BearerIdentityServerAuthenticationJwt\\\"\"\r\n}",
+  "ResultValue": null,
+  "Exception": "System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.PlatformNotSupportedException: This instance contains state that cannot be serialized and deserialized on this platform.\r\n   at System.Security.Claims.ClaimsPrincipal.OnSerializingMethod(StreamingContext context)\r\n   --- End of inner exception stack trace ---\r\n   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)\r\n   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)\r\n   at Newtonsoft.Json.Serialization.JsonContract.<>c__DisplayClass57_0.<CreateSerializationCallback>b__0(Object o, StreamingContext context)\r\n   at Newtonsoft.Json.Serialization.JsonContract.InvokeOnSerializing(Object o, StreamingContext context)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.OnSerializing(JsonWriter writer, JsonContract contract, Object value)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.Serialize(JsonWriter jsonWriter, Object value, Type objectType)\r\n   at Newtonsoft.Json.JsonSerializer.SerializeInternal(JsonWriter jsonWriter, Object value, Type objectType)\r\n   at Newtonsoft.Json.JsonConvert.SerializeObjectInternal(Object value, Type type, JsonSerializer jsonSerializer)\r\n   at NetCore.Api.Commons.AopInterceptorAttribute.<Invoke>d__0.MoveNext() in E:\\Works\\Repositories\\NetCore.API\\NetCore.Api.Commons\\AopInterceptorAttribute.cs:line 86",
+  "LogType": "api",
+  "InputTime": "2018-06-10 16:54:19",
+  "ExecTime": null
+}
+
+[2018-06-10 16:54:19.2737] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1126916930904850432,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\",\r\n  \"String\": \"\\\"Bearer\\\"\"\r\n}",
+  "ResultValue": null,
+  "Exception": "AspectCore.DynamicProxy.AspectInvocationException: Exception has been thrown by the aspect of an invocation. ---> Exception has been thrown by the target of an invocation.. ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.PlatformNotSupportedException: This instance contains state that cannot be serialized and deserialized on this platform.\r\n   at System.Security.Claims.ClaimsPrincipal.OnSerializingMethod(StreamingContext context)\r\n   --- End of inner exception stack trace ---\r\n   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)\r\n   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)\r\n   at Newtonsoft.Json.Serialization.JsonContract.<>c__DisplayClass57_0.<CreateSerializationCallback>b__0(Object o, StreamingContext context)\r\n   at Newtonsoft.Json.Serialization.JsonContract.InvokeOnSerializing(Object o, StreamingContext context)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.OnSerializing(JsonWriter writer, JsonContract contract, Object value)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.Serialize(JsonWriter jsonWriter, Object value, Type objectType)\r\n   at Newtonsoft.Json.JsonSerializer.SerializeInternal(JsonWriter jsonWriter, Object value, Type objectType)\r\n   at Newtonsoft.Json.JsonConvert.SerializeObjectInternal(Object value, Type type, JsonSerializer jsonSerializer)\r\n   at NetCore.Api.Commons.AopInterceptorAttribute.<Invoke>d__0.MoveNext() in E:\\Works\\Repositories\\NetCore.API\\NetCore.Api.Commons\\AopInterceptorAttribute.cs:line 93\r\n   --- End of inner exception stack trace ---\r\n   at AspectCore.DynamicProxy.AspectContextRuntimeExtensions.AwaitIfAsync(AspectContext aspectContext, Object returnValue)\r\n   at AspectCore.DynamicProxy.RuntimeAspectContext.Complete()\r\n   at NetCore.Api.Commons.AopInterceptorAttribute.<Invoke>d__0.MoveNext() in E:\\Works\\Repositories\\NetCore.API\\NetCore.Api.Commons\\AopInterceptorAttribute.cs:line 83",
+  "LogType": "api",
+  "InputTime": "2018-06-10 16:54:19",
+  "ExecTime": null
+}
+
+[2018-06-10 16:56:00.1985] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1126923406977335296,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\",\r\n  \"String\": \"\\\"BearerIdentityServerAuthenticationJwt\\\"\"\r\n}",
+  "ResultValue": null,
+  "Exception": "System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.PlatformNotSupportedException: This instance contains state that cannot be serialized and deserialized on this platform.\r\n   at System.Security.Claims.ClaimsPrincipal.OnSerializingMethod(StreamingContext context)\r\n   --- End of inner exception stack trace ---\r\n   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)\r\n   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)\r\n   at Newtonsoft.Json.Serialization.JsonContract.<>c__DisplayClass57_0.<CreateSerializationCallback>b__0(Object o, StreamingContext context)\r\n   at Newtonsoft.Json.Serialization.JsonContract.InvokeOnSerializing(Object o, StreamingContext context)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.OnSerializing(JsonWriter writer, JsonContract contract, Object value)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.Serialize(JsonWriter jsonWriter, Object value, Type objectType)\r\n   at Newtonsoft.Json.JsonSerializer.SerializeInternal(JsonWriter jsonWriter, Object value, Type objectType)\r\n   at Newtonsoft.Json.JsonConvert.SerializeObjectInternal(Object value, Type type, JsonSerializer jsonSerializer)\r\n   at NetCore.Api.Commons.AopInterceptorAttribute.<Invoke>d__0.MoveNext() in E:\\Works\\Repositories\\NetCore.API\\NetCore.Api.Commons\\AopInterceptorAttribute.cs:line 86",
+  "LogType": "api",
+  "InputTime": "2018-06-10 16:55:55",
+  "ExecTime": null
+}
+
+[2018-06-10 16:56:00.2441] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1126922202977206272,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\",\r\n  \"String\": \"\\\"Bearer\\\"\"\r\n}",
+  "ResultValue": null,
+  "Exception": "AspectCore.DynamicProxy.AspectInvocationException: Exception has been thrown by the aspect of an invocation. ---> Exception has been thrown by the target of an invocation.. ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.PlatformNotSupportedException: This instance contains state that cannot be serialized and deserialized on this platform.\r\n   at System.Security.Claims.ClaimsPrincipal.OnSerializingMethod(StreamingContext context)\r\n   --- End of inner exception stack trace ---\r\n   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)\r\n   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)\r\n   at Newtonsoft.Json.Serialization.JsonContract.<>c__DisplayClass57_0.<CreateSerializationCallback>b__0(Object o, StreamingContext context)\r\n   at Newtonsoft.Json.Serialization.JsonContract.InvokeOnSerializing(Object o, StreamingContext context)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.OnSerializing(JsonWriter writer, JsonContract contract, Object value)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.Serialize(JsonWriter jsonWriter, Object value, Type objectType)\r\n   at Newtonsoft.Json.JsonSerializer.SerializeInternal(JsonWriter jsonWriter, Object value, Type objectType)\r\n   at Newtonsoft.Json.JsonConvert.SerializeObjectInternal(Object value, Type type, JsonSerializer jsonSerializer)\r\n   at NetCore.Api.Commons.AopInterceptorAttribute.<Invoke>d__0.MoveNext() in E:\\Works\\Repositories\\NetCore.API\\NetCore.Api.Commons\\AopInterceptorAttribute.cs:line 93\r\n   --- End of inner exception stack trace ---\r\n   at AspectCore.DynamicProxy.AspectContextRuntimeExtensions.AwaitIfAsync(AspectContext aspectContext, Object returnValue)\r\n   at AspectCore.DynamicProxy.RuntimeAspectContext.Complete()\r\n   at NetCore.Api.Commons.AopInterceptorAttribute.<Invoke>d__0.MoveNext() in E:\\Works\\Repositories\\NetCore.API\\NetCore.Api.Commons\\AopInterceptorAttribute.cs:line 83",
+  "LogType": "api",
+  "InputTime": "2018-06-10 16:55:38",
+  "ExecTime": null
+}
+
+[2018-06-10 16:58:17.1951] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1126926999650369536,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\",\r\n  \"String\": \"\\\"BearerIdentityServerAuthenticationJwt\\\"\"\r\n}",
+  "ResultValue": null,
+  "Exception": "System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.PlatformNotSupportedException: This instance contains state that cannot be serialized and deserialized on this platform.\r\n   at System.Security.Claims.ClaimsPrincipal.OnSerializingMethod(StreamingContext context)\r\n   --- End of inner exception stack trace ---\r\n   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)\r\n   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)\r\n   at Newtonsoft.Json.Serialization.JsonContract.<>c__DisplayClass57_0.<CreateSerializationCallback>b__0(Object o, StreamingContext context)\r\n   at Newtonsoft.Json.Serialization.JsonContract.InvokeOnSerializing(Object o, StreamingContext context)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.OnSerializing(JsonWriter writer, JsonContract contract, Object value)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.Serialize(JsonWriter jsonWriter, Object value, Type objectType)\r\n   at Newtonsoft.Json.JsonSerializer.SerializeInternal(JsonWriter jsonWriter, Object value, Type objectType)\r\n   at Newtonsoft.Json.JsonConvert.SerializeObjectInternal(Object value, Type type, JsonSerializer jsonSerializer)\r\n   at NetCore.Api.Commons.AopInterceptorAttribute.<Invoke>d__0.MoveNext() in E:\\Works\\Repositories\\NetCore.API\\NetCore.Api.Commons\\AopInterceptorAttribute.cs:line 86",
+  "LogType": "api",
+  "InputTime": "2018-06-10 16:56:49",
+  "ExecTime": null
+}
+
+[2018-06-10 16:58:17.2565] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1126926568945680384,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\",\r\n  \"String\": \"\\\"Bearer\\\"\"\r\n}",
+  "ResultValue": null,
+  "Exception": "AspectCore.DynamicProxy.AspectInvocationException: Exception has been thrown by the aspect of an invocation. ---> Exception has been thrown by the target of an invocation.. ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.PlatformNotSupportedException: This instance contains state that cannot be serialized and deserialized on this platform.\r\n   at System.Security.Claims.ClaimsPrincipal.OnSerializingMethod(StreamingContext context)\r\n   --- End of inner exception stack trace ---\r\n   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)\r\n   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)\r\n   at Newtonsoft.Json.Serialization.JsonContract.<>c__DisplayClass57_0.<CreateSerializationCallback>b__0(Object o, StreamingContext context)\r\n   at Newtonsoft.Json.Serialization.JsonContract.InvokeOnSerializing(Object o, StreamingContext context)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.OnSerializing(JsonWriter writer, JsonContract contract, Object value)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.Serialize(JsonWriter jsonWriter, Object value, Type objectType)\r\n   at Newtonsoft.Json.JsonSerializer.SerializeInternal(JsonWriter jsonWriter, Object value, Type objectType)\r\n   at Newtonsoft.Json.JsonConvert.SerializeObjectInternal(Object value, Type type, JsonSerializer jsonSerializer)\r\n   at NetCore.Api.Commons.AopInterceptorAttribute.<Invoke>d__0.MoveNext() in E:\\Works\\Repositories\\NetCore.API\\NetCore.Api.Commons\\AopInterceptorAttribute.cs:line 93\r\n   --- End of inner exception stack trace ---\r\n   at AspectCore.DynamicProxy.AspectContextRuntimeExtensions.AwaitIfAsync(AspectContext aspectContext, Object returnValue)\r\n   at AspectCore.DynamicProxy.RuntimeAspectContext.Complete()\r\n   at NetCore.Api.Commons.AopInterceptorAttribute.<Invoke>d__0.MoveNext() in E:\\Works\\Repositories\\NetCore.API\\NetCore.Api.Commons\\AopInterceptorAttribute.cs:line 83",
+  "LogType": "api",
+  "InputTime": "2018-06-10 16:56:42",
+  "ExecTime": null
+}
+
+[2018-06-10 16:59:35.7480] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1126938172635414528,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\",\r\n  \"String\": \"\\\"Bearer\\\"\"\r\n}",
+  "ResultValue": "{\r\n  \"Result\": {\r\n    \"Succeeded\": false,\r\n    \"Ticket\": null,\r\n    \"Principal\": null,\r\n    \"Properties\": null,\r\n    \"Failure\": null,\r\n    \"None\": true\r\n  },\r\n  \"Id\": 73,\r\n  \"Exception\": null,\r\n  \"Status\": 5,\r\n  \"IsCanceled\": false,\r\n  \"IsCompleted\": true,\r\n  \"IsCompletedSuccessfully\": true,\r\n  \"CreationOptions\": 0,\r\n  \"AsyncState\": null,\r\n  \"IsFaulted\": false\r\n}",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-06-10 16:59:35",
+  "ExecTime": "43"
+}
+
+[2018-06-10 16:59:38.9121] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1126938394564427776,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\",\r\n  \"String\": \"\\\"Bearer\\\"\"\r\n}",
+  "ResultValue": "{\r\n  \"Result\": {\r\n    \"Succeeded\": false,\r\n    \"Ticket\": null,\r\n    \"Principal\": null,\r\n    \"Properties\": null,\r\n    \"Failure\": null,\r\n    \"None\": true\r\n  },\r\n  \"Id\": 79,\r\n  \"Exception\": null,\r\n  \"Status\": 5,\r\n  \"IsCanceled\": false,\r\n  \"IsCompleted\": true,\r\n  \"IsCompletedSuccessfully\": true,\r\n  \"CreationOptions\": 0,\r\n  \"AsyncState\": null,\r\n  \"IsFaulted\": false\r\n}",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-06-10 16:59:38",
+  "ExecTime": "4"
+}
+
+[2018-06-10 16:59:39.2511] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1126938416978788352,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\",\r\n  \"String\": \"\\\"Bearer\\\"\"\r\n}",
+  "ResultValue": "{\r\n  \"Result\": {\r\n    \"Succeeded\": false,\r\n    \"Ticket\": null,\r\n    \"Principal\": null,\r\n    \"Properties\": null,\r\n    \"Failure\": null,\r\n    \"None\": true\r\n  },\r\n  \"Id\": 81,\r\n  \"Exception\": null,\r\n  \"Status\": 5,\r\n  \"IsCanceled\": false,\r\n  \"IsCompleted\": true,\r\n  \"IsCompletedSuccessfully\": true,\r\n  \"CreationOptions\": 0,\r\n  \"AsyncState\": null,\r\n  \"IsFaulted\": false\r\n}",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-06-10 16:59:39",
+  "ExecTime": "4"
+}
+
+[2018-06-10 17:00:20.1591] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1126941131062575104,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\",\r\n  \"String\": \"\\\"BearerIdentityServerAuthenticationJwt\\\"\"\r\n}",
+  "ResultValue": null,
+  "Exception": "System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.PlatformNotSupportedException: This instance contains state that cannot be serialized and deserialized on this platform.\r\n   at System.Security.Claims.ClaimsPrincipal.OnSerializingMethod(StreamingContext context)\r\n   --- End of inner exception stack trace ---\r\n   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)\r\n   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)\r\n   at Newtonsoft.Json.Serialization.JsonContract.<>c__DisplayClass57_0.<CreateSerializationCallback>b__0(Object o, StreamingContext context)\r\n   at Newtonsoft.Json.Serialization.JsonContract.InvokeOnSerializing(Object o, StreamingContext context)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.OnSerializing(JsonWriter writer, JsonContract contract, Object value)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.Serialize(JsonWriter jsonWriter, Object value, Type objectType)\r\n   at Newtonsoft.Json.JsonSerializer.SerializeInternal(JsonWriter jsonWriter, Object value, Type objectType)\r\n   at Newtonsoft.Json.JsonConvert.SerializeObjectInternal(Object value, Type type, JsonSerializer jsonSerializer)\r\n   at NetCore.Api.Commons.AopInterceptorAttribute.<Invoke>d__0.MoveNext() in E:\\Works\\Repositories\\NetCore.API\\NetCore.Api.Commons\\AopInterceptorAttribute.cs:line 86",
+  "LogType": "api",
+  "InputTime": "2018-06-10 17:00:19",
+  "ExecTime": null
+}
+
+[2018-06-10 17:00:20.1914] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1126941127237369856,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\",\r\n  \"String\": \"\\\"Bearer\\\"\"\r\n}",
+  "ResultValue": null,
+  "Exception": "System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.PlatformNotSupportedException: This instance contains state that cannot be serialized and deserialized on this platform.\r\n   at System.Security.Claims.ClaimsPrincipal.OnSerializingMethod(StreamingContext context)\r\n   --- End of inner exception stack trace ---\r\n   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)\r\n   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)\r\n   at Newtonsoft.Json.Serialization.JsonContract.<>c__DisplayClass57_0.<CreateSerializationCallback>b__0(Object o, StreamingContext context)\r\n   at Newtonsoft.Json.Serialization.JsonContract.InvokeOnSerializing(Object o, StreamingContext context)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.OnSerializing(JsonWriter writer, JsonContract contract, Object value)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.Serialize(JsonWriter jsonWriter, Object value, Type objectType)\r\n   at Newtonsoft.Json.JsonSerializer.SerializeInternal(JsonWriter jsonWriter, Object value, Type objectType)\r\n   at Newtonsoft.Json.JsonConvert.SerializeObjectInternal(Object value, Type type, JsonSerializer jsonSerializer)\r\n   at NetCore.Api.Commons.AopInterceptorAttribute.<Invoke>d__0.MoveNext() in E:\\Works\\Repositories\\NetCore.API\\NetCore.Api.Commons\\AopInterceptorAttribute.cs:line 86",
+  "LogType": "api",
+  "InputTime": "2018-06-10 17:00:19",
+  "ExecTime": null
+}
+
+[2018-06-10 17:01:05.3284] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1126944189414834176,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\",\r\n  \"String\": \"\\\"BearerIdentityServerAuthenticationJwt\\\"\"\r\n}",
+  "ResultValue": null,
+  "Exception": "System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.PlatformNotSupportedException: This instance contains state that cannot be serialized and deserialized on this platform.\r\n   at System.Security.Claims.ClaimsPrincipal.OnSerializingMethod(StreamingContext context)\r\n   --- End of inner exception stack trace ---\r\n   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)\r\n   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)\r\n   at Newtonsoft.Json.Serialization.JsonContract.<>c__DisplayClass57_0.<CreateSerializationCallback>b__0(Object o, StreamingContext context)\r\n   at Newtonsoft.Json.Serialization.JsonContract.InvokeOnSerializing(Object o, StreamingContext context)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.OnSerializing(JsonWriter writer, JsonContract contract, Object value)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.Serialize(JsonWriter jsonWriter, Object value, Type objectType)\r\n   at Newtonsoft.Json.JsonSerializer.SerializeInternal(JsonWriter jsonWriter, Object value, Type objectType)\r\n   at Newtonsoft.Json.JsonConvert.SerializeObjectInternal(Object value, Type type, JsonSerializer jsonSerializer)\r\n   at NetCore.Api.Commons.AopInterceptorAttribute.<Invoke>d__0.MoveNext() in E:\\Works\\Repositories\\NetCore.API\\NetCore.Api.Commons\\AopInterceptorAttribute.cs:line 86",
+  "LogType": "api",
+  "InputTime": "2018-06-10 17:01:05",
+  "ExecTime": null
+}
+
+[2018-06-10 17:01:05.3706] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1126944185656737792,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\",\r\n  \"String\": \"\\\"Bearer\\\"\"\r\n}",
+  "ResultValue": null,
+  "Exception": "System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.PlatformNotSupportedException: This instance contains state that cannot be serialized and deserialized on this platform.\r\n   at System.Security.Claims.ClaimsPrincipal.OnSerializingMethod(StreamingContext context)\r\n   --- End of inner exception stack trace ---\r\n   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)\r\n   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)\r\n   at Newtonsoft.Json.Serialization.JsonContract.<>c__DisplayClass57_0.<CreateSerializationCallback>b__0(Object o, StreamingContext context)\r\n   at Newtonsoft.Json.Serialization.JsonContract.InvokeOnSerializing(Object o, StreamingContext context)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.OnSerializing(JsonWriter writer, JsonContract contract, Object value)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)\r\n   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.Serialize(JsonWriter jsonWriter, Object value, Type objectType)\r\n   at Newtonsoft.Json.JsonSerializer.SerializeInternal(JsonWriter jsonWriter, Object value, Type objectType)\r\n   at Newtonsoft.Json.JsonConvert.SerializeObjectInternal(Object value, Type type, JsonSerializer jsonSerializer)\r\n   at NetCore.Api.Commons.AopInterceptorAttribute.<Invoke>d__0.MoveNext() in E:\\Works\\Repositories\\NetCore.API\\NetCore.Api.Commons\\AopInterceptorAttribute.cs:line 86",
+  "LogType": "api",
+  "InputTime": "2018-06-10 17:01:05",
+  "ExecTime": null
+}
+
+[2018-06-10 17:17:07.0940] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1127008734596825088,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\",\r\n  \"String\": \"\\\"Bearer\\\"\"\r\n}",
+  "ResultValue": "{\r\n  \"Result\": {\r\n    \"Succeeded\": false,\r\n    \"Ticket\": null,\r\n    \"Principal\": null,\r\n    \"Properties\": null,\r\n    \"Failure\": null,\r\n    \"None\": true\r\n  },\r\n  \"Id\": 1,\r\n  \"Exception\": null,\r\n  \"Status\": 5,\r\n  \"IsCanceled\": false,\r\n  \"IsCompleted\": true,\r\n  \"IsCompletedSuccessfully\": true,\r\n  \"CreationOptions\": 0,\r\n  \"AsyncState\": null,\r\n  \"IsFaulted\": false\r\n}",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-06-10 17:17:07",
+  "ExecTime": "24"
+}
+
+[2018-06-10 17:17:07.2941] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1127008751642476544,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "ChallengeAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\",\r\n  \"String\": \"\\\"BearerIdentityServerAuthenticationJwt\\\"\"\r\n}",
+  "ResultValue": "{\r\n  \"Result\": {},\r\n  \"Id\": 3,\r\n  \"Exception\": null,\r\n  \"Status\": 5,\r\n  \"IsCanceled\": false,\r\n  \"IsCompleted\": true,\r\n  \"IsCompletedSuccessfully\": true,\r\n  \"CreationOptions\": 0,\r\n  \"AsyncState\": null,\r\n  \"IsFaulted\": false\r\n}",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-06-10 17:17:07",
+  "ExecTime": "37"
+}
+
+[2018-06-10 17:17:07.3033] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1127008751239823360,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "ChallengeAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\"\r\n}",
+  "ResultValue": "{\r\n  \"Result\": {},\r\n  \"Id\": 3,\r\n  \"Exception\": null,\r\n  \"Status\": 5,\r\n  \"IsCanceled\": false,\r\n  \"IsCompleted\": true,\r\n  \"IsCompletedSuccessfully\": true,\r\n  \"CreationOptions\": 0,\r\n  \"AsyncState\": null,\r\n  \"IsFaulted\": false\r\n}",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-06-10 17:17:07",
+  "ExecTime": "52"
+}
+
+[2018-06-10 17:23:59.2288] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1127036383224594432,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\",\r\n  \"String\": \"\\\"Bearer\\\"\"\r\n}",
+  "ResultValue": "{\r\n  \"Result\": {\r\n    \"Succeeded\": false,\r\n    \"Ticket\": null,\r\n    \"Principal\": null,\r\n    \"Properties\": null,\r\n    \"Failure\": null,\r\n    \"None\": true\r\n  },\r\n  \"Id\": 73,\r\n  \"Exception\": null,\r\n  \"Status\": 5,\r\n  \"IsCanceled\": false,\r\n  \"IsCompleted\": true,\r\n  \"IsCompletedSuccessfully\": true,\r\n  \"CreationOptions\": 0,\r\n  \"AsyncState\": null,\r\n  \"IsFaulted\": false\r\n}",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-06-10 17:23:58",
+  "ExecTime": "47"
+}
+
+[2018-06-10 17:24:02.3518] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1127036604348301312,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\",\r\n  \"String\": \"\\\"Bearer\\\"\"\r\n}",
+  "ResultValue": "{\r\n  \"Result\": {\r\n    \"Succeeded\": false,\r\n    \"Ticket\": null,\r\n    \"Principal\": null,\r\n    \"Properties\": null,\r\n    \"Failure\": null,\r\n    \"None\": true\r\n  },\r\n  \"Id\": 78,\r\n  \"Exception\": null,\r\n  \"Status\": 5,\r\n  \"IsCanceled\": false,\r\n  \"IsCompleted\": true,\r\n  \"IsCompletedSuccessfully\": true,\r\n  \"CreationOptions\": 0,\r\n  \"AsyncState\": null,\r\n  \"IsFaulted\": false\r\n}",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-06-10 17:24:02",
+  "ExecTime": "5"
+}
+
+[2018-06-10 17:24:02.6899] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1127036626829770752,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\",\r\n  \"String\": \"\\\"Bearer\\\"\"\r\n}",
+  "ResultValue": "{\r\n  \"Result\": {\r\n    \"Succeeded\": false,\r\n    \"Ticket\": null,\r\n    \"Principal\": null,\r\n    \"Properties\": null,\r\n    \"Failure\": null,\r\n    \"None\": true\r\n  },\r\n  \"Id\": 80,\r\n  \"Exception\": null,\r\n  \"Status\": 5,\r\n  \"IsCanceled\": false,\r\n  \"IsCompleted\": true,\r\n  \"IsCompletedSuccessfully\": true,\r\n  \"CreationOptions\": 0,\r\n  \"AsyncState\": null,\r\n  \"IsFaulted\": false\r\n}",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-06-10 17:24:02",
+  "ExecTime": "3"
+}
+
+[2018-06-10 17:30:58.1616] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1127064498825723904,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\",\r\n  \"String\": \"\\\"Bearer\\\"\"\r\n}",
+  "ResultValue": "{\r\n  \"Result\": {\r\n    \"Succeeded\": false,\r\n    \"Ticket\": null,\r\n    \"Principal\": null,\r\n    \"Properties\": null,\r\n    \"Failure\": null,\r\n    \"None\": true\r\n  },\r\n  \"Id\": 73,\r\n  \"Exception\": null,\r\n  \"Status\": 5,\r\n  \"IsCanceled\": false,\r\n  \"IsCompleted\": true,\r\n  \"IsCompletedSuccessfully\": true,\r\n  \"CreationOptions\": 0,\r\n  \"AsyncState\": null,\r\n  \"IsFaulted\": false\r\n}",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-06-10 17:30:57",
+  "ExecTime": "43"
+}
+
+[2018-06-10 17:31:01.3278] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1127064721157390336,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\",\r\n  \"String\": \"\\\"Bearer\\\"\"\r\n}",
+  "ResultValue": "{\r\n  \"Result\": {\r\n    \"Succeeded\": false,\r\n    \"Ticket\": null,\r\n    \"Principal\": null,\r\n    \"Properties\": null,\r\n    \"Failure\": null,\r\n    \"None\": true\r\n  },\r\n  \"Id\": 78,\r\n  \"Exception\": null,\r\n  \"Status\": 5,\r\n  \"IsCanceled\": false,\r\n  \"IsCompleted\": true,\r\n  \"IsCompletedSuccessfully\": true,\r\n  \"CreationOptions\": 0,\r\n  \"AsyncState\": null,\r\n  \"IsFaulted\": false\r\n}",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-06-10 17:31:01",
+  "ExecTime": "4"
+}
+
+[2018-06-10 17:31:01.6800] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1127064744444166144,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\",\r\n  \"String\": \"\\\"Bearer\\\"\"\r\n}",
+  "ResultValue": "{\r\n  \"Result\": {\r\n    \"Succeeded\": false,\r\n    \"Ticket\": null,\r\n    \"Principal\": null,\r\n    \"Properties\": null,\r\n    \"Failure\": null,\r\n    \"None\": true\r\n  },\r\n  \"Id\": 80,\r\n  \"Exception\": null,\r\n  \"Status\": 5,\r\n  \"IsCanceled\": false,\r\n  \"IsCompleted\": true,\r\n  \"IsCompletedSuccessfully\": true,\r\n  \"CreationOptions\": 0,\r\n  \"AsyncState\": null,\r\n  \"IsFaulted\": false\r\n}",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-06-10 17:31:01",
+  "ExecTime": "3"
+}
+
+[2018-06-10 17:33:51.8354] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1127076153639960576,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\",\r\n  \"String\": \"\\\"Bearer\\\"\"\r\n}",
+  "ResultValue": "{\r\n  \"Result\": {\r\n    \"Succeeded\": false,\r\n    \"Ticket\": null,\r\n    \"Principal\": null,\r\n    \"Properties\": null,\r\n    \"Failure\": null,\r\n    \"None\": true\r\n  },\r\n  \"Id\": 73,\r\n  \"Exception\": null,\r\n  \"Status\": 5,\r\n  \"IsCanceled\": false,\r\n  \"IsCompleted\": true,\r\n  \"IsCompletedSuccessfully\": true,\r\n  \"CreationOptions\": 0,\r\n  \"AsyncState\": null,\r\n  \"IsFaulted\": false\r\n}",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-06-10 17:33:51",
+  "ExecTime": "41"
+}
+
+[2018-06-10 17:33:55.0439] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1127076379461287936,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\",\r\n  \"String\": \"\\\"Bearer\\\"\"\r\n}",
+  "ResultValue": "{\r\n  \"Result\": {\r\n    \"Succeeded\": false,\r\n    \"Ticket\": null,\r\n    \"Principal\": null,\r\n    \"Properties\": null,\r\n    \"Failure\": null,\r\n    \"None\": true\r\n  },\r\n  \"Id\": 78,\r\n  \"Exception\": null,\r\n  \"Status\": 5,\r\n  \"IsCanceled\": false,\r\n  \"IsCompleted\": true,\r\n  \"IsCompletedSuccessfully\": true,\r\n  \"CreationOptions\": 0,\r\n  \"AsyncState\": null,\r\n  \"IsFaulted\": false\r\n}",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-06-10 17:33:54",
+  "ExecTime": "4"
+}
+
+[2018-06-10 17:33:55.3793] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1127076401338777600,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\",\r\n  \"String\": \"\\\"Bearer\\\"\"\r\n}",
+  "ResultValue": "{\r\n  \"Result\": {\r\n    \"Succeeded\": false,\r\n    \"Ticket\": null,\r\n    \"Principal\": null,\r\n    \"Properties\": null,\r\n    \"Failure\": null,\r\n    \"None\": true\r\n  },\r\n  \"Id\": 80,\r\n  \"Exception\": null,\r\n  \"Status\": 5,\r\n  \"IsCanceled\": false,\r\n  \"IsCompleted\": true,\r\n  \"IsCompletedSuccessfully\": true,\r\n  \"CreationOptions\": 0,\r\n  \"AsyncState\": null,\r\n  \"IsFaulted\": false\r\n}",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-06-10 17:33:55",
+  "ExecTime": "4"
+}
+
+[2018-06-10 17:34:44.7597] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1127079681955594240,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "\"System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Authentication.AuthenticateResult]\"",
+  "ResultValue": null,
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-06-10 17:34:44",
+  "ExecTime": "450"
+}
+
+[2018-06-10 17:34:44.7901] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1127079678063280128,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "\"System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Authentication.AuthenticateResult]\"",
+  "ResultValue": null,
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-06-10 17:34:44",
+  "ExecTime": "564"
+}
+
+[2018-06-10 17:37:19.7678] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1127090115035136000,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "\"System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Authentication.AuthenticateResult]\"",
+  "ResultValue": null,
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-06-10 17:37:19",
+  "ExecTime": "12"
+}
+
+[2018-06-10 17:37:19.8114] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1127090111075713024,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "\"System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Authentication.AuthenticateResult]\"",
+  "ResultValue": null,
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-06-10 17:37:19",
+  "ExecTime": "118"
+}
+
+[2018-06-10 17:43:04.6089] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1127113248968540160,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\",\r\n  \"String\": \"\\\"Bearer\\\"\"\r\n}",
+  "ResultValue": "{\r\n  \"Result\": {\r\n    \"Succeeded\": false,\r\n    \"Ticket\": null,\r\n    \"Principal\": null,\r\n    \"Properties\": null,\r\n    \"Failure\": null,\r\n    \"None\": true\r\n  },\r\n  \"Id\": 73,\r\n  \"Exception\": null,\r\n  \"Status\": 5,\r\n  \"IsCanceled\": false,\r\n  \"IsCompleted\": true,\r\n  \"IsCompletedSuccessfully\": true,\r\n  \"CreationOptions\": 0,\r\n  \"AsyncState\": null,\r\n  \"IsFaulted\": false\r\n}",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-06-10 17:43:04",
+  "ExecTime": "45"
+}
+
+[2018-06-10 17:43:07.7867] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1127113473246363648,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\",\r\n  \"String\": \"\\\"Bearer\\\"\"\r\n}",
+  "ResultValue": "{\r\n  \"Result\": {\r\n    \"Succeeded\": false,\r\n    \"Ticket\": null,\r\n    \"Principal\": null,\r\n    \"Properties\": null,\r\n    \"Failure\": null,\r\n    \"None\": true\r\n  },\r\n  \"Id\": 78,\r\n  \"Exception\": null,\r\n  \"Status\": 5,\r\n  \"IsCanceled\": false,\r\n  \"IsCompleted\": true,\r\n  \"IsCompletedSuccessfully\": true,\r\n  \"CreationOptions\": 0,\r\n  \"AsyncState\": null,\r\n  \"IsFaulted\": false\r\n}",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-06-10 17:43:07",
+  "ExecTime": "4"
+}
+
+[2018-06-10 17:43:08.1320] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1127113495392288768,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\",\r\n  \"String\": \"\\\"Bearer\\\"\"\r\n}",
+  "ResultValue": "{\r\n  \"Result\": {\r\n    \"Succeeded\": false,\r\n    \"Ticket\": null,\r\n    \"Principal\": null,\r\n    \"Properties\": null,\r\n    \"Failure\": null,\r\n    \"None\": true\r\n  },\r\n  \"Id\": 80,\r\n  \"Exception\": null,\r\n  \"Status\": 5,\r\n  \"IsCanceled\": false,\r\n  \"IsCompleted\": true,\r\n  \"IsCompletedSuccessfully\": true,\r\n  \"CreationOptions\": 0,\r\n  \"AsyncState\": null,\r\n  \"IsFaulted\": false\r\n}",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-06-10 17:43:08",
+  "ExecTime": "4"
+}
+
+[2018-06-10 17:43:14.7680] ERROR Microsoft.AspNetCore.Authentication.AuthenticationService: 
+{
+  "Id": 1127113941062254592,
+  "Namespace": "Microsoft.AspNetCore.Authentication",
+  "ClassName": "AuthenticationService",
+  "MethodName": "AuthenticateAsync",
+  "Parameter": "{\r\n  \"DefaultHttpContext\": \"Microsoft.AspNetCore.Http.DefaultHttpContext\",\r\n  \"String\": \"\\\"Bearer\\\"\"\r\n}",
+  "ResultValue": "{\r\n  \"Result\": {\r\n    \"Succeeded\": false,\r\n    \"Ticket\": null,\r\n    \"Principal\": null,\r\n    \"Properties\": null,\r\n    \"Failure\": null,\r\n    \"None\": true\r\n  },\r\n  \"Id\": 81,\r\n  \"Exception\": null,\r\n  \"Status\": 5,\r\n  \"IsCanceled\": false,\r\n  \"IsCompleted\": true,\r\n  \"IsCompletedSuccessfully\": true,\r\n  \"CreationOptions\": 0,\r\n  \"AsyncState\": null,\r\n  \"IsFaulted\": false\r\n}",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-06-10 17:43:14",
+  "ExecTime": "4"
+}
+

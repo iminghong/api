@@ -1,0 +1,413 @@
+[2018-06-10 14:44:27.7201] ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware: 
+An unhandled exception has occurred while executing the request
+AspectCore.DynamicProxy.AspectInvocationException: Exception has been thrown by the aspect of an invocation. ---> Object reference not set to an instance of an object.. ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at NetCore.Api.Commons.AopInterceptorAttribute.<>c__DisplayClass0_1.<Invoke>b__1(Object p) in E:\Works\Repositories\NetCore.API\NetCore.Api.Commons\AopInterceptorAttribute.cs:line 68
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at NetCore.Api.Commons.AopInterceptorAttribute.<Invoke>d__0.MoveNext() in E:\Works\Repositories\NetCore.API\NetCore.Api.Commons\AopInterceptorAttribute.cs:line 88
+   --- End of inner exception stack trace ---
+   at AspectCore.DynamicProxy.AspectActivator.InvokeTask[TResult](AspectActivatorContext activatorContext)
+   at AspectCore.DynamicGenerated.AuthenticationService.ChallengeAsync(HttpContext context, String scheme, AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authentication.AuthenticationHttpContextExtensions.ChallengeAsync(HttpContext context, String scheme, AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authentication.AuthenticationHttpContextExtensions.ChallengeAsync(HttpContext context, AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Mvc.ChallengeResult.<ExecuteResultAsync>d__14.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.<InvokeResultAsync>d__19.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.<InvokeFilterPipelineAsync>d__17.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.<InvokeAsync>d__15.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.<Invoke>d__4.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIIndexMiddleware.<Invoke>d__3.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.<Invoke>d__6.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.<Invoke>d__6.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.<Invoke>d__7.MoveNext()
+
+[2018-06-10 14:45:24.3145] ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware: 
+An unhandled exception has occurred while executing the request
+AspectCore.DynamicProxy.AspectInvocationException: Exception has been thrown by the aspect of an invocation. ---> Exception has been thrown by the target of an invocation.. ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.PlatformNotSupportedException: This instance contains state that cannot be serialized and deserialized on this platform.
+   at System.Security.Claims.ClaimsPrincipal.OnSerializingMethod(StreamingContext context)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at Newtonsoft.Json.Serialization.JsonContract.<>c__DisplayClass57_0.<CreateSerializationCallback>b__0(Object o, StreamingContext context)
+   at Newtonsoft.Json.Serialization.JsonContract.InvokeOnSerializing(Object o, StreamingContext context)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.OnSerializing(JsonWriter writer, JsonContract contract, Object value)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.Serialize(JsonWriter jsonWriter, Object value, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.SerializeInternal(JsonWriter jsonWriter, Object value, Type objectType)
+   at Newtonsoft.Json.JsonConvert.SerializeObjectInternal(Object value, Type type, JsonSerializer jsonSerializer)
+   at NetCore.Api.Commons.AopInterceptorAttribute.<Invoke>d__0.MoveNext() in E:\Works\Repositories\NetCore.API\NetCore.Api.Commons\AopInterceptorAttribute.cs:line 88
+   --- End of inner exception stack trace ---
+   at AspectCore.DynamicProxy.AspectActivator.Invoke[TResult](AspectActivatorContext activatorContext)
+   at AspectCore.DynamicGenerated.AuthenticationService.AuthenticateAsync(HttpContext context, String scheme)
+   at Microsoft.AspNetCore.Authentication.AuthenticationHttpContextExtensions.AuthenticateAsync(HttpContext context, String scheme)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.<Invoke>d__6.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.<Invoke>d__7.MoveNext()
+
+[2018-06-10 16:09:16.1267] ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware: 
+An unhandled exception has occurred while executing the request
+AspectCore.DynamicProxy.AspectInvocationException: Exception has been thrown by the aspect of an invocation. ---> Exception has been thrown by the target of an invocation.. ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.PlatformNotSupportedException: This instance contains state that cannot be serialized and deserialized on this platform.
+   at System.Security.Claims.ClaimsPrincipal.OnSerializingMethod(StreamingContext context)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at Newtonsoft.Json.Serialization.JsonContract.<>c__DisplayClass57_0.<CreateSerializationCallback>b__0(Object o, StreamingContext context)
+   at Newtonsoft.Json.Serialization.JsonContract.InvokeOnSerializing(Object o, StreamingContext context)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.OnSerializing(JsonWriter writer, JsonContract contract, Object value)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.Serialize(JsonWriter jsonWriter, Object value, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.SerializeInternal(JsonWriter jsonWriter, Object value, Type objectType)
+   at Newtonsoft.Json.JsonConvert.SerializeObjectInternal(Object value, Type type, JsonSerializer jsonSerializer)
+   at NetCore.Api.Commons.AopInterceptorAttribute.<Invoke>d__0.MoveNext() in E:\Works\Repositories\NetCore.API\NetCore.Api.Commons\AopInterceptorAttribute.cs:line 88
+   --- End of inner exception stack trace ---
+   at AspectCore.DynamicProxy.AspectActivator.Invoke[TResult](AspectActivatorContext activatorContext)
+   at AspectCore.DynamicGenerated.AuthenticationService.AuthenticateAsync(HttpContext context, String scheme)
+   at Microsoft.AspNetCore.Authentication.AuthenticationHttpContextExtensions.AuthenticateAsync(HttpContext context, String scheme)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.<Invoke>d__6.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.<Invoke>d__7.MoveNext()
+
+[2018-06-10 16:10:45.8317] ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware: 
+An unhandled exception has occurred while executing the request
+AspectCore.DynamicProxy.AspectInvocationException: Exception has been thrown by the aspect of an invocation. ---> Object reference not set to an instance of an object.. ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at NetCore.Api.Commons.AopInterceptorAttribute.<>c__DisplayClass0_1.<Invoke>b__1(Object p) in E:\Works\Repositories\NetCore.API\NetCore.Api.Commons\AopInterceptorAttribute.cs:line 68
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at NetCore.Api.Commons.AopInterceptorAttribute.<Invoke>d__0.MoveNext() in E:\Works\Repositories\NetCore.API\NetCore.Api.Commons\AopInterceptorAttribute.cs:line 88
+   --- End of inner exception stack trace ---
+   at AspectCore.DynamicProxy.AspectActivator.InvokeTask[TResult](AspectActivatorContext activatorContext)
+   at AspectCore.DynamicGenerated.AuthenticationService.ChallengeAsync(HttpContext context, String scheme, AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authentication.AuthenticationHttpContextExtensions.ChallengeAsync(HttpContext context, String scheme, AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authentication.AuthenticationHttpContextExtensions.ChallengeAsync(HttpContext context, AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Mvc.ChallengeResult.<ExecuteResultAsync>d__14.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.<InvokeResultAsync>d__19.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.<InvokeFilterPipelineAsync>d__17.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.<InvokeAsync>d__15.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.<Invoke>d__4.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.<Invoke>d__6.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.<Invoke>d__7.MoveNext()
+
+[2018-06-10 16:16:15.4015] ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware: 
+An unhandled exception has occurred while executing the request
+AspectCore.DynamicProxy.AspectInvocationException: Exception has been thrown by the aspect of an invocation. ---> Object reference not set to an instance of an object.. ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at NetCore.Api.Commons.AopInterceptorAttribute.<>c__DisplayClass0_1.<Invoke>b__1(Object p) in E:\Works\Repositories\NetCore.API\NetCore.Api.Commons\AopInterceptorAttribute.cs:line 68
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at NetCore.Api.Commons.AopInterceptorAttribute.<Invoke>d__0.MoveNext() in E:\Works\Repositories\NetCore.API\NetCore.Api.Commons\AopInterceptorAttribute.cs:line 88
+   --- End of inner exception stack trace ---
+   at AspectCore.DynamicProxy.AspectActivator.InvokeTask[TResult](AspectActivatorContext activatorContext)
+   at AspectCore.DynamicGenerated.AuthenticationService.ChallengeAsync(HttpContext context, String scheme, AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authentication.AuthenticationHttpContextExtensions.ChallengeAsync(HttpContext context, String scheme, AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authentication.AuthenticationHttpContextExtensions.ChallengeAsync(HttpContext context, AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Mvc.ChallengeResult.<ExecuteResultAsync>d__14.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.<InvokeResultAsync>d__19.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.<InvokeFilterPipelineAsync>d__17.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.<InvokeAsync>d__15.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.<Invoke>d__4.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIIndexMiddleware.<Invoke>d__3.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.<Invoke>d__6.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.<Invoke>d__6.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.<Invoke>d__7.MoveNext()
+
+[2018-06-10 16:20:13.5701] ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware: 
+An unhandled exception has occurred while executing the request
+AspectCore.DynamicProxy.AspectInvocationException: Exception has been thrown by the aspect of an invocation. ---> Object reference not set to an instance of an object.. ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at NetCore.Api.Commons.AopInterceptorAttribute.<>c__DisplayClass0_1.<Invoke>b__1(Object p) in E:\Works\Repositories\NetCore.API\NetCore.Api.Commons\AopInterceptorAttribute.cs:line 68
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at NetCore.Api.Commons.AopInterceptorAttribute.<Invoke>d__0.MoveNext() in E:\Works\Repositories\NetCore.API\NetCore.Api.Commons\AopInterceptorAttribute.cs:line 88
+   --- End of inner exception stack trace ---
+   at AspectCore.DynamicProxy.AspectActivator.InvokeTask[TResult](AspectActivatorContext activatorContext)
+   at AspectCore.DynamicGenerated.AuthenticationService.ChallengeAsync(HttpContext context, String scheme, AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authentication.AuthenticationHttpContextExtensions.ChallengeAsync(HttpContext context, String scheme, AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authentication.AuthenticationHttpContextExtensions.ChallengeAsync(HttpContext context, AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Mvc.ChallengeResult.<ExecuteResultAsync>d__14.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.<InvokeResultAsync>d__19.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.<InvokeFilterPipelineAsync>d__17.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.<InvokeAsync>d__15.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.<Invoke>d__4.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIIndexMiddleware.<Invoke>d__3.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.<Invoke>d__6.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.<Invoke>d__6.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.<Invoke>d__7.MoveNext()
+
+[2018-06-10 16:32:19.5660] ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware: 
+An unhandled exception has occurred while executing the request
+AspectCore.DynamicProxy.AspectInvocationException: Exception has been thrown by the aspect of an invocation. ---> Exception has been thrown by the target of an invocation.. ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.PlatformNotSupportedException: This instance contains state that cannot be serialized and deserialized on this platform.
+   at System.Security.Claims.ClaimsPrincipal.OnSerializingMethod(StreamingContext context)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at Newtonsoft.Json.Serialization.JsonContract.<>c__DisplayClass57_0.<CreateSerializationCallback>b__0(Object o, StreamingContext context)
+   at Newtonsoft.Json.Serialization.JsonContract.InvokeOnSerializing(Object o, StreamingContext context)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.OnSerializing(JsonWriter writer, JsonContract contract, Object value)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.Serialize(JsonWriter jsonWriter, Object value, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.SerializeInternal(JsonWriter jsonWriter, Object value, Type objectType)
+   at Newtonsoft.Json.JsonConvert.SerializeObjectInternal(Object value, Type type, JsonSerializer jsonSerializer)
+   at NetCore.Api.Commons.AopInterceptorAttribute.<Invoke>d__0.MoveNext() in E:\Works\Repositories\NetCore.API\NetCore.Api.Commons\AopInterceptorAttribute.cs:line 88
+   --- End of inner exception stack trace ---
+   at AspectCore.DynamicProxy.AspectActivator.Invoke[TResult](AspectActivatorContext activatorContext)
+   at AspectCore.DynamicGenerated.AuthenticationService.AuthenticateAsync(HttpContext context, String scheme)
+   at Microsoft.AspNetCore.Authentication.AuthenticationHttpContextExtensions.AuthenticateAsync(HttpContext context, String scheme)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.<Invoke>d__6.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.<Invoke>d__7.MoveNext()
+
+[2018-06-10 16:36:15.8705] ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware: 
+An unhandled exception has occurred while executing the request
+AspectCore.DynamicProxy.AspectInvocationException: Exception has been thrown by the aspect of an invocation. ---> Object reference not set to an instance of an object.. ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at NetCore.Api.Commons.AopInterceptorAttribute.<>c__DisplayClass0_1.<Invoke>b__1(Object p) in E:\Works\Repositories\NetCore.API\NetCore.Api.Commons\AopInterceptorAttribute.cs:line 68
+   at System.Collections.Generic.List`1.ForEach(Action`1 action)
+   at NetCore.Api.Commons.AopInterceptorAttribute.<Invoke>d__0.MoveNext() in E:\Works\Repositories\NetCore.API\NetCore.Api.Commons\AopInterceptorAttribute.cs:line 88
+   --- End of inner exception stack trace ---
+   at AspectCore.DynamicProxy.AspectActivator.InvokeTask[TResult](AspectActivatorContext activatorContext)
+   at AspectCore.DynamicGenerated.AuthenticationService.ChallengeAsync(HttpContext context, String scheme, AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authentication.AuthenticationHttpContextExtensions.ChallengeAsync(HttpContext context, String scheme, AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authentication.AuthenticationHttpContextExtensions.ChallengeAsync(HttpContext context, AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Mvc.ChallengeResult.<ExecuteResultAsync>d__14.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.<InvokeResultAsync>d__19.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.<InvokeFilterPipelineAsync>d__17.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.<InvokeAsync>d__15.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.<Invoke>d__4.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIIndexMiddleware.<Invoke>d__3.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.<Invoke>d__6.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.<Invoke>d__6.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.<Invoke>d__7.MoveNext()
+
+[2018-06-10 16:51:37.0249] ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware: 
+An unhandled exception has occurred while executing the request
+AspectCore.DynamicProxy.AspectInvocationException: Exception has been thrown by the aspect of an invocation. ---> Exception has been thrown by the target of an invocation.. ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.PlatformNotSupportedException: This instance contains state that cannot be serialized and deserialized on this platform.
+   at System.Security.Claims.ClaimsPrincipal.OnSerializingMethod(StreamingContext context)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at Newtonsoft.Json.Serialization.JsonContract.<>c__DisplayClass57_0.<CreateSerializationCallback>b__0(Object o, StreamingContext context)
+   at Newtonsoft.Json.Serialization.JsonContract.InvokeOnSerializing(Object o, StreamingContext context)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.OnSerializing(JsonWriter writer, JsonContract contract, Object value)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.Serialize(JsonWriter jsonWriter, Object value, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.SerializeInternal(JsonWriter jsonWriter, Object value, Type objectType)
+   at Newtonsoft.Json.JsonConvert.SerializeObjectInternal(Object value, Type type, JsonSerializer jsonSerializer)
+   at NetCore.Api.Commons.AopInterceptorAttribute.<Invoke>d__0.MoveNext() in E:\Works\Repositories\NetCore.API\NetCore.Api.Commons\AopInterceptorAttribute.cs:line 93
+   --- End of inner exception stack trace ---
+   at AspectCore.DynamicProxy.AspectActivator.Invoke[TResult](AspectActivatorContext activatorContext)
+   at AspectCore.DynamicGenerated.AuthenticationService.AuthenticateAsync(HttpContext context, String scheme)
+   at Microsoft.AspNetCore.Authentication.AuthenticationHttpContextExtensions.AuthenticateAsync(HttpContext context, String scheme)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.<Invoke>d__6.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.<Invoke>d__7.MoveNext()
+
+[2018-06-10 16:54:19.3009] ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware: 
+An unhandled exception has occurred while executing the request
+AspectCore.DynamicProxy.AspectInvocationException: Exception has been thrown by the aspect of an invocation. ---> Exception has been thrown by the target of an invocation.. ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.PlatformNotSupportedException: This instance contains state that cannot be serialized and deserialized on this platform.
+   at System.Security.Claims.ClaimsPrincipal.OnSerializingMethod(StreamingContext context)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at Newtonsoft.Json.Serialization.JsonContract.<>c__DisplayClass57_0.<CreateSerializationCallback>b__0(Object o, StreamingContext context)
+   at Newtonsoft.Json.Serialization.JsonContract.InvokeOnSerializing(Object o, StreamingContext context)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.OnSerializing(JsonWriter writer, JsonContract contract, Object value)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.Serialize(JsonWriter jsonWriter, Object value, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.SerializeInternal(JsonWriter jsonWriter, Object value, Type objectType)
+   at Newtonsoft.Json.JsonConvert.SerializeObjectInternal(Object value, Type type, JsonSerializer jsonSerializer)
+   at NetCore.Api.Commons.AopInterceptorAttribute.<Invoke>d__0.MoveNext() in E:\Works\Repositories\NetCore.API\NetCore.Api.Commons\AopInterceptorAttribute.cs:line 93
+   --- End of inner exception stack trace ---
+   at AspectCore.DynamicProxy.AspectActivator.Invoke[TResult](AspectActivatorContext activatorContext)
+   at AspectCore.DynamicGenerated.AuthenticationService.AuthenticateAsync(HttpContext context, String scheme)
+   at Microsoft.AspNetCore.Authentication.AuthenticationHttpContextExtensions.AuthenticateAsync(HttpContext context, String scheme)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.<Invoke>d__6.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.<Invoke>d__7.MoveNext()
+
+[2018-06-10 16:56:00.2785] ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware: 
+An unhandled exception has occurred while executing the request
+AspectCore.DynamicProxy.AspectInvocationException: Exception has been thrown by the aspect of an invocation. ---> Exception has been thrown by the target of an invocation.. ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.PlatformNotSupportedException: This instance contains state that cannot be serialized and deserialized on this platform.
+   at System.Security.Claims.ClaimsPrincipal.OnSerializingMethod(StreamingContext context)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at Newtonsoft.Json.Serialization.JsonContract.<>c__DisplayClass57_0.<CreateSerializationCallback>b__0(Object o, StreamingContext context)
+   at Newtonsoft.Json.Serialization.JsonContract.InvokeOnSerializing(Object o, StreamingContext context)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.OnSerializing(JsonWriter writer, JsonContract contract, Object value)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.Serialize(JsonWriter jsonWriter, Object value, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.SerializeInternal(JsonWriter jsonWriter, Object value, Type objectType)
+   at Newtonsoft.Json.JsonConvert.SerializeObjectInternal(Object value, Type type, JsonSerializer jsonSerializer)
+   at NetCore.Api.Commons.AopInterceptorAttribute.<Invoke>d__0.MoveNext() in E:\Works\Repositories\NetCore.API\NetCore.Api.Commons\AopInterceptorAttribute.cs:line 93
+   --- End of inner exception stack trace ---
+   at AspectCore.DynamicProxy.AspectActivator.Invoke[TResult](AspectActivatorContext activatorContext)
+   at AspectCore.DynamicGenerated.AuthenticationService.AuthenticateAsync(HttpContext context, String scheme)
+   at Microsoft.AspNetCore.Authentication.AuthenticationHttpContextExtensions.AuthenticateAsync(HttpContext context, String scheme)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.<Invoke>d__6.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.<Invoke>d__7.MoveNext()
+
+[2018-06-10 16:58:17.2859] ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware: 
+An unhandled exception has occurred while executing the request
+AspectCore.DynamicProxy.AspectInvocationException: Exception has been thrown by the aspect of an invocation. ---> Exception has been thrown by the target of an invocation.. ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.PlatformNotSupportedException: This instance contains state that cannot be serialized and deserialized on this platform.
+   at System.Security.Claims.ClaimsPrincipal.OnSerializingMethod(StreamingContext context)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at Newtonsoft.Json.Serialization.JsonContract.<>c__DisplayClass57_0.<CreateSerializationCallback>b__0(Object o, StreamingContext context)
+   at Newtonsoft.Json.Serialization.JsonContract.InvokeOnSerializing(Object o, StreamingContext context)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.OnSerializing(JsonWriter writer, JsonContract contract, Object value)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.SerializeObject(JsonWriter writer, Object value, JsonObjectContract contract, JsonProperty member, JsonContainerContract collectionContract, JsonProperty containerProperty)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalWriter.Serialize(JsonWriter jsonWriter, Object value, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.SerializeInternal(JsonWriter jsonWriter, Object value, Type objectType)
+   at Newtonsoft.Json.JsonConvert.SerializeObjectInternal(Object value, Type type, JsonSerializer jsonSerializer)
+   at NetCore.Api.Commons.AopInterceptorAttribute.<Invoke>d__0.MoveNext() in E:\Works\Repositories\NetCore.API\NetCore.Api.Commons\AopInterceptorAttribute.cs:line 93
+   --- End of inner exception stack trace ---
+   at AspectCore.DynamicProxy.AspectActivator.Invoke[TResult](AspectActivatorContext activatorContext)
+   at AspectCore.DynamicGenerated.AuthenticationService.AuthenticateAsync(HttpContext context, String scheme)
+   at Microsoft.AspNetCore.Authentication.AuthenticationHttpContextExtensions.AuthenticateAsync(HttpContext context, String scheme)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.<Invoke>d__6.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.<Invoke>d__7.MoveNext()
+

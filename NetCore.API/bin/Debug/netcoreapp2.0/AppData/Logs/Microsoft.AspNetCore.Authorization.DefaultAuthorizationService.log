@@ -1,0 +1,204 @@
+[2018-06-10 14:44:27.2066] INFO  Microsoft.AspNetCore.Authorization.DefaultAuthorizationService: 
+Authorization failed for user: (null).
+
+[2018-06-10 14:44:27.2317] ERROR Microsoft.AspNetCore.Authorization.DefaultAuthorizationService: 
+{
+  "Id": 1126394014675501056,
+  "Namespace": "Microsoft.AspNetCore.Authorization",
+  "ClassName": "DefaultAuthorizationService",
+  "MethodName": "AuthorizeAsync",
+  "Parameter": "{\r\n  \"ClaimsPrincipal\": \"System.Security.Claims.ClaimsPrincipal\",\r\n  \"AuthorizationFilterContext\": \"Microsoft.AspNetCore.Mvc.Filters.AuthorizationFilterContext\",\r\n  \"ReadOnlyCollection`1\": \"[\\r\\n  {}\\r\\n]\"\r\n}",
+  "ResultValue": "{\r\n  \"Result\": {\r\n    \"Succeeded\": false,\r\n    \"Failure\": {\r\n      \"FailCalled\": false,\r\n      \"FailedRequirements\": [\r\n        {}\r\n      ]\r\n    }\r\n  },\r\n  \"Id\": 201,\r\n  \"Exception\": null,\r\n  \"Status\": 5,\r\n  \"IsCanceled\": false,\r\n  \"IsCompleted\": true,\r\n  \"IsCompletedSuccessfully\": true,\r\n  \"CreationOptions\": 0,\r\n  \"AsyncState\": null,\r\n  \"IsFaulted\": false\r\n}",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-06-10 14:44:26",
+  "ExecTime": "14"
+}
+
+[2018-06-10 16:10:45.5838] INFO  Microsoft.AspNetCore.Authorization.DefaultAuthorizationService: 
+Authorization failed for user: (null).
+
+[2018-06-10 16:10:45.6012] ERROR Microsoft.AspNetCore.Authorization.DefaultAuthorizationService: 
+{
+  "Id": 1126741536633454592,
+  "Namespace": "Microsoft.AspNetCore.Authorization",
+  "ClassName": "DefaultAuthorizationService",
+  "MethodName": "AuthorizeAsync",
+  "Parameter": "{\r\n  \"ClaimsPrincipal\": \"System.Security.Claims.ClaimsPrincipal\",\r\n  \"AuthorizationFilterContext\": \"Microsoft.AspNetCore.Mvc.Filters.AuthorizationFilterContext\",\r\n  \"ReadOnlyCollection`1\": \"[\\r\\n  {}\\r\\n]\"\r\n}",
+  "ResultValue": "{\r\n  \"Result\": {\r\n    \"Succeeded\": false,\r\n    \"Failure\": {\r\n      \"FailCalled\": false,\r\n      \"FailedRequirements\": [\r\n        {}\r\n      ]\r\n    }\r\n  },\r\n  \"Id\": 112,\r\n  \"Exception\": null,\r\n  \"Status\": 5,\r\n  \"IsCanceled\": false,\r\n  \"IsCompleted\": true,\r\n  \"IsCompletedSuccessfully\": true,\r\n  \"CreationOptions\": 0,\r\n  \"AsyncState\": null,\r\n  \"IsFaulted\": false\r\n}",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-06-10 16:10:45",
+  "ExecTime": "15"
+}
+
+[2018-06-10 16:16:15.1107] INFO  Microsoft.AspNetCore.Authorization.DefaultAuthorizationService: 
+Authorization failed for user: (null).
+
+[2018-06-10 16:16:15.1249] ERROR Microsoft.AspNetCore.Authorization.DefaultAuthorizationService: 
+{
+  "Id": 1126763649916207104,
+  "Namespace": "Microsoft.AspNetCore.Authorization",
+  "ClassName": "DefaultAuthorizationService",
+  "MethodName": "AuthorizeAsync",
+  "Parameter": "{\r\n  \"ClaimsPrincipal\": \"System.Security.Claims.ClaimsPrincipal\",\r\n  \"AuthorizationFilterContext\": \"Microsoft.AspNetCore.Mvc.Filters.AuthorizationFilterContext\",\r\n  \"ReadOnlyCollection`1\": \"[\\r\\n  {}\\r\\n]\"\r\n}",
+  "ResultValue": "{\r\n  \"Result\": {\r\n    \"Succeeded\": false,\r\n    \"Failure\": {\r\n      \"FailCalled\": false,\r\n      \"FailedRequirements\": [\r\n        {}\r\n      ]\r\n    }\r\n  },\r\n  \"Id\": 88,\r\n  \"Exception\": null,\r\n  \"Status\": 5,\r\n  \"IsCanceled\": false,\r\n  \"IsCompleted\": true,\r\n  \"IsCompletedSuccessfully\": true,\r\n  \"CreationOptions\": 0,\r\n  \"AsyncState\": null,\r\n  \"IsFaulted\": false\r\n}",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-06-10 16:16:14",
+  "ExecTime": "14"
+}
+
+[2018-06-10 16:19:45.5526] INFO  Microsoft.AspNetCore.Authorization.DefaultAuthorizationService: 
+Authorization failed for user: (null).
+
+[2018-06-10 16:19:50.2077] ERROR Microsoft.AspNetCore.Authorization.DefaultAuthorizationService: 
+{
+  "Id": 1126776192898433024,
+  "Namespace": "Microsoft.AspNetCore.Authorization",
+  "ClassName": "DefaultAuthorizationService",
+  "MethodName": "AuthorizeAsync",
+  "Parameter": "{\r\n  \"ClaimsPrincipal\": \"System.Security.Claims.ClaimsPrincipal\",\r\n  \"AuthorizationFilterContext\": \"Microsoft.AspNetCore.Mvc.Filters.AuthorizationFilterContext\",\r\n  \"ReadOnlyCollection`1\": \"[\\r\\n  {}\\r\\n]\"\r\n}",
+  "ResultValue": "{\r\n  \"Result\": {\r\n    \"Succeeded\": false,\r\n    \"Failure\": {\r\n      \"FailCalled\": false,\r\n      \"FailedRequirements\": [\r\n        {}\r\n      ]\r\n    }\r\n  },\r\n  \"Id\": 113,\r\n  \"Exception\": null,\r\n  \"Status\": 5,\r\n  \"IsCanceled\": false,\r\n  \"IsCompleted\": true,\r\n  \"IsCompletedSuccessfully\": true,\r\n  \"CreationOptions\": 0,\r\n  \"AsyncState\": null,\r\n  \"IsFaulted\": false\r\n}",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-06-10 16:19:22",
+  "ExecTime": "129"
+}
+
+[2018-06-10 16:33:33.1726] INFO  Microsoft.AspNetCore.Authorization.DefaultAuthorizationService: 
+Authorization failed for user: (null).
+
+[2018-06-10 16:33:37.1520] ERROR Microsoft.AspNetCore.Authorization.DefaultAuthorizationService: 
+{
+  "Id": 1126832704318144512,
+  "Namespace": "Microsoft.AspNetCore.Authorization",
+  "ClassName": "DefaultAuthorizationService",
+  "MethodName": "AuthorizeAsync",
+  "Parameter": "{\r\n  \"ClaimsPrincipal\": \"System.Security.Claims.ClaimsPrincipal\",\r\n  \"AuthorizationFilterContext\": \"Microsoft.AspNetCore.Mvc.Filters.AuthorizationFilterContext\",\r\n  \"ReadOnlyCollection`1\": \"[\\r\\n  {}\\r\\n]\"\r\n}",
+  "ResultValue": "{\r\n  \"Result\": {\r\n    \"Succeeded\": false,\r\n    \"Failure\": {\r\n      \"FailCalled\": false,\r\n      \"FailedRequirements\": [\r\n        {}\r\n      ]\r\n    }\r\n  },\r\n  \"Id\": 108,\r\n  \"Exception\": null,\r\n  \"Status\": 5,\r\n  \"IsCanceled\": false,\r\n  \"IsCompleted\": true,\r\n  \"IsCompletedSuccessfully\": true,\r\n  \"CreationOptions\": 0,\r\n  \"AsyncState\": null,\r\n  \"IsFaulted\": false\r\n}",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-06-10 16:33:24",
+  "ExecTime": "768"
+}
+
+[2018-06-10 16:36:38.5057] INFO  Microsoft.AspNetCore.Authorization.DefaultAuthorizationService: 
+Authorization failed for user: (null).
+
+[2018-06-10 16:36:38.5057] ERROR Microsoft.AspNetCore.Authorization.DefaultAuthorizationService: 
+{
+  "Id": 1126845752831442944,
+  "Namespace": "Microsoft.AspNetCore.Authorization",
+  "ClassName": "DefaultAuthorizationService",
+  "MethodName": "AuthorizeAsync",
+  "Parameter": "{\r\n  \"ClaimsPrincipal\": \"System.Security.Claims.ClaimsPrincipal\",\r\n  \"AuthorizationFilterContext\": \"Microsoft.AspNetCore.Mvc.Filters.AuthorizationFilterContext\",\r\n  \"ReadOnlyCollection`1\": \"[\\r\\n  {}\\r\\n]\"\r\n}",
+  "ResultValue": "{\r\n  \"Result\": {\r\n    \"Succeeded\": false,\r\n    \"Failure\": {\r\n      \"FailCalled\": false,\r\n      \"FailedRequirements\": [\r\n        {}\r\n      ]\r\n    }\r\n  },\r\n  \"Id\": 129,\r\n  \"Exception\": null,\r\n  \"Status\": 5,\r\n  \"IsCanceled\": false,\r\n  \"IsCompleted\": true,\r\n  \"IsCompletedSuccessfully\": true,\r\n  \"CreationOptions\": 0,\r\n  \"AsyncState\": null,\r\n  \"IsFaulted\": false\r\n}",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-06-10 16:36:38",
+  "ExecTime": "9"
+}
+
+[2018-06-10 16:41:53.2527] INFO  Microsoft.AspNetCore.Authorization.DefaultAuthorizationService: 
+Authorization failed for user: (null).
+
+[2018-06-10 16:41:53.2545] ERROR Microsoft.AspNetCore.Authorization.DefaultAuthorizationService: 
+{
+  "Id": 1126866873644220416,
+  "Namespace": "Microsoft.AspNetCore.Authorization",
+  "ClassName": "DefaultAuthorizationService",
+  "MethodName": "AuthorizeAsync",
+  "Parameter": "{\r\n  \"ClaimsPrincipal\": \"System.Security.Claims.ClaimsPrincipal\",\r\n  \"AuthorizationFilterContext\": \"Microsoft.AspNetCore.Mvc.Filters.AuthorizationFilterContext\",\r\n  \"ReadOnlyCollection`1\": \"[\\r\\n  {}\\r\\n]\"\r\n}",
+  "ResultValue": "{\r\n  \"Result\": {\r\n    \"Succeeded\": false,\r\n    \"Failure\": {\r\n      \"FailCalled\": false,\r\n      \"FailedRequirements\": [\r\n        {}\r\n      ]\r\n    }\r\n  },\r\n  \"Id\": 88,\r\n  \"Exception\": null,\r\n  \"Status\": 5,\r\n  \"IsCanceled\": false,\r\n  \"IsCompleted\": true,\r\n  \"IsCompletedSuccessfully\": true,\r\n  \"CreationOptions\": 0,\r\n  \"AsyncState\": null,\r\n  \"IsFaulted\": false\r\n}",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-06-10 16:41:53",
+  "ExecTime": "12"
+}
+
+[2018-06-10 16:46:48.7461] INFO  Microsoft.AspNetCore.Authorization.DefaultAuthorizationService: 
+Authorization failed for user: (null).
+
+[2018-06-10 16:46:48.7604] ERROR Microsoft.AspNetCore.Authorization.DefaultAuthorizationService: 
+{
+  "Id": 1126886702901231616,
+  "Namespace": "Microsoft.AspNetCore.Authorization",
+  "ClassName": "DefaultAuthorizationService",
+  "MethodName": "AuthorizeAsync",
+  "Parameter": "{\r\n  \"ClaimsPrincipal\": \"System.Security.Claims.ClaimsPrincipal\",\r\n  \"AuthorizationFilterContext\": \"Microsoft.AspNetCore.Mvc.Filters.AuthorizationFilterContext\",\r\n  \"ReadOnlyCollection`1\": \"[\\r\\n  {}\\r\\n]\"\r\n}",
+  "ResultValue": "{\r\n  \"Result\": {\r\n    \"Succeeded\": false,\r\n    \"Failure\": {\r\n      \"FailCalled\": false,\r\n      \"FailedRequirements\": [\r\n        {}\r\n      ]\r\n    }\r\n  },\r\n  \"Id\": 82,\r\n  \"Exception\": null,\r\n  \"Status\": 5,\r\n  \"IsCanceled\": false,\r\n  \"IsCompleted\": true,\r\n  \"IsCompletedSuccessfully\": true,\r\n  \"CreationOptions\": 0,\r\n  \"AsyncState\": null,\r\n  \"IsFaulted\": false\r\n}",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-06-10 16:46:48",
+  "ExecTime": "13"
+}
+
+[2018-06-10 17:00:20.4038] INFO  Microsoft.AspNetCore.Authorization.DefaultAuthorizationService: 
+Authorization was successful for user: appName.
+
+[2018-06-10 17:00:20.4144] ERROR Microsoft.AspNetCore.Authorization.DefaultAuthorizationService: 
+{
+  "Id": 1126941172737179648,
+  "Namespace": "Microsoft.AspNetCore.Authorization",
+  "ClassName": "DefaultAuthorizationService",
+  "MethodName": "AuthorizeAsync",
+  "Parameter": "{\r\n  \"ClaimsPrincipal\": \"System.Security.Claims.ClaimsPrincipal\",\r\n  \"AuthorizationFilterContext\": \"Microsoft.AspNetCore.Mvc.Filters.AuthorizationFilterContext\",\r\n  \"ReadOnlyCollection`1\": \"[\\r\\n  {}\\r\\n]\"\r\n}",
+  "ResultValue": "{\r\n  \"Result\": {\r\n    \"Succeeded\": true,\r\n    \"Failure\": null\r\n  },\r\n  \"Id\": 101,\r\n  \"Exception\": null,\r\n  \"Status\": 5,\r\n  \"IsCanceled\": false,\r\n  \"IsCompleted\": true,\r\n  \"IsCompletedSuccessfully\": true,\r\n  \"CreationOptions\": 0,\r\n  \"AsyncState\": null,\r\n  \"IsFaulted\": false\r\n}",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-06-10 17:00:20",
+  "ExecTime": "12"
+}
+
+[2018-06-10 17:01:05.5162] INFO  Microsoft.AspNetCore.Authorization.DefaultAuthorizationService: 
+Authorization was successful for user: appName.
+
+[2018-06-10 17:01:05.5212] ERROR Microsoft.AspNetCore.Authorization.DefaultAuthorizationService: 
+{
+  "Id": 1126944201628647424,
+  "Namespace": "Microsoft.AspNetCore.Authorization",
+  "ClassName": "DefaultAuthorizationService",
+  "MethodName": "AuthorizeAsync",
+  "Parameter": "{\r\n  \"ClaimsPrincipal\": \"System.Security.Claims.ClaimsPrincipal\",\r\n  \"AuthorizationFilterContext\": \"Microsoft.AspNetCore.Mvc.Filters.AuthorizationFilterContext\",\r\n  \"ReadOnlyCollection`1\": \"[\\r\\n  {}\\r\\n]\"\r\n}",
+  "ResultValue": "{\r\n  \"Result\": {\r\n    \"Succeeded\": true,\r\n    \"Failure\": null\r\n  },\r\n  \"Id\": 116,\r\n  \"Exception\": null,\r\n  \"Status\": 5,\r\n  \"IsCanceled\": false,\r\n  \"IsCompleted\": true,\r\n  \"IsCompletedSuccessfully\": true,\r\n  \"CreationOptions\": 0,\r\n  \"AsyncState\": null,\r\n  \"IsFaulted\": false\r\n}",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-06-10 17:01:05",
+  "ExecTime": "8"
+}
+
+[2018-06-10 17:17:07.2284] INFO  Microsoft.AspNetCore.Authorization.DefaultAuthorizationService: 
+Authorization failed for user: (null).
+
+[2018-06-10 17:17:07.2284] ERROR Microsoft.AspNetCore.Authorization.DefaultAuthorizationService: 
+{
+  "Id": 1127008747280400384,
+  "Namespace": "Microsoft.AspNetCore.Authorization",
+  "ClassName": "DefaultAuthorizationService",
+  "MethodName": "AuthorizeAsync",
+  "Parameter": "{\r\n  \"ClaimsPrincipal\": \"System.Security.Claims.ClaimsPrincipal\",\r\n  \"AuthorizationFilterContext\": \"Microsoft.AspNetCore.Mvc.Filters.AuthorizationFilterContext\",\r\n  \"ReadOnlyCollection`1\": \"[\\r\\n  {}\\r\\n]\"\r\n}",
+  "ResultValue": "{\r\n  \"Result\": {\r\n    \"Succeeded\": false,\r\n    \"Failure\": {\r\n      \"FailCalled\": false,\r\n      \"FailedRequirements\": [\r\n        {}\r\n      ]\r\n    }\r\n  },\r\n  \"Id\": 2,\r\n  \"Exception\": null,\r\n  \"Status\": 5,\r\n  \"IsCanceled\": false,\r\n  \"IsCompleted\": true,\r\n  \"IsCompletedSuccessfully\": true,\r\n  \"CreationOptions\": 0,\r\n  \"AsyncState\": null,\r\n  \"IsFaulted\": false\r\n}",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-06-10 17:17:07",
+  "ExecTime": "5"
+}
+
+[2018-06-10 17:34:45.0152] INFO  Microsoft.AspNetCore.Authorization.DefaultAuthorizationService: 
+Authorization was successful for user: appName.
+
+[2018-06-10 17:34:45.0267] ERROR Microsoft.AspNetCore.Authorization.DefaultAuthorizationService: 
+{
+  "Id": 1127079725777682432,
+  "Namespace": "Microsoft.AspNetCore.Authorization",
+  "ClassName": "DefaultAuthorizationService",
+  "MethodName": "AuthorizeAsync",
+  "Parameter": "{\r\n  \"ClaimsPrincipal\": \"System.Security.Claims.ClaimsPrincipal\",\r\n  \"AuthorizationFilterContext\": \"Microsoft.AspNetCore.Mvc.Filters.AuthorizationFilterContext\",\r\n  \"ReadOnlyCollection`1\": \"[\\r\\n  {}\\r\\n]\"\r\n}",
+  "ResultValue": "{\r\n  \"Result\": {\r\n    \"Succeeded\": true,\r\n    \"Failure\": null\r\n  },\r\n  \"Id\": 100,\r\n  \"Exception\": null,\r\n  \"Status\": 5,\r\n  \"IsCanceled\": false,\r\n  \"IsCompleted\": true,\r\n  \"IsCompletedSuccessfully\": true,\r\n  \"CreationOptions\": 0,\r\n  \"AsyncState\": null,\r\n  \"IsFaulted\": false\r\n}",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-06-10 17:34:44",
+  "ExecTime": "10"
+}
+

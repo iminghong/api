@@ -1,0 +1,390 @@
+[2018-04-26 11:03:24.2288] FATAL Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Application startup exception
+System.IO.FileNotFoundException: Could not find file 'D:\team\NetCore.API\NetCore.API\bin\Debug\netcoreapp2.0\NetCore.Api.xml'.
+File name: 'D:\team\NetCore.API\NetCore.API\bin\Debug\netcoreapp2.0\NetCore.Api.xml'
+   at System.IO.FileStream.OpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   at System.Xml.XmlDownloadManager.GetStream(Uri uri, ICredentials credentials, IWebProxy proxy, RequestCachePolicy cachePolicy)
+   at System.Xml.XmlUrlResolver.GetEntity(Uri absoluteUri, String role, Type ofObjectToReturn)
+   at System.Xml.XmlTextReaderImpl.OpenUrl()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at System.Xml.XPath.XPathDocument.LoadFromReader(XmlReader reader, XmlSpace space)
+   at System.Xml.XPath.XPathDocument..ctor(String uri, XmlSpace space)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenOptions.<>c__DisplayClass28_0.<IncludeXmlComments>b__0()
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenOptions.CreateSwaggerProvider(IServiceProvider serviceProvider)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitFactory(FactoryCallSite factoryCallSite, ServiceProvider provider)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(IServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitTransient(TransientCallSite transientCallSite, ServiceProvider provider)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(IServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.<>c__DisplayClass22_0.<RealizeService>b__0(ServiceProvider provider)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.GetService(Type serviceType)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.ConstructorMatcher.CreateInstance(IServiceProvider provider)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.<>c__DisplayClass4_0.<UseMiddleware>b__0(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.Internal.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Hosting.Internal.WebHost.BuildApplication()
+
+[2018-04-26 11:03:25.0435] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:58563/api/values  
+
+[2018-04-26 11:03:25.1518] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 196.1994ms 500 text/html; charset=utf-8
+
+[2018-04-26 11:03:25.3186] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:58563/favicon.ico  
+
+[2018-04-26 11:03:25.3570] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 38.0245ms 500 text/html; charset=utf-8
+
+[2018-04-26 11:08:42.6494] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:58563/api/values  
+
+[2018-04-26 11:08:43.7667] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 1154.3192ms 200 application/json; charset=utf-8
+
+[2018-04-26 11:08:43.8110] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:58563/favicon.ico  
+
+[2018-04-26 11:08:43.8305] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 12.6859ms 404 
+
+[2018-04-26 11:14:51.6261] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:58563/swagger/ui/index.html  
+
+[2018-04-26 11:14:51.8157] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 219.9723ms 404 
+
+[2018-04-26 11:15:01.7460] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:58563/swagger  
+
+[2018-04-26 11:15:01.7551] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 3.8577ms 301 
+
+[2018-04-26 11:15:01.7551] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:58563/swagger/  
+
+[2018-04-26 11:15:01.9292] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 162.8819ms 200 text/html
+
+[2018-04-26 11:15:01.9410] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:58563/swagger/swagger-ui.css  
+
+[2018-04-26 11:15:02.0502] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 108.4747ms 200 text/css
+
+[2018-04-26 11:15:02.8038] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:58563/swagger/swagger-ui-bundle.js  
+
+[2018-04-26 11:15:02.8038] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:58563/swagger/swagger-ui-standalone-preset.js  
+
+[2018-04-26 11:15:03.1663] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 358.8857ms 200 application/javascript
+
+[2018-04-26 11:15:03.9450] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 1126.5322ms 200 application/javascript
+
+[2018-04-26 11:15:04.3558] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:58563/swagger/v1/swagger.json  
+
+[2018-04-26 11:15:04.3914] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:58563/swagger/favicon-32x32.png  
+
+[2018-04-26 11:15:04.4059] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 11.8353ms 200 image/png
+
+[2018-04-26 11:15:04.4059] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:58563/swagger/swagger-ui-bundle.js.map  
+
+[2018-04-26 11:15:04.4059] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 3.3396ms 404 
+
+[2018-04-26 11:15:04.4059] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:58563/swagger/swagger-ui-standalone-preset.js.map  
+
+[2018-04-26 11:15:04.4230] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 2.5142ms 404 
+
+[2018-04-26 11:15:04.6631] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 307.1389ms 200 application/json
+
+[2018-04-26 11:15:05.0248] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:58563/swagger/favicon-16x16.png  
+
+[2018-04-26 11:15:05.0523] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 21.1182ms 200 image/png
+
+[2018-04-26 11:15:14.4625] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:58563/api/CFDAppInfo/Get  
+
+[2018-04-26 11:22:54.3655] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:58563/swagger/ui/index.html  
+
+[2018-04-26 11:22:54.5513] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 217.0143ms 404 
+
+[2018-04-26 11:23:00.2472] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:58563/swagger/  
+
+[2018-04-26 11:23:00.2998] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 35.3242ms 200 text/html
+
+[2018-04-26 11:23:00.6928] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:58563/swagger/v1/swagger.json  
+
+[2018-04-26 11:23:00.7247] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:58563/swagger/swagger-ui-bundle.js.map  
+
+[2018-04-26 11:23:00.7373] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 6.5419ms 404 
+
+[2018-04-26 11:23:00.7373] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:58563/swagger/swagger-ui-standalone-preset.js.map  
+
+[2018-04-26 11:23:00.7497] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 3.403ms 404 
+
+[2018-04-26 11:23:00.9029] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 211.3628ms 200 application/json
+
+[2018-04-26 11:23:09.3922] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:58563/api/CFDAppInfo/Get  
+
+[2018-04-26 11:23:11.0374] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 1645.5102ms 200 text/plain; charset=utf-8
+
+[2018-04-26 11:25:38.6163] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:58563/swagger/  
+
+[2018-04-26 11:25:38.7318] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 142.6422ms 200 text/html
+
+[2018-04-26 11:25:39.1813] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:58563/swagger/v1/swagger.json  
+
+[2018-04-26 11:25:39.2280] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:58563/swagger/swagger-ui-bundle.js.map  
+
+[2018-04-26 11:25:39.3149] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 81.6868ms 404 
+
+[2018-04-26 11:25:39.3149] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:58563/swagger/swagger-ui-standalone-preset.js.map  
+
+[2018-04-26 11:25:39.3304] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 3.0491ms 404 
+
+[2018-04-26 11:25:39.4461] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 264.006ms 200 application/json
+
+[2018-04-26 11:25:43.9441] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:58563/api/CFDAppInfo/Get  
+
+[2018-04-26 11:25:45.0702] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 1131.3676ms 200 text/plain; charset=utf-8
+
+[2018-04-26 11:33:27.2597] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:58563/swagger/  
+
+[2018-04-26 11:33:27.3936] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 166.1648ms 200 text/html
+
+[2018-04-26 11:33:27.9241] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:58563/swagger/v1/swagger.json  
+
+[2018-04-26 11:33:28.1366] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 211.6004ms 200 application/json
+
+[2018-04-26 11:33:28.3772] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:58563/swagger/swagger-ui-bundle.js.map  
+
+[2018-04-26 11:33:28.4269] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 44.9112ms 404 
+
+[2018-04-26 11:33:28.4378] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:58563/swagger/swagger-ui-standalone-preset.js.map  
+
+[2018-04-26 11:33:28.4756] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 38.6181ms 404 
+
+[2018-04-26 11:33:58.7276] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:58563/api/CFDAppInfo/Get  
+
+[2018-04-26 11:34:06.5652] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 7837.0989ms 200 text/plain; charset=utf-8
+
+[2018-04-26 11:34:11.0684] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:58563/api/CFDAppInfo/Get  
+
+[2018-04-26 11:35:32.5095] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 81445.5264ms 200 text/plain; charset=utf-8
+
+[2018-04-26 11:36:22.2000] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:58563/swagger/  
+
+[2018-04-26 11:36:22.3396] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 158.9169ms 200 text/html
+
+[2018-04-26 11:36:22.7818] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:58563/swagger/v1/swagger.json  
+
+[2018-04-26 11:36:22.8478] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:58563/swagger/swagger-ui-bundle.js.map  
+
+[2018-04-26 11:36:22.9276] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 69.3074ms 404 
+
+[2018-04-26 11:36:22.9449] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:58563/swagger/swagger-ui-standalone-preset.js.map  
+
+[2018-04-26 11:36:22.9449] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 3.1395ms 404 
+
+[2018-04-26 11:36:23.0695] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 284.5222ms 200 application/json
+
+[2018-04-26 11:36:27.8641] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:58563/api/CFDAppInfo/Get  
+
+[2018-04-26 11:36:30.6250] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 2765.6544ms 200 text/plain; charset=utf-8
+
+[2018-04-26 11:37:22.4975] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:58563/swagger/  
+
+[2018-04-26 11:37:22.6448] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 167.1076ms 200 text/html
+
+[2018-04-26 11:37:23.0613] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:58563/swagger/v1/swagger.json  
+
+[2018-04-26 11:37:23.1092] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:58563/swagger/swagger-ui-bundle.js.map  
+
+[2018-04-26 11:37:23.1986] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 88.6992ms 404 
+
+[2018-04-26 11:37:23.2095] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:58563/swagger/swagger-ui-standalone-preset.js.map  
+
+[2018-04-26 11:37:23.2095] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 2.9658ms 404 
+
+[2018-04-26 11:37:23.3460] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 278.7099ms 200 application/json
+
+[2018-04-26 11:37:28.3770] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:58563/api/CFDAppInfo/Get  
+
+[2018-04-26 11:37:31.3478] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 2975.7195ms 200 text/plain; charset=utf-8
+
+[2018-04-26 11:54:52.8408] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:58563/swagger/  
+
+[2018-04-26 11:54:52.9827] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 168.0633ms 200 text/html
+
+[2018-04-26 11:54:53.3953] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:58563/swagger/v1/swagger.json  
+
+[2018-04-26 11:54:53.4672] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:58563/swagger/swagger-ui-bundle.js.map  
+
+[2018-04-26 11:54:53.6425] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 185.9256ms 404 
+
+[2018-04-26 11:54:53.6619] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:58563/swagger/swagger-ui-standalone-preset.js.map  
+
+[2018-04-26 11:54:53.6619] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 5.7866ms 404 
+
+[2018-04-26 11:54:53.8081] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 412.5881ms 200 application/json
+
+[2018-04-26 11:54:59.0074] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:58563/api/CFDAppInfo/Get  
+
+[2018-04-26 11:55:16.1413] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 17142.8616ms 200 text/plain; charset=utf-8
+
+[2018-04-26 11:56:51.6709] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:58563/api/CFDAppInfo/Get  
+
+[2018-04-26 11:57:29.5061] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 37835.2271ms 200 text/plain; charset=utf-8
+
+[2018-04-26 11:58:42.7504] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:58563/swagger/  
+
+[2018-04-26 11:58:42.8783] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 154.995ms 200 text/html
+
+[2018-04-26 11:58:43.3447] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:58563/swagger/v1/swagger.json  
+
+[2018-04-26 11:58:43.4001] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:58563/swagger/swagger-ui-bundle.js.map  
+
+[2018-04-26 11:58:43.5962] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 195.8608ms 404 
+
+[2018-04-26 11:58:43.5962] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:58563/swagger/swagger-ui-standalone-preset.js.map  
+
+[2018-04-26 11:58:43.6136] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 6.7836ms 404 
+
+[2018-04-26 11:58:43.6931] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 361.7208ms 200 application/json
+
+[2018-04-26 11:58:55.6712] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:58563/api/CFDAppInfo/Get  
+
+[2018-04-26 11:58:57.0391] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 1375.2906ms 200 text/plain; charset=utf-8
+
+[2018-04-26 11:58:58.7793] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:58563/api/CFDAppInfo/Get  
+
+[2018-04-26 11:58:59.0985] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 318.1083ms 200 text/plain; charset=utf-8
+
+[2018-04-26 12:00:16.4939] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:58563/swagger/  
+
+[2018-04-26 12:00:16.7078] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 206.5937ms 200 text/html
+
+[2018-04-26 12:00:17.0860] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:58563/swagger/v1/swagger.json  
+
+[2018-04-26 12:00:17.1828] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:58563/swagger/swagger-ui-bundle.js.map  
+
+[2018-04-26 12:00:17.4162] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 262.4464ms 404 
+
+[2018-04-26 12:00:17.4629] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:58563/swagger/swagger-ui-standalone-preset.js.map  
+
+[2018-04-26 12:00:17.5410] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 87.2048ms 404 
+
+[2018-04-26 12:00:17.6512] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 565.0081ms 200 application/json
+
+[2018-04-26 12:00:21.0973] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:58563/api/CFDAppInfo/Get  
+
+[2018-04-26 12:00:22.9922] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 1894.5184ms 200 text/plain; charset=utf-8
+
+[2018-04-26 12:00:42.2705] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request starting HTTP/1.1 GET http://localhost:58563/api/CFDAppInfo/Get  
+
+[2018-04-26 12:00:42.9379] INFO  Microsoft.AspNetCore.Hosting.Internal.WebHost: 
+Request finished in 681.157ms 200 text/plain; charset=utf-8
+

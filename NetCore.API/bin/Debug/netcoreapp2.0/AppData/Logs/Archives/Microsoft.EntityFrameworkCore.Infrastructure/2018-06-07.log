@@ -1,0 +1,9 @@
+[2018-06-04 21:28:01.5916] INFO  Microsoft.EntityFrameworkCore.Infrastructure: 
+Entity Framework Core 2.0.2-rtm-10011 initialized 'EfDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+
+[2018-06-04 21:29:47.4037] INFO  Microsoft.EntityFrameworkCore.Infrastructure: 
+Entity Framework Core 2.0.2-rtm-10011 initialized 'EfDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+
+[2018-06-04 21:33:27.6544] INFO  Microsoft.EntityFrameworkCore.Infrastructure: 
+Entity Framework Core 2.0.2-rtm-10011 initialized 'EfDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+

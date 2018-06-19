@@ -1,0 +1,163 @@
+[2018-04-26 11:15:15.6041] DEBUG NetCore.Api.Service.CFDAppInfoService: 
+end
+
+[2018-04-26 11:23:11.0106] DEBUG NetCore.Api.Service.CFDAppInfoService: 
+end
+
+[2018-04-26 11:25:45.0478] ERROR NetCore.Api.Service.CFDAppInfoService: 
+{
+  "Id": 864674637945503744,
+  "Namespace": "NetCore.Api.Service",
+  "ClassName": "CFDAppInfoService",
+  "MethodName": "Get",
+  "Parameter": "[]",
+  "ResultValue": "\"{\\r\\n  \\\"Appid\\\": 8,\\r\\n  \\\"Proxyid\\\": 32,\\r\\n  \\\"appkey\\\": \\\"5b0799fed5b0461681d371c015b23282\\\",\\r\\n  \\\"appsecret\\\": \\\"9B1446FFA6FAE8A2DED52D0BC5F611B50FD7EACB3DED6809221A016A861E3A953573CE8856DFAE68\\\",\\r\\n  \\\"timeout\\\": \\\"2018-11-20 15:10:36\\\",\\r\\n  \\\"updatetime\\\": \\\"2018-04-26 11:25:44\\\"\\r\\n}\"",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-04-26 11:25:44",
+  "ExecTime": "684"
+}
+
+[2018-04-26 11:34:06.5376] ERROR NetCore.Api.Service.CFDAppInfoService: 
+{
+  "Id": 864708292765024256,
+  "Namespace": "NetCore.Api.Service",
+  "ClassName": "CFDAppInfoService",
+  "MethodName": "Get",
+  "Parameter": "[]",
+  "ResultValue": "\"{\\r\\n  \\\"Appid\\\": 8,\\r\\n  \\\"Proxyid\\\": 32,\\r\\n  \\\"appkey\\\": \\\"5b0799fed5b0461681d371c015b23282\\\",\\r\\n  \\\"appsecret\\\": \\\"9B1446FFA6FAE8A2DED52D0BC5F611B50FD7EACB3DED6809221A016A861E3A953573CE8856DFAE68\\\",\\r\\n  \\\"timeout\\\": \\\"2018-11-20 15:10:36\\\",\\r\\n  \\\"updatetime\\\": \\\"2018-04-26 11:34:06\\\"\\r\\n}\"",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-04-26 11:34:05",
+  "ExecTime": "679"
+}
+
+[2018-04-26 11:35:26.3962] ERROR NetCore.Api.Service.CFDAppInfoService: 
+{
+  "Id": 864710079874072576,
+  "Namespace": "NetCore.Api.Service",
+  "ClassName": "CFDAppInfoService",
+  "MethodName": "Get",
+  "Parameter": "[]",
+  "ResultValue": "\"{\\r\\n  \\\"Appid\\\": 8,\\r\\n  \\\"Proxyid\\\": 32,\\r\\n  \\\"appkey\\\": \\\"5b0799fed5b0461681d371c015b23282\\\",\\r\\n  \\\"appsecret\\\": \\\"9B1446FFA6FAE8A2DED52D0BC5F611B50FD7EACB3DED6809221A016A861E3A953573CE8856DFAE68\\\",\\r\\n  \\\"timeout\\\": \\\"2018-11-20 15:10:36\\\",\\r\\n  \\\"updatetime\\\": \\\"2018-04-26 11:34:47\\\"\\r\\n}\"",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-04-26 11:34:32",
+  "ExecTime": "403"
+}
+
+[2018-04-26 11:36:30.5986] ERROR NetCore.Api.Service.CFDAppInfoService: 
+{
+  "Id": 864717960264351744,
+  "Namespace": "NetCore.Api.Service",
+  "ClassName": "CFDAppInfoService",
+  "MethodName": "Get",
+  "Parameter": "[]",
+  "ResultValue": "\"{\\r\\n  \\\"Appid\\\": 8,\\r\\n  \\\"Proxyid\\\": 32,\\r\\n  \\\"appkey\\\": \\\"5b0799fed5b0461681d371c015b23282\\\",\\r\\n  \\\"appsecret\\\": \\\"9B1446FFA6FAE8A2DED52D0BC5F611B50FD7EACB3DED6809221A016A861E3A953573CE8856DFAE68\\\",\\r\\n  \\\"timeout\\\": \\\"2018-11-20 15:10:36\\\",\\r\\n  \\\"updatetime\\\": \\\"2018-04-26 11:36:30\\\"\\r\\n}\"",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-04-26 11:36:29",
+  "ExecTime": "682"
+}
+
+[2018-04-26 11:37:30.6097] ERROR NetCore.Api.Service.CFDAppInfoService: 
+Before
+
+[2018-04-26 11:37:31.3259] ERROR NetCore.Api.Service.CFDAppInfoService: 
+{
+  "Id": 864722035045433344,
+  "Namespace": "NetCore.Api.Service",
+  "ClassName": "CFDAppInfoService",
+  "MethodName": "Get",
+  "Parameter": "[]",
+  "ResultValue": "\"{\\r\\n  \\\"Appid\\\": 8,\\r\\n  \\\"Proxyid\\\": 32,\\r\\n  \\\"appkey\\\": \\\"5b0799fed5b0461681d371c015b23282\\\",\\r\\n  \\\"appsecret\\\": \\\"9B1446FFA6FAE8A2DED52D0BC5F611B50FD7EACB3DED6809221A016A861E3A953573CE8856DFAE68\\\",\\r\\n  \\\"timeout\\\": \\\"2018-11-20 15:10:36\\\",\\r\\n  \\\"updatetime\\\": \\\"2018-04-26 11:37:31\\\"\\r\\n}\"",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-04-26 11:37:30",
+  "ExecTime": "694"
+}
+
+[2018-04-26 11:55:16.0776] ERROR NetCore.Api.Service.CFDAppInfoService: 
+{
+  "Id": 864793490013945856,
+  "Namespace": "NetCore.Api.Service",
+  "ClassName": "CFDAppInfoService",
+  "MethodName": "Get",
+  "Parameter": "[]",
+  "ResultValue": "\"{\\r\\n  \\\"Appid\\\": 8,\\r\\n  \\\"Proxyid\\\": 32,\\r\\n  \\\"appkey\\\": \\\"5b0799fed5b0461681d371c015b23282\\\",\\r\\n  \\\"appsecret\\\": \\\"9B1446FFA6FAE8A2DED52D0BC5F611B50FD7EACB3DED6809221A016A861E3A953573CE8856DFAE68\\\",\\r\\n  \\\"timeout\\\": \\\"2018-11-20 15:10:36\\\",\\r\\n  \\\"updatetime\\\": \\\"2018-04-26 11:55:15\\\"\\r\\n}\"",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-04-26 11:55:15",
+  "ExecTime": "683"
+}
+
+[2018-04-26 11:57:26.7711] ERROR NetCore.Api.Service.CFDAppInfoService: 
+{
+  "Id": 864800542618681344,
+  "Namespace": "NetCore.Api.Service",
+  "ClassName": "CFDAppInfoService",
+  "MethodName": "Get",
+  "Parameter": "[]",
+  "ResultValue": "\"{\\r\\n  \\\"Appid\\\": 8,\\r\\n  \\\"Proxyid\\\": 32,\\r\\n  \\\"appkey\\\": \\\"5b0799fed5b0461681d371c015b23282\\\",\\r\\n  \\\"appsecret\\\": \\\"9B1446FFA6FAE8A2DED52D0BC5F611B50FD7EACB3DED6809221A016A861E3A953573CE8856DFAE68\\\",\\r\\n  \\\"timeout\\\": \\\"2018-11-20 15:10:36\\\",\\r\\n  \\\"updatetime\\\": \\\"2018-04-26 11:57:11\\\"\\r\\n}\"",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-04-26 11:57:00",
+  "ExecTime": "788"
+}
+
+[2018-04-26 11:58:56.9752] ERROR NetCore.Api.Service.CFDAppInfoService: 
+{
+  "Id": 864808313940148224,
+  "Namespace": "NetCore.Api.Service",
+  "ClassName": "CFDAppInfoService",
+  "MethodName": "Get",
+  "Parameter": "[]",
+  "ResultValue": "\"{\\r\\n  \\\"Appid\\\": 8,\\r\\n  \\\"Proxyid\\\": 32,\\r\\n  \\\"appkey\\\": \\\"5b0799fed5b0461681d371c015b23282\\\",\\r\\n  \\\"appsecret\\\": \\\"9B1446FFA6FAE8A2DED52D0BC5F611B50FD7EACB3DED6809221A016A861E3A953573CE8856DFAE68\\\",\\r\\n  \\\"timeout\\\": \\\"2018-11-20 15:10:36\\\",\\r\\n  \\\"updatetime\\\": \\\"2018-04-26 11:58:56\\\"\\r\\n}\"",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-04-26 11:58:56",
+  "ExecTime": "686"
+}
+
+[2018-04-26 11:58:59.0666] ERROR NetCore.Api.Service.CFDAppInfoService: 
+{
+  "Id": 864808487752105984,
+  "Namespace": "NetCore.Api.Service",
+  "ClassName": "CFDAppInfoService",
+  "MethodName": "Get",
+  "Parameter": "[]",
+  "ResultValue": "\"{\\r\\n  \\\"Appid\\\": 8,\\r\\n  \\\"Proxyid\\\": 32,\\r\\n  \\\"appkey\\\": \\\"5b0799fed5b0461681d371c015b23282\\\",\\r\\n  \\\"appsecret\\\": \\\"9B1446FFA6FAE8A2DED52D0BC5F611B50FD7EACB3DED6809221A016A861E3A953573CE8856DFAE68\\\",\\r\\n  \\\"timeout\\\": \\\"2018-11-20 15:10:36\\\",\\r\\n  \\\"updatetime\\\": \\\"2018-04-26 11:58:58\\\"\\r\\n}\"",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-04-26 11:58:58",
+  "ExecTime": "208"
+}
+
+[2018-04-26 12:00:22.8682] ERROR NetCore.Api.Service.CFDAppInfoService: 
+{
+  "Id": 864814055484948480,
+  "Namespace": "NetCore.Api.Service",
+  "ClassName": "CFDAppInfoService",
+  "MethodName": "Get",
+  "Parameter": "[]",
+  "ResultValue": "\"{\\r\\n  \\\"Appid\\\": 8,\\r\\n  \\\"Proxyid\\\": 32,\\r\\n  \\\"appkey\\\": \\\"5b0799fed5b0461681d371c015b23282\\\",\\r\\n  \\\"appsecret\\\": \\\"9B1446FFA6FAE8A2DED52D0BC5F611B50FD7EACB3DED6809221A016A861E3A953573CE8856DFAE68\\\",\\r\\n  \\\"timeout\\\": \\\"2018-11-20 15:10:36\\\",\\r\\n  \\\"updatetime\\\": \\\"2018-04-26 12:00:22\\\"\\r\\n}\"",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-04-26 12:00:21",
+  "ExecTime": "23"
+}
+
+[2018-04-26 12:00:42.8822] ERROR NetCore.Api.Service.CFDAppInfoService: 
+{
+  "Id": 864815438263091200,
+  "Namespace": "NetCore.Api.Service",
+  "ClassName": "CFDAppInfoService",
+  "MethodName": "Get",
+  "Parameter": "[]",
+  "ResultValue": "\"{\\r\\n  \\\"Appid\\\": 8,\\r\\n  \\\"Proxyid\\\": 32,\\r\\n  \\\"appkey\\\": \\\"5b0799fed5b0461681d371c015b23282\\\",\\r\\n  \\\"appsecret\\\": \\\"9B1446FFA6FAE8A2DED52D0BC5F611B50FD7EACB3DED6809221A016A861E3A953573CE8856DFAE68\\\",\\r\\n  \\\"timeout\\\": \\\"2018-11-20 15:10:36\\\",\\r\\n  \\\"updatetime\\\": \\\"2018-04-26 12:00:42\\\"\\r\\n}\"",
+  "Exception": null,
+  "LogType": "api",
+  "InputTime": "2018-04-26 12:00:42",
+  "ExecTime": "452"
+}
+
